@@ -1,0 +1,22 @@
+2025-03-31 10:38:05,336 INFO    MainThread:6726 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-03-31 10:38:05,336 INFO    MainThread:6726 [wandb_setup.py:_flush():67] Configure stats pid to 6726
+2025-03-31 10:38:05,336 INFO    MainThread:6726 [wandb_setup.py:_flush():67] Loading settings from /usr4/cs505/mqraitem/.config/wandb/settings
+2025-03-31 10:38:05,336 INFO    MainThread:6726 [wandb_setup.py:_flush():67] Loading settings from /projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_reg/wandb/settings
+2025-03-31 10:38:05,336 INFO    MainThread:6726 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-31 10:38:05,336 INFO    MainThread:6726 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_reg/wandb/run-20250331_103805-stxkucwx/logs/debug.log
+2025-03-31 10:38:05,336 INFO    MainThread:6726 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_reg/wandb/run-20250331_103805-stxkucwx/logs/debug-internal.log
+2025-03-31 10:38:05,336 INFO    MainThread:6726 [wandb_init.py:init():761] calling init triggers
+2025-03-31 10:38:05,336 INFO    MainThread:6726 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'learningrate': 0.01, 'freeze': False, 'classweights': False, 'model_size': '600m', 'load_checkpoint': True, '_wandb': {}}
+2025-03-31 10:38:05,336 INFO    MainThread:6726 [wandb_init.py:init():784] starting backend
+2025-03-31 10:38:05,336 INFO    MainThread:6726 [wandb_init.py:init():788] sending inform_init request
+2025-03-31 10:38:05,340 INFO    MainThread:6726 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-03-31 10:38:05,340 INFO    MainThread:6726 [wandb_init.py:init():798] backend started and connected
+2025-03-31 10:38:05,342 INFO    MainThread:6726 [wandb_init.py:init():891] updated telemetry
+2025-03-31 10:38:05,344 INFO    MainThread:6726 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-31 10:38:05,728 INFO    MainThread:6726 [wandb_init.py:init():990] starting run threads in backend
+2025-03-31 10:38:05,830 INFO    MainThread:6726 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-31 10:38:05,830 INFO    MainThread:6726 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-31 10:38:05,830 INFO    MainThread:6726 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-31 10:38:05,831 INFO    MainThread:6726 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-31 10:38:05,833 INFO    MainThread:6726 [wandb_init.py:init():1032] run started, returning control to user process

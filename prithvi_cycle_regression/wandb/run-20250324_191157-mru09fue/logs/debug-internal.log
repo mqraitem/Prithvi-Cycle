@@ -1,0 +1,17 @@
+{"time":"2025-03-24T19:11:57.957257744-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_reg/wandb/run-20250324_191157-mru09fue/logs/debug-core.log"}
+{"time":"2025-03-24T19:11:58.219504667-04:00","level":"INFO","msg":"created new stream","id":"mru09fue"}
+{"time":"2025-03-24T19:11:58.219530129-04:00","level":"INFO","msg":"stream: started","id":"mru09fue"}
+{"time":"2025-03-24T19:11:58.219548979-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"mru09fue"}
+{"time":"2025-03-24T19:11:58.219552319-04:00","level":"INFO","msg":"sender: started","stream_id":"mru09fue"}
+{"time":"2025-03-24T19:11:58.219598155-04:00","level":"INFO","msg":"handler: started","stream_id":"mru09fue"}
+{"time":"2025-03-24T19:11:58.445170611-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-24T19:28:44.798729743-04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-03-24T21:39:05.461271719-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-24T21:39:05.497436951-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-24T21:39:05.897541889-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-24T21:39:06.017169072-04:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-03-24T21:39:06.064161624-04:00","level":"INFO","msg":"stream: closing","id":"mru09fue"}
+{"time":"2025-03-24T21:39:06.064174364-04:00","level":"INFO","msg":"handler: closed","stream_id":"mru09fue"}
+{"time":"2025-03-24T21:39:06.064179713-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"mru09fue"}
+{"time":"2025-03-24T21:39:06.064384405-04:00","level":"INFO","msg":"sender: closed","stream_id":"mru09fue"}
+{"time":"2025-03-24T21:39:06.064752671-04:00","level":"INFO","msg":"stream: closed","id":"mru09fue"}

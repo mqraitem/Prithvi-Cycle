@@ -1,0 +1,16 @@
+{"time":"2025-03-31T22:59:42.636530015-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_regression/wandb/run-20250331_225942-2f7qbs3n/logs/debug-core.log"}
+{"time":"2025-03-31T22:59:42.846256152-04:00","level":"INFO","msg":"created new stream","id":"2f7qbs3n"}
+{"time":"2025-03-31T22:59:42.846282654-04:00","level":"INFO","msg":"stream: started","id":"2f7qbs3n"}
+{"time":"2025-03-31T22:59:42.846344404-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"2f7qbs3n"}
+{"time":"2025-03-31T22:59:42.846348863-04:00","level":"INFO","msg":"sender: started","stream_id":"2f7qbs3n"}
+{"time":"2025-03-31T22:59:42.846382996-04:00","level":"INFO","msg":"handler: started","stream_id":"2f7qbs3n"}
+{"time":"2025-03-31T22:59:43.080192098-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-31T22:59:43.730987344-04:00","level":"INFO","msg":"api: retrying HTTP error","status":503,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"The service is currently unavailable. Please try again later.\",\"path\":[\"createArtifact\"]}],\"data\":{\"createArtifact\":null}}"}
+{"time":"2025-03-31T22:59:50.002513733-04:00","level":"INFO","msg":"stream: closing","id":"2f7qbs3n"}
+{"time":"2025-03-31T22:59:50.002574255-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-31T22:59:50.003058112-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-31T22:59:50.324916242-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-31T22:59:50.43720784-04:00","level":"INFO","msg":"handler: closed","stream_id":"2f7qbs3n"}
+{"time":"2025-03-31T22:59:50.437235562-04:00","level":"INFO","msg":"sender: closed","stream_id":"2f7qbs3n"}
+{"time":"2025-03-31T22:59:50.437228477-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"2f7qbs3n"}
+{"time":"2025-03-31T22:59:50.438067325-04:00","level":"INFO","msg":"stream: closed","id":"2f7qbs3n"}

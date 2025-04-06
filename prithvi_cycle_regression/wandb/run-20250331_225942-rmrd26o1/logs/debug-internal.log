@@ -1,0 +1,16 @@
+{"time":"2025-03-31T22:59:42.531349488-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_regression/wandb/run-20250331_225942-rmrd26o1/logs/debug-core.log"}
+{"time":"2025-03-31T22:59:42.765041513-04:00","level":"INFO","msg":"created new stream","id":"rmrd26o1"}
+{"time":"2025-03-31T22:59:42.765075454-04:00","level":"INFO","msg":"stream: started","id":"rmrd26o1"}
+{"time":"2025-03-31T22:59:42.765086609-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"rmrd26o1"}
+{"time":"2025-03-31T22:59:42.765165329-04:00","level":"INFO","msg":"handler: started","stream_id":"rmrd26o1"}
+{"time":"2025-03-31T22:59:42.765194872-04:00","level":"INFO","msg":"sender: started","stream_id":"rmrd26o1"}
+{"time":"2025-03-31T22:59:42.873303697-04:00","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"An internal error occurred. Please contact support.\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-03-31T22:59:45.334441889-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-31T22:59:58.411491103-04:00","level":"INFO","msg":"stream: closing","id":"rmrd26o1"}
+{"time":"2025-03-31T22:59:58.411588722-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-31T22:59:58.412204963-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-31T22:59:58.745824864-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-31T22:59:58.851331206-04:00","level":"INFO","msg":"handler: closed","stream_id":"rmrd26o1"}
+{"time":"2025-03-31T22:59:58.851350752-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"rmrd26o1"}
+{"time":"2025-03-31T22:59:58.851357915-04:00","level":"INFO","msg":"sender: closed","stream_id":"rmrd26o1"}
+{"time":"2025-03-31T22:59:58.852673036-04:00","level":"INFO","msg":"stream: closed","id":"rmrd26o1"}

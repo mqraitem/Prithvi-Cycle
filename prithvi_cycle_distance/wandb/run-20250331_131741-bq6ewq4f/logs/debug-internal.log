@@ -1,0 +1,17 @@
+{"time":"2025-03-31T13:17:41.11732381-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_distance/wandb/run-20250331_131741-bq6ewq4f/logs/debug-core.log"}
+{"time":"2025-03-31T13:17:41.333239621-04:00","level":"INFO","msg":"created new stream","id":"bq6ewq4f"}
+{"time":"2025-03-31T13:17:41.333257062-04:00","level":"INFO","msg":"stream: started","id":"bq6ewq4f"}
+{"time":"2025-03-31T13:17:41.333274729-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"bq6ewq4f"}
+{"time":"2025-03-31T13:17:41.333274905-04:00","level":"INFO","msg":"handler: started","stream_id":"bq6ewq4f"}
+{"time":"2025-03-31T13:17:41.333976489-04:00","level":"INFO","msg":"sender: started","stream_id":"bq6ewq4f"}
+{"time":"2025-03-31T13:17:41.536001348-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-31T13:17:42.25684058-04:00","level":"INFO","msg":"api: retrying HTTP error","status":503,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"The service is currently unavailable. Please try again later.\",\"path\":[\"createArtifact\"]}],\"data\":{\"createArtifact\":null}}"}
+{"time":"2025-03-31T20:39:43.546068447-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-31T20:39:43.546946527-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-31T20:39:43.980007233-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-31T20:39:44.116951087-04:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-03-31T20:39:44.123127738-04:00","level":"INFO","msg":"stream: closing","id":"bq6ewq4f"}
+{"time":"2025-03-31T20:39:44.123144544-04:00","level":"INFO","msg":"handler: closed","stream_id":"bq6ewq4f"}
+{"time":"2025-03-31T20:39:44.123150879-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"bq6ewq4f"}
+{"time":"2025-03-31T20:39:44.123158708-04:00","level":"INFO","msg":"sender: closed","stream_id":"bq6ewq4f"}
+{"time":"2025-03-31T20:39:44.126364228-04:00","level":"INFO","msg":"stream: closed","id":"bq6ewq4f"}

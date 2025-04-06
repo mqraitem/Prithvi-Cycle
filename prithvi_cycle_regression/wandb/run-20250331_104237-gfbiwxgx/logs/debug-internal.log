@@ -1,0 +1,18 @@
+{"time":"2025-03-31T10:42:37.618816932-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_reg/wandb/run-20250331_104237-gfbiwxgx/logs/debug-core.log"}
+{"time":"2025-03-31T10:42:37.828238933-04:00","level":"INFO","msg":"created new stream","id":"gfbiwxgx"}
+{"time":"2025-03-31T10:42:37.828270645-04:00","level":"INFO","msg":"stream: started","id":"gfbiwxgx"}
+{"time":"2025-03-31T10:42:37.828280715-04:00","level":"INFO","msg":"handler: started","stream_id":"gfbiwxgx"}
+{"time":"2025-03-31T10:42:37.828287514-04:00","level":"INFO","msg":"sender: started","stream_id":"gfbiwxgx"}
+{"time":"2025-03-31T10:42:37.828296304-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"gfbiwxgx"}
+{"time":"2025-03-31T10:42:38.078016233-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-31T17:05:23.513227711-04:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/mqraitem/Geospatial_Reg_fix_round/gfbiwxgx/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-03-31T17:22:38.15289065-04:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/mqraitem/Geospatial_Reg_fix_round/gfbiwxgx/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-03-31T18:23:21.829854046-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-31T18:23:21.831311862-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-31T18:23:22.261848581-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-31T18:23:22.369661744-04:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-03-31T18:23:22.374964164-04:00","level":"INFO","msg":"stream: closing","id":"gfbiwxgx"}
+{"time":"2025-03-31T18:23:22.374974444-04:00","level":"INFO","msg":"handler: closed","stream_id":"gfbiwxgx"}
+{"time":"2025-03-31T18:23:22.374980571-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"gfbiwxgx"}
+{"time":"2025-03-31T18:23:22.37502544-04:00","level":"INFO","msg":"sender: closed","stream_id":"gfbiwxgx"}
+{"time":"2025-03-31T18:23:22.407754882-04:00","level":"INFO","msg":"stream: closed","id":"gfbiwxgx"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-31T10:27:29.587617476-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_reg/wandb/run-20250331_102729-ihc1auqm/logs/debug-core.log"}
+{"time":"2025-03-31T10:27:29.858609508-04:00","level":"INFO","msg":"created new stream","id":"ihc1auqm"}
+{"time":"2025-03-31T10:27:29.858631522-04:00","level":"INFO","msg":"stream: started","id":"ihc1auqm"}
+{"time":"2025-03-31T10:27:29.858640203-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"ihc1auqm"}
+{"time":"2025-03-31T10:27:29.858643434-04:00","level":"INFO","msg":"handler: started","stream_id":"ihc1auqm"}
+{"time":"2025-03-31T10:27:29.858652625-04:00","level":"INFO","msg":"sender: started","stream_id":"ihc1auqm"}
+{"time":"2025-03-31T10:27:30.548958123-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-31T10:27:31.431697703-04:00","level":"INFO","msg":"api: retrying HTTP error","status":503,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"The service is currently unavailable. Please try again later.\",\"path\":[\"createArtifact\"]}],\"data\":{\"createArtifact\":null}}"}
+{"time":"2025-03-31T10:30:03.740756452-04:00","level":"INFO","msg":"stream: closing","id":"ihc1auqm"}
+{"time":"2025-03-31T10:30:03.740842254-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-31T10:30:03.741597177-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-31T10:30:04.123535656-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-31T10:30:04.264438287-04:00","level":"INFO","msg":"handler: closed","stream_id":"ihc1auqm"}
+{"time":"2025-03-31T10:30:04.264453723-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ihc1auqm"}
+{"time":"2025-03-31T10:30:04.264512365-04:00","level":"INFO","msg":"sender: closed","stream_id":"ihc1auqm"}
+{"time":"2025-03-31T10:30:04.265108399-04:00","level":"INFO","msg":"stream: closed","id":"ihc1auqm"}

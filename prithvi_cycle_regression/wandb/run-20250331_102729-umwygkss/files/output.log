@@ -1,0 +1,5 @@
+100%|██████████| 863/863 [02:32<00:00,  5.66it/s]
+/projectnb/ivc-ml/mqraitem/.conda/envs/geo/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+iteration started
+  0%|          | 0/108 [00:00<?, ?it/s]

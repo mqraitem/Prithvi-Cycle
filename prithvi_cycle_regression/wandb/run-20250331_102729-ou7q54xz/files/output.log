@@ -1,0 +1,11 @@
+100%|██████████| 863/863 [02:32<00:00,  5.66it/s]
+Traceback (most recent call last):
+  File "/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_reg/main_regression.py", line 259, in <module>
+    main()
+  File "/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_reg/main_regression.py", line 149, in main
+    cycle_dataset_test=cycle_dataset(path_test,split="test")
+  File "/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_reg/data_load_prithvi_cycle.py", line 87, in __init__
+    self.get_means_stds()
+  File "/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_reg/data_load_prithvi_cycle.py", line 100, in get_means_stds
+    self.means, self.stds = pickle.load(f)
+EOFError: Ran out of input

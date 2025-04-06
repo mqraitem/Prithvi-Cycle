@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_regression/main_regression.py", line 264, in <module>
+    main()
+  File "/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_regression/main_regression.py", line 162, in main
+    model=PrithviSeg(config["pretrained_cfg"], weights_path, True, n_classes=1, model_size=args.model_size) #wrapper of prithvi #initialization of prithvi is done by initializing prithvi_loader.py
+  File "/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_regression/prithvi_hf/prithvi.py", line 123, in __init__
+    self.backbone = PrithviBackbone(prithvi_params, prithvi_ckpt_path, reshape)
+  File "/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_regression/prithvi_hf/prithvi.py", line 39, in __init__
+    checkpoint = torch.load(self.prithvi_ckpt_path, weights_only=False)
+  File "/projectnb/ivc-ml/mqraitem/.conda/envs/geo/lib/python3.10/site-packages/torch/serialization.py", line 1425, in load
+    with _open_file_like(f, "rb") as opened_file:
+  File "/projectnb/ivc-ml/mqraitem/.conda/envs/geo/lib/python3.10/site-packages/torch/serialization.py", line 751, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+  File "/projectnb/ivc-ml/mqraitem/.conda/envs/geo/lib/python3.10/site-packages/torch/serialization.py", line 732, in __init__
+    super().__init__(open(name, mode))
+FileNotFoundError: [Errno 2] No such file or directory: '/usr4/cs505/mqraitem/ivc-ml/geo/Prithvi-data/Prithvi_EO_V2_300M.pt'

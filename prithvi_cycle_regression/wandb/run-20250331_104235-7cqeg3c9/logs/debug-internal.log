@@ -1,0 +1,18 @@
+{"time":"2025-03-31T10:42:35.856375482-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_reg/wandb/run-20250331_104235-7cqeg3c9/logs/debug-core.log"}
+{"time":"2025-03-31T10:42:36.065869609-04:00","level":"INFO","msg":"created new stream","id":"7cqeg3c9"}
+{"time":"2025-03-31T10:42:36.065900182-04:00","level":"INFO","msg":"stream: started","id":"7cqeg3c9"}
+{"time":"2025-03-31T10:42:36.065952472-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"7cqeg3c9"}
+{"time":"2025-03-31T10:42:36.065997927-04:00","level":"INFO","msg":"handler: started","stream_id":"7cqeg3c9"}
+{"time":"2025-03-31T10:42:36.06603061-04:00","level":"INFO","msg":"sender: started","stream_id":"7cqeg3c9"}
+{"time":"2025-03-31T10:42:36.312703861-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-31T16:07:15.658254196-04:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/mqraitem/Geospatial_Reg_fix_round/7cqeg3c9/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-03-31T17:22:51.641992741-04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-03-31T18:31:53.846248697-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-31T18:31:53.848731835-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-31T18:31:54.257816738-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-31T18:31:54.368247833-04:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-03-31T18:31:54.374239141-04:00","level":"INFO","msg":"stream: closing","id":"7cqeg3c9"}
+{"time":"2025-03-31T18:31:54.374255411-04:00","level":"INFO","msg":"handler: closed","stream_id":"7cqeg3c9"}
+{"time":"2025-03-31T18:31:54.374262691-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"7cqeg3c9"}
+{"time":"2025-03-31T18:31:54.37431141-04:00","level":"INFO","msg":"sender: closed","stream_id":"7cqeg3c9"}
+{"time":"2025-03-31T18:31:54.392989058-04:00","level":"INFO","msg":"stream: closed","id":"7cqeg3c9"}

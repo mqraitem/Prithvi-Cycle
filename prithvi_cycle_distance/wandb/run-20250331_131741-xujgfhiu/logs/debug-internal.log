@@ -1,0 +1,17 @@
+{"time":"2025-03-31T13:17:41.118283863-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_distance/wandb/run-20250331_131741-xujgfhiu/logs/debug-core.log"}
+{"time":"2025-03-31T13:17:41.243114055-04:00","level":"INFO","msg":"created new stream","id":"xujgfhiu"}
+{"time":"2025-03-31T13:17:41.243133465-04:00","level":"INFO","msg":"stream: started","id":"xujgfhiu"}
+{"time":"2025-03-31T13:17:41.243168199-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"xujgfhiu"}
+{"time":"2025-03-31T13:17:41.24326186-04:00","level":"INFO","msg":"handler: started","stream_id":"xujgfhiu"}
+{"time":"2025-03-31T13:17:41.243289968-04:00","level":"INFO","msg":"sender: started","stream_id":"xujgfhiu"}
+{"time":"2025-03-31T13:17:41.436865705-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-31T17:17:26.765499038-04:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/mqraitem/Geospatial_Distance/xujgfhiu/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-03-31T20:28:35.80738332-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-31T20:28:35.808636609-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-31T20:28:36.20881043-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-31T20:28:36.309546552-04:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-03-31T20:28:36.313204472-04:00","level":"INFO","msg":"stream: closing","id":"xujgfhiu"}
+{"time":"2025-03-31T20:28:36.313214207-04:00","level":"INFO","msg":"handler: closed","stream_id":"xujgfhiu"}
+{"time":"2025-03-31T20:28:36.313219014-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xujgfhiu"}
+{"time":"2025-03-31T20:28:36.31322465-04:00","level":"INFO","msg":"sender: closed","stream_id":"xujgfhiu"}
+{"time":"2025-03-31T20:28:36.31367607-04:00","level":"INFO","msg":"stream: closed","id":"xujgfhiu"}

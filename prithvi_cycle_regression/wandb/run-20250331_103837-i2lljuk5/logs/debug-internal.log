@@ -1,0 +1,7 @@
+{"time":"2025-03-31T10:38:37.873533096-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_reg/wandb/run-20250331_103837-i2lljuk5/logs/debug-core.log"}
+{"time":"2025-03-31T10:38:38.123399202-04:00","level":"INFO","msg":"created new stream","id":"i2lljuk5"}
+{"time":"2025-03-31T10:38:38.123422832-04:00","level":"INFO","msg":"stream: started","id":"i2lljuk5"}
+{"time":"2025-03-31T10:38:38.123435763-04:00","level":"INFO","msg":"handler: started","stream_id":"i2lljuk5"}
+{"time":"2025-03-31T10:38:38.123433733-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"i2lljuk5"}
+{"time":"2025-03-31T10:38:38.123445026-04:00","level":"INFO","msg":"sender: started","stream_id":"i2lljuk5"}
+{"time":"2025-03-31T10:38:38.298861447-04:00","level":"INFO","msg":"Starting system monitor"}

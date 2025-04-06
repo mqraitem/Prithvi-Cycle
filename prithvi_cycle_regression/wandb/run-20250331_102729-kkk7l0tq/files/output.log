@@ -1,0 +1,12 @@
+  0%|          | 0/863 [00:00<?, ?it/s]wandb: 500 encountered ({"errors":[{"message":"An internal error occurred. Please contact support.","path":["upsertBucket"]}],"data":{"upsertBucket":null}}), retrying request
+100%|██████████| 863/863 [02:30<00:00,  5.72it/s]
+/projectnb/ivc-ml/mqraitem/.conda/envs/geo/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+iteration started
+  5%|▍         | 5/108 [00:15<04:18,  2.51s/it]
+Epoch: 0, iteration: 0, loss: 61.357479095458984
+ acc_0: 5.4351478426120075
+ acc_1: 6.839378468392682
+ acc_2: 8.068944727052099
+ acc_3: 10.137877860086515
+

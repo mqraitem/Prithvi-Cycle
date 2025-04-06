@@ -1,0 +1,16 @@
+{"time":"2025-03-31T10:27:29.536719424-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_reg/wandb/run-20250331_102729-ou7q54xz/logs/debug-core.log"}
+{"time":"2025-03-31T10:27:29.785058061-04:00","level":"INFO","msg":"created new stream","id":"ou7q54xz"}
+{"time":"2025-03-31T10:27:29.785081877-04:00","level":"INFO","msg":"stream: started","id":"ou7q54xz"}
+{"time":"2025-03-31T10:27:29.785099011-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"ou7q54xz"}
+{"time":"2025-03-31T10:27:29.785103865-04:00","level":"INFO","msg":"sender: started","stream_id":"ou7q54xz"}
+{"time":"2025-03-31T10:27:29.785376373-04:00","level":"INFO","msg":"handler: started","stream_id":"ou7q54xz"}
+{"time":"2025-03-31T10:27:30.10020934-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-31T10:27:31.428993104-04:00","level":"INFO","msg":"api: retrying HTTP error","status":503,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"The service is currently unavailable. Please try again later.\",\"path\":[\"createArtifact\"]}],\"data\":{\"createArtifact\":null}}"}
+{"time":"2025-03-31T10:30:03.765734219-04:00","level":"INFO","msg":"stream: closing","id":"ou7q54xz"}
+{"time":"2025-03-31T10:30:03.765822519-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-31T10:30:03.766499125-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-31T10:30:04.118164209-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-31T10:30:04.280923045-04:00","level":"INFO","msg":"handler: closed","stream_id":"ou7q54xz"}
+{"time":"2025-03-31T10:30:04.280942451-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ou7q54xz"}
+{"time":"2025-03-31T10:30:04.280959394-04:00","level":"INFO","msg":"sender: closed","stream_id":"ou7q54xz"}
+{"time":"2025-03-31T10:30:04.316558029-04:00","level":"INFO","msg":"stream: closed","id":"ou7q54xz"}

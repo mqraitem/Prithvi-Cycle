@@ -1,0 +1,17 @@
+{"time":"2025-03-24T18:47:04.057539331-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_reg/wandb/run-20250324_184704-vvivyrj2/logs/debug-core.log"}
+{"time":"2025-03-24T18:47:04.317161975-04:00","level":"INFO","msg":"created new stream","id":"vvivyrj2"}
+{"time":"2025-03-24T18:47:04.317194261-04:00","level":"INFO","msg":"stream: started","id":"vvivyrj2"}
+{"time":"2025-03-24T18:47:04.317202359-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"vvivyrj2"}
+{"time":"2025-03-24T18:47:04.317214773-04:00","level":"INFO","msg":"sender: started","stream_id":"vvivyrj2"}
+{"time":"2025-03-24T18:47:04.317206185-04:00","level":"INFO","msg":"handler: started","stream_id":"vvivyrj2"}
+{"time":"2025-03-24T18:47:04.52545962-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-24T19:28:49.859835048-04:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/mqraitem/Geospatial_Reg_fixmeanstd/vvivyrj2/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-03-24T23:25:47.094547929-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-24T23:25:47.095354702-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-24T23:25:47.522154524-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-24T23:25:47.68730103-04:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-03-24T23:25:47.690933072-04:00","level":"INFO","msg":"stream: closing","id":"vvivyrj2"}
+{"time":"2025-03-24T23:25:47.690946892-04:00","level":"INFO","msg":"handler: closed","stream_id":"vvivyrj2"}
+{"time":"2025-03-24T23:25:47.69095871-04:00","level":"INFO","msg":"sender: closed","stream_id":"vvivyrj2"}
+{"time":"2025-03-24T23:25:47.690954244-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"vvivyrj2"}
+{"time":"2025-03-24T23:25:47.692928286-04:00","level":"INFO","msg":"stream: closed","id":"vvivyrj2"}

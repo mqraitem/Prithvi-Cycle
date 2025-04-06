@@ -1,0 +1,58 @@
+{
+  "os": "Linux-4.18.0-553.40.1.el8_10.x86_64-x86_64-with-glibc2.28",
+  "python": "CPython 3.10.16",
+  "startedAt": "2025-04-01T02:59:54.150262Z",
+  "args": [
+    "--group_name",
+    "regression_freeze-False_modelsize-600m_loadcheckpoint-False",
+    "--load_checkpoint",
+    "False",
+    "--logging",
+    "True",
+    "--model_size",
+    "600m",
+    "--learning_rate",
+    "0.0001",
+    "--freeze",
+    "False"
+  ],
+  "program": "/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_regression/main_regression.py",
+  "codePath": "prithvi_cycle_regression/main_regression.py",
+  "email": "mqraitem98@gmail.com",
+  "root": "/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_regression",
+  "host": "scc-217",
+  "executable": "/projectnb/ivc-ml/mqraitem/.conda/envs/geo/bin/python",
+  "codePathLocal": "main_regression.py",
+  "cpu_count": 32,
+  "cpu_count_logical": 32,
+  "gpu": "NVIDIA A40",
+  "gpu_count": 2,
+  "disk": {
+    "/": {
+      "total": "20957446144",
+      "used": "15185600512"
+    }
+  },
+  "memory": {
+    "total": "269217464320"
+  },
+  "cpu": {
+    "count": 32,
+    "countLogical": 32
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA A40",
+      "memoryTotal": "48305799168",
+      "cudaCores": 10752,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A40",
+      "memoryTotal": "48305799168",
+      "cudaCores": 10752,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.8"
+}

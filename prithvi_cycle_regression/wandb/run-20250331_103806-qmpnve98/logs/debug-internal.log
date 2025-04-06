@@ -1,0 +1,7 @@
+{"time":"2025-03-31T10:38:06.340579365-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_reg/wandb/run-20250331_103806-qmpnve98/logs/debug-core.log"}
+{"time":"2025-03-31T10:38:06.54850179-04:00","level":"INFO","msg":"created new stream","id":"qmpnve98"}
+{"time":"2025-03-31T10:38:06.54852987-04:00","level":"INFO","msg":"stream: started","id":"qmpnve98"}
+{"time":"2025-03-31T10:38:06.548589553-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"qmpnve98"}
+{"time":"2025-03-31T10:38:06.548659208-04:00","level":"INFO","msg":"handler: started","stream_id":"qmpnve98"}
+{"time":"2025-03-31T10:38:06.54868952-04:00","level":"INFO","msg":"sender: started","stream_id":"qmpnve98"}
+{"time":"2025-03-31T10:38:06.710261701-04:00","level":"INFO","msg":"Starting system monitor"}

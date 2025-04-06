@@ -1,0 +1,4689 @@
+/projectnb/ivc-ml/mqraitem/.conda/envs/geo/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+iteration started
+ 14%|█▎        | 150/1106 [02:02<08:48,  1.81it/s]
+Epoch: 0, iteration: 0, loss: 16.953224182128906
+
+Epoch: 0, iteration: 10, loss: 15.105621337890625
+
+Epoch: 0, iteration: 20, loss: 13.844181060791016
+
+Epoch: 0, iteration: 30, loss: 38.3890495300293
+
+Epoch: 0, iteration: 40, loss: 17.435043334960938
+
+Epoch: 0, iteration: 50, loss: 17.184520721435547
+
+Epoch: 0, iteration: 60, loss: 14.124393463134766
+
+Epoch: 0, iteration: 70, loss: 19.86750030517578
+
+Epoch: 0, iteration: 80, loss: 5.410989284515381
+
+Epoch: 0, iteration: 90, loss: 19.903457641601562
+
+Epoch: 0, iteration: 100, loss: 5.952881813049316
+
+Epoch: 0, iteration: 110, loss: 23.152652740478516
+
+Epoch: 0, iteration: 120, loss: 6.525369644165039
+
+Epoch: 0, iteration: 130, loss: 15.996064186096191
+
+Epoch: 0, iteration: 140, loss: 19.957796096801758
+
+Epoch: 0, iteration: 150, loss: 12.17821216583252
+
+Epoch: 0, iteration: 160, loss: 16.871570587158203
+
+Epoch: 0, iteration: 170, loss: 17.965469360351562
+
+Epoch: 0, iteration: 180, loss: 10.118778228759766
+
+Epoch: 0, iteration: 190, loss: 8.131793975830078
+
+Epoch: 0, iteration: 200, loss: 11.820574760437012
+
+Epoch: 0, iteration: 210, loss: 16.86778450012207
+
+Epoch: 0, iteration: 220, loss: 21.103208541870117
+
+Epoch: 0, iteration: 230, loss: 8.586003303527832
+
+Epoch: 0, iteration: 240, loss: 23.913942337036133
+
+Epoch: 0, iteration: 250, loss: 11.240723609924316
+
+Epoch: 0, iteration: 260, loss: 19.73525619506836
+
+Epoch: 0, iteration: 270, loss: 17.308046340942383
+
+Epoch: 0, iteration: 280, loss: 12.0548734664917
+
+Epoch: 0, iteration: 290, loss: 8.481650352478027
+
+Epoch: 0, iteration: 300, loss: 20.547218322753906
+
+Epoch: 0, iteration: 310, loss: 11.922981262207031
+
+Epoch: 0, iteration: 320, loss: 16.015424728393555
+
+Epoch: 0, iteration: 330, loss: 9.414605140686035
+
+Epoch: 0, iteration: 340, loss: 20.12639617919922
+
+Epoch: 0, iteration: 350, loss: 11.984066009521484
+
+Epoch: 0, iteration: 360, loss: 13.464682579040527
+
+Epoch: 0, iteration: 370, loss: 10.054067611694336
+
+Epoch: 0, iteration: 380, loss: 10.590425491333008
+
+Epoch: 0, iteration: 390, loss: 10.79814338684082
+
+Epoch: 0, iteration: 400, loss: 17.692537307739258
+
+Epoch: 0, iteration: 410, loss: 17.636722564697266
+
+Epoch: 0, iteration: 420, loss: 21.35576820373535
+
+Epoch: 0, iteration: 430, loss: 21.313064575195312
+
+Epoch: 0, iteration: 440, loss: 15.464805603027344
+
+Epoch: 0, iteration: 450, loss: 23.14151954650879
+
+Epoch: 0, iteration: 460, loss: 20.1336669921875
+
+Epoch: 0, iteration: 470, loss: 11.77527141571045
+
+Epoch: 0, iteration: 480, loss: 11.29698371887207
+
+Epoch: 0, iteration: 490, loss: 9.040267944335938
+
+Epoch: 0, iteration: 500, loss: 15.866108894348145
+
+Epoch: 0, iteration: 510, loss: 11.523550987243652
+
+Epoch: 0, iteration: 520, loss: 12.873339653015137
+
+Epoch: 0, iteration: 530, loss: 10.976462364196777
+
+Epoch: 0, iteration: 540, loss: 15.12271785736084
+
+Epoch: 0, iteration: 550, loss: 13.617659568786621
+
+Epoch: 0, iteration: 560, loss: 24.238130569458008
+
+Epoch: 0, iteration: 570, loss: 19.80547332763672
+
+Epoch: 0, iteration: 580, loss: 18.695070266723633
+
+Epoch: 0, iteration: 590, loss: 16.3806095123291
+
+Epoch: 0, iteration: 600, loss: 9.906684875488281
+
+Epoch: 0, iteration: 610, loss: 10.13147258758545
+
+Epoch: 0, iteration: 620, loss: 21.35795783996582
+
+Epoch: 0, iteration: 630, loss: 14.506234169006348
+
+Epoch: 0, iteration: 640, loss: 10.281699180603027
+
+Epoch: 0, iteration: 650, loss: 18.55376625061035
+
+Epoch: 0, iteration: 660, loss: 8.238868713378906
+
+Epoch: 0, iteration: 670, loss: 9.598125457763672
+
+Epoch: 0, iteration: 680, loss: 24.687273025512695
+
+Epoch: 0, iteration: 690, loss: 12.02563190460205
+
+Epoch: 0, iteration: 700, loss: 13.976061820983887
+
+Epoch: 0, iteration: 710, loss: 10.673966407775879
+
+Epoch: 0, iteration: 720, loss: 9.316939353942871
+
+Epoch: 0, iteration: 730, loss: 7.674337863922119
+
+Epoch: 0, iteration: 740, loss: 11.79483413696289
+
+Epoch: 0, iteration: 750, loss: 8.97716236114502
+
+Epoch: 0, iteration: 760, loss: 9.837080955505371
+
+Epoch: 0, iteration: 770, loss: 4.01919412612915
+
+Epoch: 0, iteration: 780, loss: 14.882741928100586
+
+Epoch: 0, iteration: 790, loss: 12.102774620056152
+
+Epoch: 0, iteration: 800, loss: 9.610889434814453
+
+Epoch: 0, iteration: 810, loss: 7.506836414337158
+
+Epoch: 0, iteration: 820, loss: 11.76589584350586
+
+Epoch: 0, iteration: 830, loss: 12.398836135864258
+
+Epoch: 0, iteration: 840, loss: 17.570903778076172
+
+Epoch: 0, iteration: 850, loss: 10.26107120513916
+
+Epoch: 0, iteration: 860, loss: 15.66751480102539
+
+Epoch: 0, iteration: 870, loss: 12.813456535339355
+
+Epoch: 0, iteration: 880, loss: 7.504508018493652
+
+Epoch: 0, iteration: 890, loss: 9.411136627197266
+
+Epoch: 0, iteration: 900, loss: 12.804784774780273
+
+Epoch: 0, iteration: 910, loss: 7.6456708908081055
+
+Epoch: 0, iteration: 920, loss: 16.83615493774414
+
+Epoch: 0, iteration: 930, loss: 10.12021255493164
+
+Epoch: 0, iteration: 940, loss: 15.28991985321045
+
+Epoch: 0, iteration: 950, loss: 12.167080879211426
+
+Epoch: 0, iteration: 960, loss: 9.699652671813965
+
+Epoch: 0, iteration: 970, loss: 13.425582885742188
+
+Epoch: 0, iteration: 980, loss: 8.87002182006836
+
+Epoch: 0, iteration: 990, loss: 11.162420272827148
+
+Epoch: 0, iteration: 1000, loss: 7.742681980133057
+
+Epoch: 0, iteration: 1010, loss: 13.001625061035156
+
+Epoch: 0, iteration: 1020, loss: 9.416829109191895
+
+Epoch: 0, iteration: 1030, loss: 12.458066940307617
+
+Epoch: 0, iteration: 1040, loss: 8.82845401763916
+
+Epoch: 0, iteration: 1050, loss: 16.87973403930664
+
+Epoch: 0, iteration: 1060, loss: 9.546576499938965
+
+Epoch: 0, iteration: 1070, loss: 18.690608978271484
+
+Epoch: 0, iteration: 1080, loss: 6.350020885467529
+
+Epoch: 0, iteration: 1090, loss: 7.212792873382568
+
+Epoch: 0, iteration: 1100, loss: 5.979221343994141
+
+100%|██████████| 158/158 [01:07<00:00,  2.35it/s]
+100%|██████████| 105/105 [00:00<00:00, 280.44it/s]
+====================================================================================================
+Epoch: 0, val_loss: 10.211468870677646
+ acc_val_0: 1.0522458205916527
+ acc_val_1: 0.8675388189204767
+ acc_val_2: 1.5835607352359429
+ acc_val_3: 3.0814245739524484
+
+====================================================================================================
+Checkpoint saved at /usr4/cs505/mqraitem/ivc-ml/geo/Prithvi-data-distance/Northeast/regression_freeze-False_modelsize-300m_loadcheckpoint-True/learningrate-1e-06_freeze-False_classweights-False_model_size-300m_load_checkpoint-True.pth
+iteration started
+ 14%|█▎        | 150/1106 [01:14<07:54,  2.01it/s]
+Epoch: 1, iteration: 0, loss: 18.979074478149414
+
+Epoch: 1, iteration: 10, loss: 13.165987968444824
+
+Epoch: 1, iteration: 20, loss: 10.231197357177734
+
+Epoch: 1, iteration: 30, loss: 14.267768859863281
+
+Epoch: 1, iteration: 40, loss: 12.781121253967285
+
+Epoch: 1, iteration: 50, loss: 9.698698997497559
+
+Epoch: 1, iteration: 60, loss: 7.183967113494873
+
+Epoch: 1, iteration: 70, loss: 5.139060020446777
+
+Epoch: 1, iteration: 80, loss: 6.742264747619629
+
+Epoch: 1, iteration: 90, loss: 7.818026542663574
+
+Epoch: 1, iteration: 100, loss: 11.664605140686035
+
+Epoch: 1, iteration: 110, loss: 8.522923469543457
+
+Epoch: 1, iteration: 120, loss: 8.148035049438477
+
+Epoch: 1, iteration: 130, loss: 16.114824295043945
+
+Epoch: 1, iteration: 140, loss: 9.887734413146973
+
+Epoch: 1, iteration: 150, loss: 12.629789352416992
+
+Epoch: 1, iteration: 160, loss: 18.8641357421875
+
+Epoch: 1, iteration: 170, loss: 15.390274047851562
+
+Epoch: 1, iteration: 180, loss: 6.457236289978027
+
+Epoch: 1, iteration: 190, loss: 4.760639190673828
+
+Epoch: 1, iteration: 200, loss: 4.783657073974609
+
+Epoch: 1, iteration: 210, loss: 14.202200889587402
+
+Epoch: 1, iteration: 220, loss: 13.368977546691895
+
+Epoch: 1, iteration: 230, loss: 10.258211135864258
+
+Epoch: 1, iteration: 240, loss: 8.998610496520996
+
+Epoch: 1, iteration: 250, loss: 11.829233169555664
+
+Epoch: 1, iteration: 260, loss: 7.433544158935547
+
+Epoch: 1, iteration: 270, loss: 12.136641502380371
+
+Epoch: 1, iteration: 280, loss: 9.467477798461914
+
+Epoch: 1, iteration: 290, loss: 12.706982612609863
+
+Epoch: 1, iteration: 300, loss: 7.233420372009277
+
+Epoch: 1, iteration: 310, loss: 7.83583402633667
+
+Epoch: 1, iteration: 320, loss: 6.787826061248779
+
+Epoch: 1, iteration: 330, loss: 5.7295732498168945
+
+Epoch: 1, iteration: 340, loss: 8.996917724609375
+
+Epoch: 1, iteration: 350, loss: 7.727298259735107
+
+Epoch: 1, iteration: 360, loss: 7.178167819976807
+
+Epoch: 1, iteration: 370, loss: 17.89286994934082
+
+Epoch: 1, iteration: 380, loss: 12.919705390930176
+
+Epoch: 1, iteration: 390, loss: 10.026712417602539
+
+Epoch: 1, iteration: 400, loss: 17.357500076293945
+
+Epoch: 1, iteration: 410, loss: 12.424378395080566
+
+Epoch: 1, iteration: 420, loss: 22.668344497680664
+
+Epoch: 1, iteration: 430, loss: 8.605401039123535
+
+Epoch: 1, iteration: 440, loss: 5.72857666015625
+
+Epoch: 1, iteration: 450, loss: 10.57839298248291
+
+Epoch: 1, iteration: 460, loss: 6.194679260253906
+
+Epoch: 1, iteration: 470, loss: 11.172359466552734
+
+Epoch: 1, iteration: 480, loss: 7.487502574920654
+
+Epoch: 1, iteration: 490, loss: 10.10004997253418
+
+Epoch: 1, iteration: 500, loss: 17.992700576782227
+
+Epoch: 1, iteration: 510, loss: 3.5214145183563232
+
+Epoch: 1, iteration: 520, loss: 6.744359016418457
+
+Epoch: 1, iteration: 530, loss: 11.053789138793945
+
+Epoch: 1, iteration: 540, loss: 8.383556365966797
+
+Epoch: 1, iteration: 550, loss: 7.595315933227539
+
+Epoch: 1, iteration: 560, loss: 5.189542293548584
+
+Epoch: 1, iteration: 570, loss: 25.1160945892334
+
+Epoch: 1, iteration: 580, loss: 12.374222755432129
+
+Epoch: 1, iteration: 590, loss: 14.59961223602295
+
+Epoch: 1, iteration: 600, loss: 17.081344604492188
+
+Epoch: 1, iteration: 610, loss: 5.393354415893555
+
+Epoch: 1, iteration: 620, loss: 9.362340927124023
+
+Epoch: 1, iteration: 630, loss: 6.187392234802246
+
+Epoch: 1, iteration: 640, loss: 7.443521022796631
+
+Epoch: 1, iteration: 650, loss: 7.5822930335998535
+
+Epoch: 1, iteration: 660, loss: 5.627093315124512
+
+Epoch: 1, iteration: 670, loss: 8.194329261779785
+
+Epoch: 1, iteration: 680, loss: 6.918002605438232
+
+Epoch: 1, iteration: 690, loss: 6.074766159057617
+
+Epoch: 1, iteration: 700, loss: 6.200518608093262
+
+Epoch: 1, iteration: 710, loss: 4.499148368835449
+
+Epoch: 1, iteration: 720, loss: 7.092049598693848
+
+Epoch: 1, iteration: 730, loss: 6.495511531829834
+
+Epoch: 1, iteration: 740, loss: 10.016863822937012
+
+Epoch: 1, iteration: 750, loss: 12.103728294372559
+
+Epoch: 1, iteration: 760, loss: 12.92529296875
+
+Epoch: 1, iteration: 770, loss: 5.593180179595947
+
+Epoch: 1, iteration: 780, loss: 7.245731830596924
+
+Epoch: 1, iteration: 790, loss: 4.077075958251953
+
+Epoch: 1, iteration: 800, loss: 12.699787139892578
+
+Epoch: 1, iteration: 810, loss: 8.594008445739746
+
+Epoch: 1, iteration: 820, loss: 3.94814395904541
+
+Epoch: 1, iteration: 830, loss: 8.274425506591797
+
+Epoch: 1, iteration: 840, loss: 17.38031768798828
+
+Epoch: 1, iteration: 850, loss: 8.038694381713867
+
+Epoch: 1, iteration: 860, loss: 6.511468410491943
+
+Epoch: 1, iteration: 870, loss: 12.620515823364258
+
+Epoch: 1, iteration: 880, loss: 6.9896979331970215
+
+Epoch: 1, iteration: 890, loss: 6.331061840057373
+
+Epoch: 1, iteration: 900, loss: 6.87276029586792
+
+Epoch: 1, iteration: 910, loss: 19.317880630493164
+
+Epoch: 1, iteration: 920, loss: 8.884736061096191
+
+Epoch: 1, iteration: 930, loss: 10.605799674987793
+
+Epoch: 1, iteration: 940, loss: 3.3572258949279785
+
+Epoch: 1, iteration: 950, loss: 5.527007579803467
+
+Epoch: 1, iteration: 960, loss: 11.583111763000488
+
+Epoch: 1, iteration: 970, loss: 8.804667472839355
+
+Epoch: 1, iteration: 980, loss: 8.695266723632812
+
+Epoch: 1, iteration: 990, loss: 7.905953884124756
+
+Epoch: 1, iteration: 1000, loss: 12.46943473815918
+
+Epoch: 1, iteration: 1010, loss: 3.566333055496216
+
+Epoch: 1, iteration: 1020, loss: 4.49659538269043
+
+Epoch: 1, iteration: 1030, loss: 6.283318996429443
+
+Epoch: 1, iteration: 1040, loss: 14.403053283691406
+
+Epoch: 1, iteration: 1050, loss: 5.443688869476318
+
+Epoch: 1, iteration: 1060, loss: 6.487300395965576
+
+Epoch: 1, iteration: 1070, loss: 8.8076753616333
+
+Epoch: 1, iteration: 1080, loss: 11.207740783691406
+
+Epoch: 1, iteration: 1090, loss: 5.673242092132568
+
+Epoch: 1, iteration: 1100, loss: 10.077159881591797
+
+100%|██████████| 158/158 [00:51<00:00,  3.09it/s]
+100%|██████████| 105/105 [00:00<00:00, 1295.00it/s]
+====================================================================================================
+Epoch: 1, val_loss: 7.551446823846726
+ acc_val_0: 1.1061480117502647
+ acc_val_1: 0.7456996710267888
+ acc_val_2: 1.3524348503131174
+ acc_val_3: 2.7847719284474697
+
+====================================================================================================
+UnFreezing prithvi model
+====================================================================================================
+iteration started
+ 14%|█▎        | 150/1106 [01:34<09:59,  1.59it/s]
+Epoch: 2, iteration: 0, loss: 11.684172630310059
+
+Epoch: 2, iteration: 10, loss: 9.313057899475098
+
+Epoch: 2, iteration: 20, loss: 9.538430213928223
+
+Epoch: 2, iteration: 30, loss: 3.450320243835449
+
+Epoch: 2, iteration: 40, loss: 6.7677483558654785
+
+Epoch: 2, iteration: 50, loss: 4.803137302398682
+
+Epoch: 2, iteration: 60, loss: 10.402948379516602
+
+Epoch: 2, iteration: 70, loss: 8.252968788146973
+
+Epoch: 2, iteration: 80, loss: 6.382623672485352
+
+Epoch: 2, iteration: 90, loss: 10.724465370178223
+
+Epoch: 2, iteration: 100, loss: 11.508074760437012
+
+Epoch: 2, iteration: 110, loss: 10.312655448913574
+
+Epoch: 2, iteration: 120, loss: 6.828851699829102
+
+Epoch: 2, iteration: 130, loss: 10.31374740600586
+
+Epoch: 2, iteration: 140, loss: 10.907212257385254
+
+Epoch: 2, iteration: 150, loss: 3.4658286571502686
+
+Epoch: 2, iteration: 160, loss: 9.663766860961914
+
+Epoch: 2, iteration: 170, loss: 5.765806198120117
+
+Epoch: 2, iteration: 180, loss: 4.539574146270752
+
+Epoch: 2, iteration: 190, loss: 7.500499725341797
+
+Epoch: 2, iteration: 200, loss: 7.918287754058838
+
+Epoch: 2, iteration: 210, loss: 11.679076194763184
+
+Epoch: 2, iteration: 220, loss: 5.399872779846191
+
+Epoch: 2, iteration: 230, loss: 3.7530438899993896
+
+Epoch: 2, iteration: 240, loss: 4.37863826751709
+
+Epoch: 2, iteration: 250, loss: 7.162509918212891
+
+Epoch: 2, iteration: 260, loss: 9.455296516418457
+
+Epoch: 2, iteration: 270, loss: 5.470128059387207
+
+Epoch: 2, iteration: 280, loss: 7.7393717765808105
+
+Epoch: 2, iteration: 290, loss: 7.940530776977539
+
+Epoch: 2, iteration: 300, loss: 9.620491981506348
+
+Epoch: 2, iteration: 310, loss: 19.321456909179688
+
+Epoch: 2, iteration: 320, loss: 5.3825788497924805
+
+Epoch: 2, iteration: 330, loss: 17.58196258544922
+
+Epoch: 2, iteration: 340, loss: 10.988529205322266
+
+Epoch: 2, iteration: 350, loss: 15.64444637298584
+
+Epoch: 2, iteration: 360, loss: 10.786508560180664
+
+Epoch: 2, iteration: 370, loss: 3.518059253692627
+
+Epoch: 2, iteration: 380, loss: 15.022926330566406
+
+Epoch: 2, iteration: 390, loss: 8.296060562133789
+
+Epoch: 2, iteration: 400, loss: 6.534940719604492
+
+Epoch: 2, iteration: 410, loss: 5.050836086273193
+
+Epoch: 2, iteration: 420, loss: 11.466354370117188
+
+Epoch: 2, iteration: 430, loss: 7.8909525871276855
+
+Epoch: 2, iteration: 440, loss: 6.573722839355469
+
+Epoch: 2, iteration: 450, loss: 7.11965274810791
+
+Epoch: 2, iteration: 460, loss: 7.971009731292725
+
+Epoch: 2, iteration: 470, loss: 3.5711474418640137
+
+Epoch: 2, iteration: 480, loss: 7.383942127227783
+
+Epoch: 2, iteration: 490, loss: 5.899625778198242
+
+Epoch: 2, iteration: 500, loss: 4.426151752471924
+
+Epoch: 2, iteration: 510, loss: 7.979647636413574
+
+Epoch: 2, iteration: 520, loss: 12.55144214630127
+
+Epoch: 2, iteration: 530, loss: 6.091518878936768
+
+Epoch: 2, iteration: 540, loss: 3.7562255859375
+
+Epoch: 2, iteration: 550, loss: 4.89248514175415
+
+Epoch: 2, iteration: 560, loss: 8.81017017364502
+
+Epoch: 2, iteration: 570, loss: 3.787936210632324
+
+Epoch: 2, iteration: 580, loss: 6.577212810516357
+
+Epoch: 2, iteration: 590, loss: 7.309530735015869
+
+Epoch: 2, iteration: 600, loss: 9.253287315368652
+
+Epoch: 2, iteration: 610, loss: 5.812994956970215
+
+Epoch: 2, iteration: 620, loss: 9.38864517211914
+
+Epoch: 2, iteration: 630, loss: 7.980610370635986
+
+Epoch: 2, iteration: 640, loss: 16.399538040161133
+
+Epoch: 2, iteration: 650, loss: 8.034846305847168
+
+Epoch: 2, iteration: 660, loss: 2.824634313583374
+
+Epoch: 2, iteration: 670, loss: 9.91810417175293
+
+Epoch: 2, iteration: 680, loss: 5.671355724334717
+
+Epoch: 2, iteration: 690, loss: 5.447678565979004
+
+Epoch: 2, iteration: 700, loss: 4.6298136711120605
+
+Epoch: 2, iteration: 710, loss: 7.885514259338379
+
+Epoch: 2, iteration: 720, loss: 11.748626708984375
+
+Epoch: 2, iteration: 730, loss: 8.55692195892334
+
+Epoch: 2, iteration: 740, loss: 6.810741901397705
+
+Epoch: 2, iteration: 750, loss: 7.5773749351501465
+
+Epoch: 2, iteration: 760, loss: 3.5545365810394287
+
+Epoch: 2, iteration: 770, loss: 8.13881778717041
+
+Epoch: 2, iteration: 780, loss: 9.167967796325684
+
+Epoch: 2, iteration: 790, loss: 7.98224401473999
+
+Epoch: 2, iteration: 800, loss: 3.7908852100372314
+
+Epoch: 2, iteration: 810, loss: 9.144122123718262
+
+Epoch: 2, iteration: 820, loss: 7.441404342651367
+
+Epoch: 2, iteration: 830, loss: 4.806190490722656
+
+Epoch: 2, iteration: 840, loss: 10.992766380310059
+
+Epoch: 2, iteration: 850, loss: 5.515513896942139
+
+Epoch: 2, iteration: 860, loss: 13.836627006530762
+
+Epoch: 2, iteration: 870, loss: 6.565353870391846
+
+Epoch: 2, iteration: 880, loss: 8.015942573547363
+
+Epoch: 2, iteration: 890, loss: 4.976722240447998
+
+Epoch: 2, iteration: 900, loss: 9.268424034118652
+
+Epoch: 2, iteration: 910, loss: 3.4757442474365234
+
+Epoch: 2, iteration: 920, loss: 15.689480781555176
+
+Epoch: 2, iteration: 930, loss: 8.445556640625
+
+Epoch: 2, iteration: 940, loss: 5.668220520019531
+
+Epoch: 2, iteration: 950, loss: 4.292838096618652
+
+Epoch: 2, iteration: 960, loss: 7.760861396789551
+
+Epoch: 2, iteration: 970, loss: 9.979721069335938
+
+Epoch: 2, iteration: 980, loss: 6.823541164398193
+
+Epoch: 2, iteration: 990, loss: 6.194775581359863
+
+Epoch: 2, iteration: 1000, loss: 6.730183124542236
+
+Epoch: 2, iteration: 1010, loss: 5.110714912414551
+
+Epoch: 2, iteration: 1020, loss: 6.7366838455200195
+
+Epoch: 2, iteration: 1030, loss: 12.402907371520996
+
+Epoch: 2, iteration: 1040, loss: 14.904292106628418
+
+Epoch: 2, iteration: 1050, loss: 8.022628784179688
+
+Epoch: 2, iteration: 1060, loss: 7.058579444885254
+
+Epoch: 2, iteration: 1070, loss: 16.33052635192871
+
+Epoch: 2, iteration: 1080, loss: 3.5377464294433594
+
+Epoch: 2, iteration: 1090, loss: 5.84114933013916
+
+Epoch: 2, iteration: 1100, loss: 7.081150531768799
+
+100%|██████████| 158/158 [00:44<00:00,  3.54it/s]
+100%|██████████| 105/105 [00:00<00:00, 1290.39it/s]
+====================================================================================================
+Epoch: 2, val_loss: 5.500496855993119
+ acc_val_0: 1.391046351224086
+ acc_val_1: 0.5551278522916726
+ acc_val_2: 0.927798773835359
+ acc_val_3: 2.1753367372420462
+
+====================================================================================================
+iteration started
+ 14%|█▎        | 150/1106 [01:45<11:21,  1.40it/s]
+Epoch: 3, iteration: 0, loss: 8.089856147766113
+
+Epoch: 3, iteration: 10, loss: 4.234738349914551
+
+Epoch: 3, iteration: 20, loss: 8.500029563903809
+
+Epoch: 3, iteration: 30, loss: 8.216829299926758
+
+Epoch: 3, iteration: 40, loss: 6.991168975830078
+
+Epoch: 3, iteration: 50, loss: 5.615658283233643
+
+Epoch: 3, iteration: 60, loss: 7.71191930770874
+
+Epoch: 3, iteration: 70, loss: 8.024373054504395
+
+Epoch: 3, iteration: 80, loss: 9.862885475158691
+
+Epoch: 3, iteration: 90, loss: 10.4675874710083
+
+Epoch: 3, iteration: 100, loss: 3.3659486770629883
+
+Epoch: 3, iteration: 110, loss: 6.303470134735107
+
+Epoch: 3, iteration: 120, loss: 6.7862396240234375
+
+Epoch: 3, iteration: 130, loss: 5.559713363647461
+
+Epoch: 3, iteration: 140, loss: 6.786556243896484
+
+Epoch: 3, iteration: 150, loss: 4.758403301239014
+
+Epoch: 3, iteration: 160, loss: 2.9481117725372314
+
+Epoch: 3, iteration: 170, loss: 9.844626426696777
+
+Epoch: 3, iteration: 180, loss: 4.863760471343994
+
+Epoch: 3, iteration: 190, loss: 9.967602729797363
+
+Epoch: 3, iteration: 200, loss: 6.9250168800354
+
+Epoch: 3, iteration: 210, loss: 6.755805492401123
+
+Epoch: 3, iteration: 220, loss: 11.758111953735352
+
+Epoch: 3, iteration: 230, loss: 6.838553428649902
+
+Epoch: 3, iteration: 240, loss: 6.019948482513428
+
+Epoch: 3, iteration: 250, loss: 10.432761192321777
+
+Epoch: 3, iteration: 260, loss: 3.1218020915985107
+
+Epoch: 3, iteration: 270, loss: 6.9211506843566895
+
+Epoch: 3, iteration: 280, loss: 8.773459434509277
+
+Epoch: 3, iteration: 290, loss: 16.90556526184082
+
+Epoch: 3, iteration: 300, loss: 4.1759796142578125
+
+Epoch: 3, iteration: 310, loss: 8.195643424987793
+
+Epoch: 3, iteration: 320, loss: 11.479337692260742
+
+Epoch: 3, iteration: 330, loss: 7.278115749359131
+
+Epoch: 3, iteration: 340, loss: 5.366983890533447
+
+Epoch: 3, iteration: 350, loss: 7.911612510681152
+
+Epoch: 3, iteration: 360, loss: 6.032337188720703
+
+Epoch: 3, iteration: 370, loss: 12.31276798248291
+
+Epoch: 3, iteration: 380, loss: 9.495174407958984
+
+Epoch: 3, iteration: 390, loss: 11.002949714660645
+
+Epoch: 3, iteration: 400, loss: 10.462532043457031
+
+Epoch: 3, iteration: 410, loss: 6.507867336273193
+
+Epoch: 3, iteration: 420, loss: 7.978386878967285
+
+Epoch: 3, iteration: 430, loss: 6.471167087554932
+
+Epoch: 3, iteration: 440, loss: 7.002539157867432
+
+Epoch: 3, iteration: 450, loss: 4.29824161529541
+
+Epoch: 3, iteration: 460, loss: 9.915538787841797
+
+Epoch: 3, iteration: 470, loss: 6.325994968414307
+
+Epoch: 3, iteration: 480, loss: 9.707379341125488
+
+Epoch: 3, iteration: 490, loss: 2.4111287593841553
+
+Epoch: 3, iteration: 500, loss: 8.713285446166992
+
+Epoch: 3, iteration: 510, loss: 5.352752208709717
+
+Epoch: 3, iteration: 520, loss: 6.3796305656433105
+
+Epoch: 3, iteration: 530, loss: 4.468530654907227
+
+Epoch: 3, iteration: 540, loss: 5.442819118499756
+
+Epoch: 3, iteration: 550, loss: 9.968428611755371
+
+Epoch: 3, iteration: 560, loss: 4.679689407348633
+
+Epoch: 3, iteration: 570, loss: 6.175015926361084
+
+Epoch: 3, iteration: 580, loss: 5.673335075378418
+
+Epoch: 3, iteration: 590, loss: 8.030050277709961
+
+Epoch: 3, iteration: 600, loss: 5.139779567718506
+
+Epoch: 3, iteration: 610, loss: 9.875617027282715
+
+Epoch: 3, iteration: 620, loss: 8.635607719421387
+
+Epoch: 3, iteration: 630, loss: 9.173614501953125
+
+Epoch: 3, iteration: 640, loss: 7.6051411628723145
+
+Epoch: 3, iteration: 650, loss: 6.213197708129883
+
+Epoch: 3, iteration: 660, loss: 7.895676612854004
+
+Epoch: 3, iteration: 670, loss: 12.952230453491211
+
+Epoch: 3, iteration: 680, loss: 6.6498870849609375
+
+Epoch: 3, iteration: 690, loss: 3.503173828125
+
+Epoch: 3, iteration: 700, loss: 6.162293910980225
+
+Epoch: 3, iteration: 710, loss: 6.7975945472717285
+
+Epoch: 3, iteration: 720, loss: 6.399991035461426
+
+Epoch: 3, iteration: 730, loss: 4.390865802764893
+
+Epoch: 3, iteration: 740, loss: 8.654420852661133
+
+Epoch: 3, iteration: 750, loss: 9.316022872924805
+
+Epoch: 3, iteration: 760, loss: 6.574055194854736
+
+Epoch: 3, iteration: 770, loss: 5.3773016929626465
+
+Epoch: 3, iteration: 780, loss: 6.949029922485352
+
+Epoch: 3, iteration: 790, loss: 9.416513442993164
+
+Epoch: 3, iteration: 800, loss: 14.209457397460938
+
+Epoch: 3, iteration: 810, loss: 4.994836807250977
+
+Epoch: 3, iteration: 820, loss: 7.222546100616455
+
+Epoch: 3, iteration: 830, loss: 3.483032703399658
+
+Epoch: 3, iteration: 840, loss: 7.663219928741455
+
+Epoch: 3, iteration: 850, loss: 8.690659523010254
+
+Epoch: 3, iteration: 860, loss: 3.9491968154907227
+
+Epoch: 3, iteration: 870, loss: 4.950431823730469
+
+Epoch: 3, iteration: 880, loss: 10.714133262634277
+
+Epoch: 3, iteration: 890, loss: 3.584773302078247
+
+Epoch: 3, iteration: 900, loss: 3.549335479736328
+
+Epoch: 3, iteration: 910, loss: 2.8567264080047607
+
+Epoch: 3, iteration: 920, loss: 3.022124767303467
+
+Epoch: 3, iteration: 930, loss: 6.499493598937988
+
+Epoch: 3, iteration: 940, loss: 5.6419501304626465
+
+Epoch: 3, iteration: 950, loss: 9.797880172729492
+
+Epoch: 3, iteration: 960, loss: 5.423133850097656
+
+Epoch: 3, iteration: 970, loss: 6.2085280418396
+
+Epoch: 3, iteration: 980, loss: 15.202621459960938
+
+Epoch: 3, iteration: 990, loss: 10.581803321838379
+
+Epoch: 3, iteration: 1000, loss: 21.767215728759766
+
+Epoch: 3, iteration: 1010, loss: 12.09521770477295
+
+Epoch: 3, iteration: 1020, loss: 6.311482906341553
+
+Epoch: 3, iteration: 1030, loss: 4.458744525909424
+
+Epoch: 3, iteration: 1040, loss: 6.5859503746032715
+
+Epoch: 3, iteration: 1050, loss: 7.567251682281494
+
+Epoch: 3, iteration: 1060, loss: 5.062004566192627
+
+Epoch: 3, iteration: 1070, loss: 2.779977321624756
+
+Epoch: 3, iteration: 1080, loss: 6.448902130126953
+
+Epoch: 3, iteration: 1090, loss: 2.8713998794555664
+
+Epoch: 3, iteration: 1100, loss: 7.531620502471924
+
+100%|██████████| 158/158 [00:44<00:00,  3.53it/s]
+100%|██████████| 105/105 [00:00<00:00, 1290.26it/s]
+====================================================================================================
+Epoch: 3, val_loss: 5.2068922746749156
+ acc_val_0: 0.863896517267122
+ acc_val_1: 0.7825219342733919
+ acc_val_2: 1.3392175885843798
+ acc_val_3: 2.634479369147112
+
+====================================================================================================
+iteration started
+ 14%|█▎        | 150/1106 [01:34<09:57,  1.60it/s]
+Epoch: 4, iteration: 0, loss: 5.909387111663818
+
+Epoch: 4, iteration: 10, loss: 2.1644792556762695
+
+Epoch: 4, iteration: 20, loss: 4.019928932189941
+
+Epoch: 4, iteration: 30, loss: 4.760306358337402
+
+Epoch: 4, iteration: 40, loss: 3.6506495475769043
+
+Epoch: 4, iteration: 50, loss: 6.819564342498779
+
+Epoch: 4, iteration: 60, loss: 3.37843918800354
+
+Epoch: 4, iteration: 70, loss: 4.515872001647949
+
+Epoch: 4, iteration: 80, loss: 7.736231327056885
+
+Epoch: 4, iteration: 90, loss: 6.993060111999512
+
+Epoch: 4, iteration: 100, loss: 9.143684387207031
+
+Epoch: 4, iteration: 110, loss: 10.597089767456055
+
+Epoch: 4, iteration: 120, loss: 3.065941572189331
+
+Epoch: 4, iteration: 130, loss: 6.063124656677246
+
+Epoch: 4, iteration: 140, loss: 7.994626522064209
+
+Epoch: 4, iteration: 150, loss: 15.51039981842041
+
+Epoch: 4, iteration: 160, loss: 8.505906105041504
+
+Epoch: 4, iteration: 170, loss: 4.4217915534973145
+
+Epoch: 4, iteration: 180, loss: 6.090760231018066
+
+Epoch: 4, iteration: 190, loss: 8.811636924743652
+
+Epoch: 4, iteration: 200, loss: 4.606665134429932
+
+Epoch: 4, iteration: 210, loss: 3.118820905685425
+
+Epoch: 4, iteration: 220, loss: 6.749727249145508
+
+Epoch: 4, iteration: 230, loss: 4.9695940017700195
+
+Epoch: 4, iteration: 240, loss: 2.600891351699829
+
+Epoch: 4, iteration: 250, loss: 9.852622985839844
+
+Epoch: 4, iteration: 260, loss: 12.618267059326172
+
+Epoch: 4, iteration: 270, loss: 5.2309489250183105
+
+Epoch: 4, iteration: 280, loss: 5.551875591278076
+
+Epoch: 4, iteration: 290, loss: 3.7726783752441406
+
+Epoch: 4, iteration: 300, loss: 4.2555928230285645
+
+Epoch: 4, iteration: 310, loss: 4.903372764587402
+
+Epoch: 4, iteration: 320, loss: 2.7708277702331543
+
+Epoch: 4, iteration: 330, loss: 8.914512634277344
+
+Epoch: 4, iteration: 340, loss: 3.0194764137268066
+
+Epoch: 4, iteration: 350, loss: 7.2292351722717285
+
+Epoch: 4, iteration: 360, loss: 9.4718017578125
+
+Epoch: 4, iteration: 370, loss: 2.928248405456543
+
+Epoch: 4, iteration: 380, loss: 3.873788833618164
+
+Epoch: 4, iteration: 390, loss: 4.047698497772217
+
+Epoch: 4, iteration: 400, loss: 3.461890459060669
+
+Epoch: 4, iteration: 410, loss: 6.4074625968933105
+
+Epoch: 4, iteration: 420, loss: 23.198148727416992
+
+Epoch: 4, iteration: 430, loss: 7.8917059898376465
+
+Epoch: 4, iteration: 440, loss: 2.625690221786499
+
+Epoch: 4, iteration: 450, loss: 7.387172222137451
+
+Epoch: 4, iteration: 460, loss: 7.7218170166015625
+
+Epoch: 4, iteration: 470, loss: 9.928637504577637
+
+Epoch: 4, iteration: 480, loss: 4.364399433135986
+
+Epoch: 4, iteration: 490, loss: 5.554736137390137
+
+Epoch: 4, iteration: 500, loss: 8.320633888244629
+
+Epoch: 4, iteration: 510, loss: 9.010682106018066
+
+Epoch: 4, iteration: 520, loss: 3.3375964164733887
+
+Epoch: 4, iteration: 530, loss: 13.478775978088379
+
+Epoch: 4, iteration: 540, loss: 2.8494820594787598
+
+Epoch: 4, iteration: 550, loss: 7.3777618408203125
+
+Epoch: 4, iteration: 560, loss: 2.982666492462158
+
+Epoch: 4, iteration: 570, loss: 12.665321350097656
+
+Epoch: 4, iteration: 580, loss: 4.318735599517822
+
+Epoch: 4, iteration: 590, loss: 9.279584884643555
+
+Epoch: 4, iteration: 600, loss: 6.942409515380859
+
+Epoch: 4, iteration: 610, loss: 4.371520042419434
+
+Epoch: 4, iteration: 620, loss: 3.8590891361236572
+
+Epoch: 4, iteration: 630, loss: 5.997406005859375
+
+Epoch: 4, iteration: 640, loss: 5.511268138885498
+
+Epoch: 4, iteration: 650, loss: 2.863046407699585
+
+Epoch: 4, iteration: 660, loss: 5.98314905166626
+
+Epoch: 4, iteration: 670, loss: 4.748209476470947
+
+Epoch: 4, iteration: 680, loss: 5.862794876098633
+
+Epoch: 4, iteration: 690, loss: 9.245431900024414
+
+Epoch: 4, iteration: 700, loss: 6.892385482788086
+
+Epoch: 4, iteration: 710, loss: 4.5142998695373535
+
+Epoch: 4, iteration: 720, loss: 2.7155327796936035
+
+Epoch: 4, iteration: 730, loss: 3.333231210708618
+
+Epoch: 4, iteration: 740, loss: 7.514030933380127
+
+Epoch: 4, iteration: 750, loss: 4.100536346435547
+
+Epoch: 4, iteration: 760, loss: 3.7567873001098633
+
+Epoch: 4, iteration: 770, loss: 9.832576751708984
+
+Epoch: 4, iteration: 780, loss: 3.885178565979004
+
+Epoch: 4, iteration: 790, loss: 8.629045486450195
+
+Epoch: 4, iteration: 800, loss: 12.471384048461914
+
+Epoch: 4, iteration: 810, loss: 8.99039363861084
+
+Epoch: 4, iteration: 820, loss: 10.830121994018555
+
+Epoch: 4, iteration: 830, loss: 7.5005106925964355
+
+Epoch: 4, iteration: 840, loss: 3.5971736907958984
+
+Epoch: 4, iteration: 850, loss: 7.871887683868408
+
+Epoch: 4, iteration: 860, loss: 13.679813385009766
+
+Epoch: 4, iteration: 870, loss: 4.468808650970459
+
+Epoch: 4, iteration: 880, loss: 12.81263256072998
+
+Epoch: 4, iteration: 890, loss: 7.2728424072265625
+
+Epoch: 4, iteration: 900, loss: 4.991106986999512
+
+Epoch: 4, iteration: 910, loss: 7.7259602546691895
+
+Epoch: 4, iteration: 920, loss: 6.543440818786621
+
+Epoch: 4, iteration: 930, loss: 18.440900802612305
+
+Epoch: 4, iteration: 940, loss: 12.508831977844238
+
+Epoch: 4, iteration: 950, loss: 2.0204029083251953
+
+Epoch: 4, iteration: 960, loss: 5.405003547668457
+
+Epoch: 4, iteration: 970, loss: 13.582366943359375
+
+Epoch: 4, iteration: 980, loss: 2.9983623027801514
+
+Epoch: 4, iteration: 990, loss: 13.133445739746094
+
+Epoch: 4, iteration: 1000, loss: 5.453436374664307
+
+Epoch: 4, iteration: 1010, loss: 5.022677421569824
+
+Epoch: 4, iteration: 1020, loss: 5.322936058044434
+
+Epoch: 4, iteration: 1030, loss: 2.5819904804229736
+
+Epoch: 4, iteration: 1040, loss: 5.868988037109375
+
+Epoch: 4, iteration: 1050, loss: 7.330185413360596
+
+Epoch: 4, iteration: 1060, loss: 5.77883768081665
+
+Epoch: 4, iteration: 1070, loss: 5.869167804718018
+
+Epoch: 4, iteration: 1080, loss: 8.738649368286133
+
+Epoch: 4, iteration: 1090, loss: 4.654255390167236
+
+Epoch: 4, iteration: 1100, loss: 3.0453500747680664
+
+100%|██████████| 158/158 [00:46<00:00,  3.38it/s]
+100%|██████████| 105/105 [00:00<00:00, 1291.47it/s]
+====================================================================================================
+Epoch: 4, val_loss: 5.0344353683411125
+ acc_val_0: 0.6618198600429209
+ acc_val_1: 0.8076258281065427
+ acc_val_2: 1.3866580475051358
+ acc_val_3: 2.6327320610274776
+
+====================================================================================================
+iteration started
+ 14%|█▎        | 150/1106 [01:34<10:00,  1.59it/s]
+Epoch: 5, iteration: 0, loss: 15.178984642028809
+
+Epoch: 5, iteration: 10, loss: 4.435239791870117
+
+Epoch: 5, iteration: 20, loss: 2.757173776626587
+
+Epoch: 5, iteration: 30, loss: 30.00447654724121
+
+Epoch: 5, iteration: 40, loss: 6.274081707000732
+
+Epoch: 5, iteration: 50, loss: 2.3943822383880615
+
+Epoch: 5, iteration: 60, loss: 3.021498441696167
+
+Epoch: 5, iteration: 70, loss: 5.121509552001953
+
+Epoch: 5, iteration: 80, loss: 5.595095157623291
+
+Epoch: 5, iteration: 90, loss: 7.181560516357422
+
+Epoch: 5, iteration: 100, loss: 6.575362205505371
+
+Epoch: 5, iteration: 110, loss: 2.411273717880249
+
+Epoch: 5, iteration: 120, loss: 8.343127250671387
+
+Epoch: 5, iteration: 130, loss: 4.552504062652588
+
+Epoch: 5, iteration: 140, loss: 5.708250999450684
+
+Epoch: 5, iteration: 150, loss: 5.032228946685791
+
+Epoch: 5, iteration: 160, loss: 3.6171867847442627
+
+Epoch: 5, iteration: 170, loss: 6.256312370300293
+
+Epoch: 5, iteration: 180, loss: 6.436407089233398
+
+Epoch: 5, iteration: 190, loss: 5.12254524230957
+
+Epoch: 5, iteration: 200, loss: 9.196136474609375
+
+Epoch: 5, iteration: 210, loss: 4.318453311920166
+
+Epoch: 5, iteration: 220, loss: 17.14863395690918
+
+Epoch: 5, iteration: 230, loss: 4.991946697235107
+
+Epoch: 5, iteration: 240, loss: 5.564766883850098
+
+Epoch: 5, iteration: 250, loss: 2.082620143890381
+
+Epoch: 5, iteration: 260, loss: 24.26819610595703
+
+Epoch: 5, iteration: 270, loss: 8.305943489074707
+
+Epoch: 5, iteration: 280, loss: 1.5658073425292969
+
+Epoch: 5, iteration: 290, loss: 13.65096664428711
+
+Epoch: 5, iteration: 300, loss: 3.647536039352417
+
+Epoch: 5, iteration: 310, loss: 2.6138882637023926
+
+Epoch: 5, iteration: 320, loss: 7.068474292755127
+
+Epoch: 5, iteration: 330, loss: 3.427091598510742
+
+Epoch: 5, iteration: 340, loss: 7.518506050109863
+
+Epoch: 5, iteration: 350, loss: 7.798543930053711
+
+Epoch: 5, iteration: 360, loss: 10.430363655090332
+
+Epoch: 5, iteration: 370, loss: 5.042439937591553
+
+Epoch: 5, iteration: 380, loss: 7.582944393157959
+
+Epoch: 5, iteration: 390, loss: 3.3375072479248047
+
+Epoch: 5, iteration: 400, loss: 3.51643443107605
+
+Epoch: 5, iteration: 410, loss: 7.039886474609375
+
+Epoch: 5, iteration: 420, loss: 4.977978229522705
+
+Epoch: 5, iteration: 430, loss: 4.346665382385254
+
+Epoch: 5, iteration: 440, loss: 7.3657989501953125
+
+Epoch: 5, iteration: 450, loss: 6.1050825119018555
+
+Epoch: 5, iteration: 460, loss: 3.2028310298919678
+
+Epoch: 5, iteration: 470, loss: 7.206831455230713
+
+Epoch: 5, iteration: 480, loss: 3.5276858806610107
+
+Epoch: 5, iteration: 490, loss: 6.9467267990112305
+
+Epoch: 5, iteration: 500, loss: 4.880488395690918
+
+Epoch: 5, iteration: 510, loss: 3.950406789779663
+
+Epoch: 5, iteration: 520, loss: 3.219636917114258
+
+Epoch: 5, iteration: 530, loss: 4.015329837799072
+
+Epoch: 5, iteration: 540, loss: 3.289475679397583
+
+Epoch: 5, iteration: 550, loss: 3.7488434314727783
+
+Epoch: 5, iteration: 560, loss: 2.54902720451355
+
+Epoch: 5, iteration: 570, loss: 5.37454080581665
+
+Epoch: 5, iteration: 580, loss: 5.898149490356445
+
+Epoch: 5, iteration: 590, loss: 3.600855827331543
+
+Epoch: 5, iteration: 600, loss: 19.258344650268555
+
+Epoch: 5, iteration: 610, loss: 4.516412258148193
+
+Epoch: 5, iteration: 620, loss: 5.855386734008789
+
+Epoch: 5, iteration: 630, loss: 3.9403531551361084
+
+Epoch: 5, iteration: 640, loss: 3.9310643672943115
+
+Epoch: 5, iteration: 650, loss: 7.348444938659668
+
+Epoch: 5, iteration: 660, loss: 4.013054370880127
+
+Epoch: 5, iteration: 670, loss: 4.11185359954834
+
+Epoch: 5, iteration: 680, loss: 3.367100954055786
+
+Epoch: 5, iteration: 690, loss: 13.324246406555176
+
+Epoch: 5, iteration: 700, loss: 2.7849111557006836
+
+Epoch: 5, iteration: 710, loss: 4.341202259063721
+
+Epoch: 5, iteration: 720, loss: 3.1618452072143555
+
+Epoch: 5, iteration: 730, loss: 2.8885114192962646
+
+Epoch: 5, iteration: 740, loss: 4.701154708862305
+
+Epoch: 5, iteration: 750, loss: 5.7674784660339355
+
+Epoch: 5, iteration: 760, loss: 6.41080379486084
+
+Epoch: 5, iteration: 770, loss: 5.839908123016357
+
+Epoch: 5, iteration: 780, loss: 6.500436782836914
+
+Epoch: 5, iteration: 790, loss: 12.031981468200684
+
+Epoch: 5, iteration: 800, loss: 3.9999547004699707
+
+Epoch: 5, iteration: 810, loss: 9.845072746276855
+
+Epoch: 5, iteration: 820, loss: 6.4846062660217285
+
+Epoch: 5, iteration: 830, loss: 2.659635543823242
+
+Epoch: 5, iteration: 840, loss: 4.195488452911377
+
+Epoch: 5, iteration: 850, loss: 7.136892795562744
+
+Epoch: 5, iteration: 860, loss: 5.424483776092529
+
+Epoch: 5, iteration: 870, loss: 1.7655539512634277
+
+Epoch: 5, iteration: 880, loss: 5.068295001983643
+
+Epoch: 5, iteration: 890, loss: 3.054894208908081
+
+Epoch: 5, iteration: 900, loss: 6.962159633636475
+
+Epoch: 5, iteration: 910, loss: 5.1370320320129395
+
+Epoch: 5, iteration: 920, loss: 8.643218994140625
+
+Epoch: 5, iteration: 930, loss: 4.929528713226318
+
+Epoch: 5, iteration: 940, loss: 3.918522357940674
+
+Epoch: 5, iteration: 950, loss: 9.706951141357422
+
+Epoch: 5, iteration: 960, loss: 1.8788783550262451
+
+Epoch: 5, iteration: 970, loss: 4.1816558837890625
+
+Epoch: 5, iteration: 980, loss: 4.361360549926758
+
+Epoch: 5, iteration: 990, loss: 2.9735469818115234
+
+Epoch: 5, iteration: 1000, loss: 2.589237689971924
+
+Epoch: 5, iteration: 1010, loss: 8.703713417053223
+
+Epoch: 5, iteration: 1020, loss: 7.820849418640137
+
+Epoch: 5, iteration: 1030, loss: 3.5652339458465576
+
+Epoch: 5, iteration: 1040, loss: 4.560168266296387
+
+Epoch: 5, iteration: 1050, loss: 5.793593883514404
+
+Epoch: 5, iteration: 1060, loss: 7.096043586730957
+
+Epoch: 5, iteration: 1070, loss: 2.388017177581787
+
+Epoch: 5, iteration: 1080, loss: 13.818609237670898
+
+Epoch: 5, iteration: 1090, loss: 3.426743984222412
+
+Epoch: 5, iteration: 1100, loss: 4.9135541915893555
+
+100%|██████████| 158/158 [00:47<00:00,  3.36it/s]
+100%|██████████| 105/105 [00:00<00:00, 1303.51it/s]
+====================================================================================================
+Epoch: 5, val_loss: 3.997406178429013
+ acc_val_0: 0.6827622278181504
+ acc_val_1: 0.6870952207265967
+ acc_val_2: 1.1387532036024093
+ acc_val_3: 2.238535520618104
+
+====================================================================================================
+iteration started
+ 14%|█▎        | 150/1106 [01:34<09:57,  1.60it/s]
+Epoch: 6, iteration: 0, loss: 5.830992221832275
+
+Epoch: 6, iteration: 10, loss: 8.421388626098633
+
+Epoch: 6, iteration: 20, loss: 4.61721658706665
+
+Epoch: 6, iteration: 30, loss: 3.8923180103302
+
+Epoch: 6, iteration: 40, loss: 3.4743332862854004
+
+Epoch: 6, iteration: 50, loss: 3.9922659397125244
+
+Epoch: 6, iteration: 60, loss: 5.645893096923828
+
+Epoch: 6, iteration: 70, loss: 3.889920473098755
+
+Epoch: 6, iteration: 80, loss: 10.25725269317627
+
+Epoch: 6, iteration: 90, loss: 5.21098518371582
+
+Epoch: 6, iteration: 100, loss: 2.7299985885620117
+
+Epoch: 6, iteration: 110, loss: 5.405452251434326
+
+Epoch: 6, iteration: 120, loss: 4.0714826583862305
+
+Epoch: 6, iteration: 130, loss: 5.9222259521484375
+
+Epoch: 6, iteration: 140, loss: 4.618874549865723
+
+Epoch: 6, iteration: 150, loss: 4.3116536140441895
+
+Epoch: 6, iteration: 160, loss: 4.318432331085205
+
+Epoch: 6, iteration: 170, loss: 2.400186061859131
+
+Epoch: 6, iteration: 180, loss: 10.272032737731934
+
+Epoch: 6, iteration: 190, loss: 5.1633734703063965
+
+Epoch: 6, iteration: 200, loss: 4.584334373474121
+
+Epoch: 6, iteration: 210, loss: 6.0275068283081055
+
+Epoch: 6, iteration: 220, loss: 3.8474085330963135
+
+Epoch: 6, iteration: 230, loss: 8.637451171875
+
+Epoch: 6, iteration: 240, loss: 5.555542945861816
+
+Epoch: 6, iteration: 250, loss: 2.2682783603668213
+
+Epoch: 6, iteration: 260, loss: 5.291249752044678
+
+Epoch: 6, iteration: 270, loss: 2.883856773376465
+
+Epoch: 6, iteration: 280, loss: 3.1688852310180664
+
+Epoch: 6, iteration: 290, loss: 8.74926471710205
+
+Epoch: 6, iteration: 300, loss: 3.641282796859741
+
+Epoch: 6, iteration: 310, loss: 4.2041544914245605
+
+Epoch: 6, iteration: 320, loss: 5.705453395843506
+
+Epoch: 6, iteration: 330, loss: 3.9965102672576904
+
+Epoch: 6, iteration: 340, loss: 4.4583420753479
+
+Epoch: 6, iteration: 350, loss: 3.5328831672668457
+
+Epoch: 6, iteration: 360, loss: 5.879866600036621
+
+Epoch: 6, iteration: 370, loss: 6.973641395568848
+
+Epoch: 6, iteration: 380, loss: 17.415578842163086
+
+Epoch: 6, iteration: 390, loss: 5.21965217590332
+
+Epoch: 6, iteration: 400, loss: 8.476512908935547
+
+Epoch: 6, iteration: 410, loss: 23.656116485595703
+
+Epoch: 6, iteration: 420, loss: 2.9874868392944336
+
+Epoch: 6, iteration: 430, loss: 3.435725450515747
+
+Epoch: 6, iteration: 440, loss: 2.3843400478363037
+
+Epoch: 6, iteration: 450, loss: 5.415536403656006
+
+Epoch: 6, iteration: 460, loss: 1.9769684076309204
+
+Epoch: 6, iteration: 470, loss: 9.661487579345703
+
+Epoch: 6, iteration: 480, loss: 5.975277423858643
+
+Epoch: 6, iteration: 490, loss: 2.5699195861816406
+
+Epoch: 6, iteration: 500, loss: 5.396528720855713
+
+Epoch: 6, iteration: 510, loss: 8.310714721679688
+
+Epoch: 6, iteration: 520, loss: 2.2360899448394775
+
+Epoch: 6, iteration: 530, loss: 3.2677230834960938
+
+Epoch: 6, iteration: 540, loss: 2.7129335403442383
+
+Epoch: 6, iteration: 550, loss: 1.9959652423858643
+
+Epoch: 6, iteration: 560, loss: 4.504278659820557
+
+Epoch: 6, iteration: 570, loss: 9.306653022766113
+
+Epoch: 6, iteration: 580, loss: 9.572193145751953
+
+Epoch: 6, iteration: 590, loss: 3.390388250350952
+
+Epoch: 6, iteration: 600, loss: 2.318291425704956
+
+Epoch: 6, iteration: 610, loss: 9.292479515075684
+
+Epoch: 6, iteration: 620, loss: 2.1254212856292725
+
+Epoch: 6, iteration: 630, loss: 2.6530165672302246
+
+Epoch: 6, iteration: 640, loss: 4.486423969268799
+
+Epoch: 6, iteration: 650, loss: 2.277150869369507
+
+Epoch: 6, iteration: 660, loss: 4.284712791442871
+
+Epoch: 6, iteration: 670, loss: 6.4748663902282715
+
+Epoch: 6, iteration: 680, loss: 11.4781494140625
+
+Epoch: 6, iteration: 690, loss: 5.565341472625732
+
+Epoch: 6, iteration: 700, loss: 9.615575790405273
+
+Epoch: 6, iteration: 710, loss: 4.807136535644531
+
+Epoch: 6, iteration: 720, loss: 2.1490938663482666
+
+Epoch: 6, iteration: 730, loss: 6.469938278198242
+
+Epoch: 6, iteration: 740, loss: 5.117905616760254
+
+Epoch: 6, iteration: 750, loss: 2.612196683883667
+
+Epoch: 6, iteration: 760, loss: 2.366173505783081
+
+Epoch: 6, iteration: 770, loss: 5.035001754760742
+
+Epoch: 6, iteration: 780, loss: 3.6552135944366455
+
+Epoch: 6, iteration: 790, loss: 3.0105974674224854
+
+Epoch: 6, iteration: 800, loss: 4.028421878814697
+
+Epoch: 6, iteration: 810, loss: 10.373462677001953
+
+Epoch: 6, iteration: 820, loss: 3.2822346687316895
+
+Epoch: 6, iteration: 830, loss: 2.327995777130127
+
+Epoch: 6, iteration: 840, loss: 4.29982328414917
+
+Epoch: 6, iteration: 850, loss: 5.520991802215576
+
+Epoch: 6, iteration: 860, loss: 2.7192494869232178
+
+Epoch: 6, iteration: 870, loss: 4.1876726150512695
+
+Epoch: 6, iteration: 880, loss: 14.282269477844238
+
+Epoch: 6, iteration: 890, loss: 14.846550941467285
+
+Epoch: 6, iteration: 900, loss: 3.5518839359283447
+
+Epoch: 6, iteration: 910, loss: 4.348849296569824
+
+Epoch: 6, iteration: 920, loss: 4.114861488342285
+
+Epoch: 6, iteration: 930, loss: 2.814383029937744
+
+Epoch: 6, iteration: 940, loss: 3.6133244037628174
+
+Epoch: 6, iteration: 950, loss: 8.994138717651367
+
+Epoch: 6, iteration: 960, loss: 3.2897632122039795
+
+Epoch: 6, iteration: 970, loss: 1.964544415473938
+
+Epoch: 6, iteration: 980, loss: 1.7991381883621216
+
+Epoch: 6, iteration: 990, loss: 8.381671905517578
+
+Epoch: 6, iteration: 1000, loss: 3.166559934616089
+
+Epoch: 6, iteration: 1010, loss: 2.9056320190429688
+
+Epoch: 6, iteration: 1020, loss: 5.850491046905518
+
+Epoch: 6, iteration: 1030, loss: 1.6061675548553467
+
+Epoch: 6, iteration: 1040, loss: 4.205920219421387
+
+Epoch: 6, iteration: 1050, loss: 5.336659908294678
+
+Epoch: 6, iteration: 1060, loss: 2.8826651573181152
+
+Epoch: 6, iteration: 1070, loss: 3.0084409713745117
+
+Epoch: 6, iteration: 1080, loss: 9.761041641235352
+
+Epoch: 6, iteration: 1090, loss: 12.135729789733887
+
+Epoch: 6, iteration: 1100, loss: 2.6083202362060547
+
+100%|██████████| 158/158 [00:45<00:00,  3.51it/s]
+100%|██████████| 105/105 [00:00<00:00, 1318.05it/s]
+====================================================================================================
+Epoch: 6, val_loss: 3.9412096371726384
+ acc_val_0: 0.619239560872978
+ acc_val_1: 0.7162774721253319
+ acc_val_2: 1.1642221233816734
+ acc_val_3: 2.2623378927150877
+
+====================================================================================================
+iteration started
+ 14%|█▎        | 150/1106 [01:34<09:58,  1.60it/s]
+Epoch: 7, iteration: 0, loss: 9.33151912689209
+
+Epoch: 7, iteration: 10, loss: 1.7521414756774902
+
+Epoch: 7, iteration: 20, loss: 5.611545085906982
+
+Epoch: 7, iteration: 30, loss: 3.033649206161499
+
+Epoch: 7, iteration: 40, loss: 4.070782661437988
+
+Epoch: 7, iteration: 50, loss: 5.1757659912109375
+
+Epoch: 7, iteration: 60, loss: 6.412271022796631
+
+Epoch: 7, iteration: 70, loss: 5.697656154632568
+
+Epoch: 7, iteration: 80, loss: 3.1033687591552734
+
+Epoch: 7, iteration: 90, loss: 2.893709182739258
+
+Epoch: 7, iteration: 100, loss: 2.704935073852539
+
+Epoch: 7, iteration: 110, loss: 5.47771692276001
+
+Epoch: 7, iteration: 120, loss: 3.808830976486206
+
+Epoch: 7, iteration: 130, loss: 4.346231460571289
+
+Epoch: 7, iteration: 140, loss: 9.714844703674316
+
+Epoch: 7, iteration: 150, loss: 4.2875657081604
+
+Epoch: 7, iteration: 160, loss: 1.9837990999221802
+
+Epoch: 7, iteration: 170, loss: 3.601992130279541
+
+Epoch: 7, iteration: 180, loss: 2.839190721511841
+
+Epoch: 7, iteration: 190, loss: 2.3852760791778564
+
+Epoch: 7, iteration: 200, loss: 9.342915534973145
+
+Epoch: 7, iteration: 210, loss: 1.930650234222412
+
+Epoch: 7, iteration: 220, loss: 5.6551713943481445
+
+Epoch: 7, iteration: 230, loss: 2.590914249420166
+
+Epoch: 7, iteration: 240, loss: 2.708063840866089
+
+Epoch: 7, iteration: 250, loss: 4.695321083068848
+
+Epoch: 7, iteration: 260, loss: 11.94290542602539
+
+Epoch: 7, iteration: 270, loss: 4.986434459686279
+
+Epoch: 7, iteration: 280, loss: 5.251298904418945
+
+Epoch: 7, iteration: 290, loss: 2.736203908920288
+
+Epoch: 7, iteration: 300, loss: 5.818903923034668
+
+Epoch: 7, iteration: 310, loss: 4.262429237365723
+
+Epoch: 7, iteration: 320, loss: 6.201188564300537
+
+Epoch: 7, iteration: 330, loss: 9.327742576599121
+
+Epoch: 7, iteration: 340, loss: 6.069694995880127
+
+Epoch: 7, iteration: 350, loss: 6.152915954589844
+
+Epoch: 7, iteration: 360, loss: 8.012900352478027
+
+Epoch: 7, iteration: 370, loss: 7.174130916595459
+
+Epoch: 7, iteration: 380, loss: 13.318788528442383
+
+Epoch: 7, iteration: 390, loss: 6.003303050994873
+
+Epoch: 7, iteration: 400, loss: 6.016295909881592
+
+Epoch: 7, iteration: 410, loss: 2.013559579849243
+
+Epoch: 7, iteration: 420, loss: 9.239027976989746
+
+Epoch: 7, iteration: 430, loss: 5.687666893005371
+
+Epoch: 7, iteration: 440, loss: 4.551783084869385
+
+Epoch: 7, iteration: 450, loss: 5.089573860168457
+
+Epoch: 7, iteration: 460, loss: 4.262722015380859
+
+Epoch: 7, iteration: 470, loss: 2.8086249828338623
+
+Epoch: 7, iteration: 480, loss: 1.8823490142822266
+
+Epoch: 7, iteration: 490, loss: 2.042083501815796
+
+Epoch: 7, iteration: 500, loss: 4.290633201599121
+
+Epoch: 7, iteration: 510, loss: 4.127259254455566
+
+Epoch: 7, iteration: 520, loss: 2.981626033782959
+
+Epoch: 7, iteration: 530, loss: 13.903290748596191
+
+Epoch: 7, iteration: 540, loss: 2.1854519844055176
+
+Epoch: 7, iteration: 550, loss: 14.541563034057617
+
+Epoch: 7, iteration: 560, loss: 3.0259451866149902
+
+Epoch: 7, iteration: 570, loss: 4.06880521774292
+
+Epoch: 7, iteration: 580, loss: 5.507309913635254
+
+Epoch: 7, iteration: 590, loss: 12.554157257080078
+
+Epoch: 7, iteration: 600, loss: 4.920233249664307
+
+Epoch: 7, iteration: 610, loss: 5.491030693054199
+
+Epoch: 7, iteration: 620, loss: 2.779686450958252
+
+Epoch: 7, iteration: 630, loss: 3.8066678047180176
+
+Epoch: 7, iteration: 640, loss: 3.4910032749176025
+
+Epoch: 7, iteration: 650, loss: 2.3280673027038574
+
+Epoch: 7, iteration: 660, loss: 13.6493501663208
+
+Epoch: 7, iteration: 670, loss: 2.680802822113037
+
+Epoch: 7, iteration: 680, loss: 9.509241104125977
+
+Epoch: 7, iteration: 690, loss: 3.3483240604400635
+
+Epoch: 7, iteration: 700, loss: 2.2731924057006836
+
+Epoch: 7, iteration: 710, loss: 4.248963832855225
+
+Epoch: 7, iteration: 720, loss: 6.673304080963135
+
+Epoch: 7, iteration: 730, loss: 2.19407057762146
+
+Epoch: 7, iteration: 740, loss: 3.113800048828125
+
+Epoch: 7, iteration: 750, loss: 21.33616065979004
+
+Epoch: 7, iteration: 760, loss: 3.5989465713500977
+
+Epoch: 7, iteration: 770, loss: 2.24326753616333
+
+Epoch: 7, iteration: 780, loss: 6.870518207550049
+
+Epoch: 7, iteration: 790, loss: 10.355279922485352
+
+Epoch: 7, iteration: 800, loss: 4.652388095855713
+
+Epoch: 7, iteration: 810, loss: 8.367387771606445
+
+Epoch: 7, iteration: 820, loss: 2.3032033443450928
+
+Epoch: 7, iteration: 830, loss: 4.653867721557617
+
+Epoch: 7, iteration: 840, loss: 8.431520462036133
+
+Epoch: 7, iteration: 850, loss: 7.556759357452393
+
+Epoch: 7, iteration: 860, loss: 3.9021589756011963
+
+Epoch: 7, iteration: 870, loss: 2.272444486618042
+
+Epoch: 7, iteration: 880, loss: 5.438742160797119
+
+Epoch: 7, iteration: 890, loss: 2.2744667530059814
+
+Epoch: 7, iteration: 900, loss: 2.2546377182006836
+
+Epoch: 7, iteration: 910, loss: 10.02333927154541
+
+Epoch: 7, iteration: 920, loss: 8.278319358825684
+
+Epoch: 7, iteration: 930, loss: 4.922581195831299
+
+Epoch: 7, iteration: 940, loss: 6.238178730010986
+
+Epoch: 7, iteration: 950, loss: 5.5811638832092285
+
+Epoch: 7, iteration: 960, loss: 2.7774012088775635
+
+Epoch: 7, iteration: 970, loss: 8.338543891906738
+
+Epoch: 7, iteration: 980, loss: 3.2425339221954346
+
+Epoch: 7, iteration: 990, loss: 6.326470375061035
+
+Epoch: 7, iteration: 1000, loss: 5.9668049812316895
+
+Epoch: 7, iteration: 1010, loss: 7.1468377113342285
+
+Epoch: 7, iteration: 1020, loss: 3.6980209350585938
+
+Epoch: 7, iteration: 1030, loss: 2.7525734901428223
+
+Epoch: 7, iteration: 1040, loss: 8.289897918701172
+
+Epoch: 7, iteration: 1050, loss: 5.242011070251465
+
+Epoch: 7, iteration: 1060, loss: 7.290363788604736
+
+Epoch: 7, iteration: 1070, loss: 7.4010009765625
+
+Epoch: 7, iteration: 1080, loss: 2.854962110519409
+
+Epoch: 7, iteration: 1090, loss: 6.308231353759766
+
+Epoch: 7, iteration: 1100, loss: 4.87783145904541
+
+100%|██████████| 158/158 [00:48<00:00,  3.25it/s]
+100%|██████████| 105/105 [00:00<00:00, 1304.11it/s]
+====================================================================================================
+Epoch: 7, val_loss: 3.2959973721277147
+ acc_val_0: 0.4497757675770987
+ acc_val_1: 0.7594814816893887
+ acc_val_2: 1.161599657367221
+ acc_val_3: 2.146971288282084
+
+====================================================================================================
+iteration started
+ 14%|█▎        | 150/1106 [01:34<10:00,  1.59it/s]
+Epoch: 8, iteration: 0, loss: 9.28148078918457
+
+Epoch: 8, iteration: 10, loss: 3.4234814643859863
+
+Epoch: 8, iteration: 20, loss: 3.971572160720825
+
+Epoch: 8, iteration: 30, loss: 4.714723110198975
+
+Epoch: 8, iteration: 40, loss: 4.90356969833374
+
+Epoch: 8, iteration: 50, loss: 3.0074334144592285
+
+Epoch: 8, iteration: 60, loss: 2.382880449295044
+
+Epoch: 8, iteration: 70, loss: 5.933145523071289
+
+Epoch: 8, iteration: 80, loss: 4.20466947555542
+
+Epoch: 8, iteration: 90, loss: 9.070433616638184
+
+Epoch: 8, iteration: 100, loss: 5.869148254394531
+
+Epoch: 8, iteration: 110, loss: 2.8571479320526123
+
+Epoch: 8, iteration: 120, loss: 1.679599642753601
+
+Epoch: 8, iteration: 130, loss: 2.9331188201904297
+
+Epoch: 8, iteration: 140, loss: 2.9625818729400635
+
+Epoch: 8, iteration: 150, loss: 5.057209491729736
+
+Epoch: 8, iteration: 160, loss: 2.156006097793579
+
+Epoch: 8, iteration: 170, loss: 14.40334701538086
+
+Epoch: 8, iteration: 180, loss: 4.922143936157227
+
+Epoch: 8, iteration: 190, loss: 3.567573070526123
+
+Epoch: 8, iteration: 200, loss: 6.186636924743652
+
+Epoch: 8, iteration: 210, loss: 9.77493667602539
+
+Epoch: 8, iteration: 220, loss: 9.21180248260498
+
+Epoch: 8, iteration: 230, loss: 2.994284152984619
+
+Epoch: 8, iteration: 240, loss: 3.7085490226745605
+
+Epoch: 8, iteration: 250, loss: 6.282512664794922
+
+Epoch: 8, iteration: 260, loss: 3.2628302574157715
+
+Epoch: 8, iteration: 270, loss: 1.5968276262283325
+
+Epoch: 8, iteration: 280, loss: 6.6786675453186035
+
+Epoch: 8, iteration: 290, loss: 3.5862436294555664
+
+Epoch: 8, iteration: 300, loss: 3.488023281097412
+
+Epoch: 8, iteration: 310, loss: 4.5455145835876465
+
+Epoch: 8, iteration: 320, loss: 4.6436662673950195
+
+Epoch: 8, iteration: 330, loss: 2.1645355224609375
+
+Epoch: 8, iteration: 340, loss: 5.579996109008789
+
+Epoch: 8, iteration: 350, loss: 2.3014333248138428
+
+Epoch: 8, iteration: 360, loss: 3.3999524116516113
+
+Epoch: 8, iteration: 370, loss: 5.80307149887085
+
+Epoch: 8, iteration: 380, loss: 1.8641539812088013
+
+Epoch: 8, iteration: 390, loss: 9.095012664794922
+
+Epoch: 8, iteration: 400, loss: 4.014835357666016
+
+Epoch: 8, iteration: 410, loss: 3.8140010833740234
+
+Epoch: 8, iteration: 420, loss: 1.5652601718902588
+
+Epoch: 8, iteration: 430, loss: 2.3970091342926025
+
+Epoch: 8, iteration: 440, loss: 2.9629263877868652
+
+Epoch: 8, iteration: 450, loss: 6.131258487701416
+
+Epoch: 8, iteration: 460, loss: 2.4456844329833984
+
+Epoch: 8, iteration: 470, loss: 2.831254005432129
+
+Epoch: 8, iteration: 480, loss: 3.0564894676208496
+
+Epoch: 8, iteration: 490, loss: 3.40622878074646
+
+Epoch: 8, iteration: 500, loss: 2.738704204559326
+
+Epoch: 8, iteration: 510, loss: 1.9683603048324585
+
+Epoch: 8, iteration: 520, loss: 4.406544208526611
+
+Epoch: 8, iteration: 530, loss: 4.177033424377441
+
+Epoch: 8, iteration: 540, loss: 7.942670822143555
+
+Epoch: 8, iteration: 550, loss: 2.2232017517089844
+
+Epoch: 8, iteration: 560, loss: 1.797872543334961
+
+Epoch: 8, iteration: 570, loss: 5.624606609344482
+
+Epoch: 8, iteration: 580, loss: 9.26547622680664
+
+Epoch: 8, iteration: 590, loss: 1.4313626289367676
+
+Epoch: 8, iteration: 600, loss: 1.9753912687301636
+
+Epoch: 8, iteration: 610, loss: 1.3822205066680908
+
+Epoch: 8, iteration: 620, loss: 3.8906912803649902
+
+Epoch: 8, iteration: 630, loss: 2.386518716812134
+
+Epoch: 8, iteration: 640, loss: 5.006231307983398
+
+Epoch: 8, iteration: 650, loss: 7.582946300506592
+
+Epoch: 8, iteration: 660, loss: 5.760773181915283
+
+Epoch: 8, iteration: 670, loss: 8.190557479858398
+
+Epoch: 8, iteration: 680, loss: 5.821627616882324
+
+Epoch: 8, iteration: 690, loss: 2.657027006149292
+
+Epoch: 8, iteration: 700, loss: 5.700748443603516
+
+Epoch: 8, iteration: 710, loss: 3.1815974712371826
+
+Epoch: 8, iteration: 720, loss: 2.6982076168060303
+
+Epoch: 8, iteration: 730, loss: 2.7701539993286133
+
+Epoch: 8, iteration: 740, loss: 9.637368202209473
+
+Epoch: 8, iteration: 750, loss: 7.735602378845215
+
+Epoch: 8, iteration: 760, loss: 10.647721290588379
+
+Epoch: 8, iteration: 770, loss: 3.628420829772949
+
+Epoch: 8, iteration: 780, loss: 15.149205207824707
+
+Epoch: 8, iteration: 790, loss: 2.243056535720825
+
+Epoch: 8, iteration: 800, loss: 2.7613096237182617
+
+Epoch: 8, iteration: 810, loss: 6.202614784240723
+
+Epoch: 8, iteration: 820, loss: 0.9407786130905151
+
+Epoch: 8, iteration: 830, loss: 5.961752414703369
+
+Epoch: 8, iteration: 840, loss: 2.0918145179748535
+
+Epoch: 8, iteration: 850, loss: 6.567157745361328
+
+Epoch: 8, iteration: 860, loss: 11.600412368774414
+
+Epoch: 8, iteration: 870, loss: 9.063023567199707
+
+Epoch: 8, iteration: 880, loss: 5.475535869598389
+
+Epoch: 8, iteration: 890, loss: 9.252728462219238
+
+Epoch: 8, iteration: 900, loss: 5.1062188148498535
+
+Epoch: 8, iteration: 910, loss: 5.727313995361328
+
+Epoch: 8, iteration: 920, loss: 9.648098945617676
+
+Epoch: 8, iteration: 930, loss: 3.7553136348724365
+
+Epoch: 8, iteration: 940, loss: 10.233874320983887
+
+Epoch: 8, iteration: 950, loss: 5.327898025512695
+
+Epoch: 8, iteration: 960, loss: 5.284949779510498
+
+Epoch: 8, iteration: 970, loss: 2.213247537612915
+
+Epoch: 8, iteration: 980, loss: 5.501718044281006
+
+Epoch: 8, iteration: 990, loss: 5.4212565422058105
+
+Epoch: 8, iteration: 1000, loss: 5.6023125648498535
+
+Epoch: 8, iteration: 1010, loss: 2.0433146953582764
+
+Epoch: 8, iteration: 1020, loss: 7.771841049194336
+
+Epoch: 8, iteration: 1030, loss: 3.8801798820495605
+
+Epoch: 8, iteration: 1040, loss: 12.235528945922852
+
+Epoch: 8, iteration: 1050, loss: 2.1005911827087402
+
+Epoch: 8, iteration: 1060, loss: 16.522960662841797
+
+Epoch: 8, iteration: 1070, loss: 5.065035343170166
+
+Epoch: 8, iteration: 1080, loss: 4.999732494354248
+
+Epoch: 8, iteration: 1090, loss: 1.3019554615020752
+
+Epoch: 8, iteration: 1100, loss: 5.750707626342773
+
+100%|██████████| 158/158 [00:46<00:00,  3.38it/s]
+100%|██████████| 105/105 [00:00<00:00, 1297.89it/s]
+====================================================================================================
+Epoch: 8, val_loss: 2.8053395437815833
+ acc_val_0: 0.6033435450125265
+ acc_val_1: 0.6000679643801717
+ acc_val_2: 0.9237182754329895
+ acc_val_3: 1.8420608303805939
+
+====================================================================================================
+iteration started
+ 14%|█▎        | 150/1106 [01:34<09:56,  1.60it/s]
+Epoch: 9, iteration: 0, loss: 3.7612624168395996
+
+Epoch: 9, iteration: 10, loss: 4.101844787597656
+
+Epoch: 9, iteration: 20, loss: 1.3147372007369995
+
+Epoch: 9, iteration: 30, loss: 2.543506145477295
+
+Epoch: 9, iteration: 40, loss: 8.739119529724121
+
+Epoch: 9, iteration: 50, loss: 3.0071310997009277
+
+Epoch: 9, iteration: 60, loss: 4.292913436889648
+
+Epoch: 9, iteration: 70, loss: 2.9253506660461426
+
+Epoch: 9, iteration: 80, loss: 3.052168846130371
+
+Epoch: 9, iteration: 90, loss: 2.6770505905151367
+
+Epoch: 9, iteration: 100, loss: 8.901115417480469
+
+Epoch: 9, iteration: 110, loss: 4.371214866638184
+
+Epoch: 9, iteration: 120, loss: 1.8153117895126343
+
+Epoch: 9, iteration: 130, loss: 4.6605939865112305
+
+Epoch: 9, iteration: 140, loss: 2.867204427719116
+
+Epoch: 9, iteration: 150, loss: 4.026360034942627
+
+Epoch: 9, iteration: 160, loss: 3.1381077766418457
+
+Epoch: 9, iteration: 170, loss: 2.072422504425049
+
+Epoch: 9, iteration: 180, loss: 6.1233062744140625
+
+Epoch: 9, iteration: 190, loss: 3.2758712768554688
+
+Epoch: 9, iteration: 200, loss: 4.08885383605957
+
+Epoch: 9, iteration: 210, loss: 8.85461711883545
+
+Epoch: 9, iteration: 220, loss: 3.107961416244507
+
+Epoch: 9, iteration: 230, loss: 2.5427908897399902
+
+Epoch: 9, iteration: 240, loss: 2.494884967803955
+
+Epoch: 9, iteration: 250, loss: 1.861212134361267
+
+Epoch: 9, iteration: 260, loss: 2.101612091064453
+
+Epoch: 9, iteration: 270, loss: 1.8808187246322632
+
+Epoch: 9, iteration: 280, loss: 5.8722100257873535
+
+Epoch: 9, iteration: 290, loss: 3.792952299118042
+
+Epoch: 9, iteration: 300, loss: 4.19584321975708
+
+Epoch: 9, iteration: 310, loss: 5.331180095672607
+
+Epoch: 9, iteration: 320, loss: 7.258945941925049
+
+Epoch: 9, iteration: 330, loss: 2.428593397140503
+
+Epoch: 9, iteration: 340, loss: 2.5847554206848145
+
+Epoch: 9, iteration: 350, loss: 5.229401111602783
+
+Epoch: 9, iteration: 360, loss: 7.164239883422852
+
+Epoch: 9, iteration: 370, loss: 6.623554229736328
+
+Epoch: 9, iteration: 380, loss: 2.1161656379699707
+
+Epoch: 9, iteration: 390, loss: 3.3789000511169434
+
+Epoch: 9, iteration: 400, loss: 3.0508735179901123
+
+Epoch: 9, iteration: 410, loss: 10.229227066040039
+
+Epoch: 9, iteration: 420, loss: 5.084922790527344
+
+Epoch: 9, iteration: 430, loss: 0.8058018088340759
+
+Epoch: 9, iteration: 440, loss: 2.5272717475891113
+
+Epoch: 9, iteration: 450, loss: 4.093778610229492
+
+Epoch: 9, iteration: 460, loss: 3.8921477794647217
+
+Epoch: 9, iteration: 470, loss: 2.7419376373291016
+
+Epoch: 9, iteration: 480, loss: 2.515292167663574
+
+Epoch: 9, iteration: 490, loss: 3.9280030727386475
+
+Epoch: 9, iteration: 500, loss: 4.521480083465576
+
+Epoch: 9, iteration: 510, loss: 4.5656609535217285
+
+Epoch: 9, iteration: 520, loss: 2.8582346439361572
+
+Epoch: 9, iteration: 530, loss: 1.5585733652114868
+
+Epoch: 9, iteration: 540, loss: 8.940598487854004
+
+Epoch: 9, iteration: 550, loss: 3.441680431365967
+
+Epoch: 9, iteration: 560, loss: 4.437418460845947
+
+Epoch: 9, iteration: 570, loss: 11.897733688354492
+
+Epoch: 9, iteration: 580, loss: 3.97338604927063
+
+Epoch: 9, iteration: 590, loss: 8.484062194824219
+
+Epoch: 9, iteration: 600, loss: 1.9174835681915283
+
+Epoch: 9, iteration: 610, loss: 4.975900173187256
+
+Epoch: 9, iteration: 620, loss: 2.1162774562835693
+
+Epoch: 9, iteration: 630, loss: 2.1351993083953857
+
+Epoch: 9, iteration: 640, loss: 3.7434492111206055
+
+Epoch: 9, iteration: 650, loss: 5.030121326446533
+
+Epoch: 9, iteration: 660, loss: 5.788771629333496
+
+Epoch: 9, iteration: 670, loss: 4.529870986938477
+
+Epoch: 9, iteration: 680, loss: 2.7850236892700195
+
+Epoch: 9, iteration: 690, loss: 8.262312889099121
+
+Epoch: 9, iteration: 700, loss: 3.0030527114868164
+
+Epoch: 9, iteration: 710, loss: 2.264157295227051
+
+Epoch: 9, iteration: 720, loss: 2.656559944152832
+
+Epoch: 9, iteration: 730, loss: 11.442268371582031
+
+Epoch: 9, iteration: 740, loss: 8.731595039367676
+
+Epoch: 9, iteration: 750, loss: 3.1732192039489746
+
+Epoch: 9, iteration: 760, loss: 4.8097333908081055
+
+Epoch: 9, iteration: 770, loss: 2.410815954208374
+
+Epoch: 9, iteration: 780, loss: 7.437903881072998
+
+Epoch: 9, iteration: 790, loss: 3.1965038776397705
+
+Epoch: 9, iteration: 800, loss: 3.9884705543518066
+
+Epoch: 9, iteration: 810, loss: 6.276956558227539
+
+Epoch: 9, iteration: 820, loss: 6.616036891937256
+
+Epoch: 9, iteration: 830, loss: 5.105220794677734
+
+Epoch: 9, iteration: 840, loss: 3.497756242752075
+
+Epoch: 9, iteration: 850, loss: 1.636172890663147
+
+Epoch: 9, iteration: 860, loss: 2.0865137577056885
+
+Epoch: 9, iteration: 870, loss: 3.496990442276001
+
+Epoch: 9, iteration: 880, loss: 1.8385061025619507
+
+Epoch: 9, iteration: 890, loss: 4.782688140869141
+
+Epoch: 9, iteration: 900, loss: 4.308300495147705
+
+Epoch: 9, iteration: 910, loss: 8.770983695983887
+
+Epoch: 9, iteration: 920, loss: 2.7267026901245117
+
+Epoch: 9, iteration: 930, loss: 2.3340096473693848
+
+Epoch: 9, iteration: 940, loss: 1.8498440980911255
+
+Epoch: 9, iteration: 950, loss: 3.7593588829040527
+
+Epoch: 9, iteration: 960, loss: 4.939774513244629
+
+Epoch: 9, iteration: 970, loss: 2.946216344833374
+
+Epoch: 9, iteration: 980, loss: 4.806765079498291
+
+Epoch: 9, iteration: 990, loss: 3.1086649894714355
+
+Epoch: 9, iteration: 1000, loss: 2.523632764816284
+
+Epoch: 9, iteration: 1010, loss: 2.008881092071533
+
+Epoch: 9, iteration: 1020, loss: 4.55722713470459
+
+Epoch: 9, iteration: 1030, loss: 4.0263471603393555
+
+Epoch: 9, iteration: 1040, loss: 1.5905728340148926
+
+Epoch: 9, iteration: 1050, loss: 2.234496593475342
+
+Epoch: 9, iteration: 1060, loss: 2.4739952087402344
+
+Epoch: 9, iteration: 1070, loss: 1.7822561264038086
+
+Epoch: 9, iteration: 1080, loss: 2.0459632873535156
+
+Epoch: 9, iteration: 1090, loss: 4.025021076202393
+
+Epoch: 9, iteration: 1100, loss: 2.8754711151123047
+
+100%|██████████| 158/158 [00:47<00:00,  3.33it/s]
+100%|██████████| 105/105 [00:00<00:00, 1288.69it/s]
+====================================================================================================
+Epoch: 9, val_loss: 2.2176300945736114
+ acc_val_0: 1.0239201394348572
+ acc_val_1: 0.4765179231549551
+ acc_val_2: 0.5935557818778423
+ acc_val_3: 1.4393507590335564
+
+====================================================================================================
+iteration started
+ 14%|█▎        | 150/1106 [01:34<09:55,  1.60it/s]
+Epoch: 10, iteration: 0, loss: 4.126526355743408
+
+Epoch: 10, iteration: 10, loss: 2.487816095352173
+
+Epoch: 10, iteration: 20, loss: 2.9137279987335205
+
+Epoch: 10, iteration: 30, loss: 11.19643497467041
+
+Epoch: 10, iteration: 40, loss: 2.1849591732025146
+
+Epoch: 10, iteration: 50, loss: 2.325532913208008
+
+Epoch: 10, iteration: 60, loss: 1.2626259326934814
+
+Epoch: 10, iteration: 70, loss: 3.6823313236236572
+
+Epoch: 10, iteration: 80, loss: 1.7633285522460938
+
+Epoch: 10, iteration: 90, loss: 7.177292823791504
+
+Epoch: 10, iteration: 100, loss: 9.861398696899414
+
+Epoch: 10, iteration: 110, loss: 1.9875094890594482
+
+Epoch: 10, iteration: 120, loss: 4.38809061050415
+
+Epoch: 10, iteration: 130, loss: 3.746016502380371
+
+Epoch: 10, iteration: 140, loss: 2.1447904109954834
+
+Epoch: 10, iteration: 150, loss: 4.687655448913574
+
+Epoch: 10, iteration: 160, loss: 4.214173316955566
+
+Epoch: 10, iteration: 170, loss: 5.728158950805664
+
+Epoch: 10, iteration: 180, loss: 2.395691394805908
+
+Epoch: 10, iteration: 190, loss: 3.8164873123168945
+
+Epoch: 10, iteration: 200, loss: 1.567206859588623
+
+Epoch: 10, iteration: 210, loss: 4.953716278076172
+
+Epoch: 10, iteration: 220, loss: 2.9614028930664062
+
+Epoch: 10, iteration: 230, loss: 3.714833974838257
+
+Epoch: 10, iteration: 240, loss: 5.9035539627075195
+
+Epoch: 10, iteration: 250, loss: 11.12086009979248
+
+Epoch: 10, iteration: 260, loss: 3.736226797103882
+
+Epoch: 10, iteration: 270, loss: 8.113201141357422
+
+Epoch: 10, iteration: 280, loss: 3.0910468101501465
+
+Epoch: 10, iteration: 290, loss: 2.035806655883789
+
+Epoch: 10, iteration: 300, loss: 8.571003913879395
+
+Epoch: 10, iteration: 310, loss: 3.522756814956665
+
+Epoch: 10, iteration: 320, loss: 1.7783745527267456
+
+Epoch: 10, iteration: 330, loss: 3.6351726055145264
+
+Epoch: 10, iteration: 340, loss: 1.712382197380066
+
+Epoch: 10, iteration: 350, loss: 2.9539146423339844
+
+Epoch: 10, iteration: 360, loss: 2.770977020263672
+
+Epoch: 10, iteration: 370, loss: 5.357936382293701
+
+Epoch: 10, iteration: 380, loss: 7.278880596160889
+
+Epoch: 10, iteration: 390, loss: 7.523133754730225
+
+Epoch: 10, iteration: 400, loss: 6.698711395263672
+
+Epoch: 10, iteration: 410, loss: 3.7383675575256348
+
+Epoch: 10, iteration: 420, loss: 1.983331322669983
+
+Epoch: 10, iteration: 430, loss: 2.0699918270111084
+
+Epoch: 10, iteration: 440, loss: 4.079419136047363
+
+Epoch: 10, iteration: 450, loss: 1.7817208766937256
+
+Epoch: 10, iteration: 460, loss: 5.235050678253174
+
+Epoch: 10, iteration: 470, loss: 2.1440041065216064
+
+Epoch: 10, iteration: 480, loss: 1.155462622642517
+
+Epoch: 10, iteration: 490, loss: 1.5853898525238037
+
+Epoch: 10, iteration: 500, loss: 12.405736923217773
+
+Epoch: 10, iteration: 510, loss: 3.608558177947998
+
+Epoch: 10, iteration: 520, loss: 6.856100559234619
+
+Epoch: 10, iteration: 530, loss: 1.9713047742843628
+
+Epoch: 10, iteration: 540, loss: 7.527591705322266
+
+Epoch: 10, iteration: 550, loss: 2.1210033893585205
+
+Epoch: 10, iteration: 560, loss: 2.5384581089019775
+
+Epoch: 10, iteration: 570, loss: 2.484165906906128
+
+Epoch: 10, iteration: 580, loss: 4.572964668273926
+
+Epoch: 10, iteration: 590, loss: 5.0237908363342285
+
+Epoch: 10, iteration: 600, loss: 2.9689793586730957
+
+Epoch: 10, iteration: 610, loss: 2.07582688331604
+
+Epoch: 10, iteration: 620, loss: 3.299043655395508
+
+Epoch: 10, iteration: 630, loss: 2.7325596809387207
+
+Epoch: 10, iteration: 640, loss: 2.1287665367126465
+
+Epoch: 10, iteration: 650, loss: 8.525840759277344
+
+Epoch: 10, iteration: 660, loss: 3.1253480911254883
+
+Epoch: 10, iteration: 670, loss: 3.272169351577759
+
+Epoch: 10, iteration: 680, loss: 5.817807197570801
+
+Epoch: 10, iteration: 690, loss: 2.8160927295684814
+
+Epoch: 10, iteration: 700, loss: 1.6779043674468994
+
+Epoch: 10, iteration: 710, loss: 1.0450072288513184
+
+Epoch: 10, iteration: 720, loss: 4.022786617279053
+
+Epoch: 10, iteration: 730, loss: 2.1963424682617188
+
+Epoch: 10, iteration: 740, loss: 3.080449342727661
+
+Epoch: 10, iteration: 750, loss: 2.072687864303589
+
+Epoch: 10, iteration: 760, loss: 2.220357894897461
+
+Epoch: 10, iteration: 770, loss: 6.262272834777832
+
+Epoch: 10, iteration: 780, loss: 3.197131872177124
+
+Epoch: 10, iteration: 790, loss: 1.666273593902588
+
+Epoch: 10, iteration: 800, loss: 1.912701964378357
+
+Epoch: 10, iteration: 810, loss: 2.4806103706359863
+
+Epoch: 10, iteration: 820, loss: 2.7157976627349854
+
+Epoch: 10, iteration: 830, loss: 2.044382333755493
+
+Epoch: 10, iteration: 840, loss: 9.256745338439941
+
+Epoch: 10, iteration: 850, loss: 1.8922744989395142
+
+Epoch: 10, iteration: 860, loss: 2.3259644508361816
+
+Epoch: 10, iteration: 870, loss: 2.9960055351257324
+
+Epoch: 10, iteration: 880, loss: 5.959041595458984
+
+Epoch: 10, iteration: 890, loss: 2.2382850646972656
+
+Epoch: 10, iteration: 900, loss: 4.811713218688965
+
+Epoch: 10, iteration: 910, loss: 2.9966447353363037
+
+Epoch: 10, iteration: 920, loss: 1.8441987037658691
+
+Epoch: 10, iteration: 930, loss: 2.7651731967926025
+
+Epoch: 10, iteration: 940, loss: 2.5733540058135986
+
+Epoch: 10, iteration: 950, loss: 2.5733635425567627
+
+Epoch: 10, iteration: 960, loss: 2.4761266708374023
+
+Epoch: 10, iteration: 970, loss: 2.6547298431396484
+
+Epoch: 10, iteration: 980, loss: 10.111665725708008
+
+Epoch: 10, iteration: 990, loss: 2.0949695110321045
+
+Epoch: 10, iteration: 1000, loss: 1.239912748336792
+
+Epoch: 10, iteration: 1010, loss: 10.714675903320312
+
+Epoch: 10, iteration: 1020, loss: 3.482257127761841
+
+Epoch: 10, iteration: 1030, loss: 4.279603958129883
+
+Epoch: 10, iteration: 1040, loss: 4.264610767364502
+
+Epoch: 10, iteration: 1050, loss: 4.073991298675537
+
+Epoch: 10, iteration: 1060, loss: 5.250955104827881
+
+Epoch: 10, iteration: 1070, loss: 1.8505746126174927
+
+Epoch: 10, iteration: 1080, loss: 3.0247952938079834
+
+Epoch: 10, iteration: 1090, loss: 3.3777549266815186
+
+Epoch: 10, iteration: 1100, loss: 1.4721752405166626
+
+100%|██████████| 158/158 [00:46<00:00,  3.36it/s]
+100%|██████████| 105/105 [00:00<00:00, 1299.44it/s]
+====================================================================================================
+Epoch: 10, val_loss: 2.226023150625683
+ acc_val_0: 0.6456544034453255
+ acc_val_1: 0.504840358834838
+ acc_val_2: 0.7633155964955584
+ acc_val_3: 1.5870229151322706
+
+====================================================================================================
+iteration started
+ 14%|█▎        | 150/1106 [01:34<10:00,  1.59it/s]
+Epoch: 11, iteration: 0, loss: 6.599931716918945
+
+Epoch: 11, iteration: 10, loss: 5.583291530609131
+
+Epoch: 11, iteration: 20, loss: 3.5450639724731445
+
+Epoch: 11, iteration: 30, loss: 4.569985866546631
+
+Epoch: 11, iteration: 40, loss: 3.049983501434326
+
+Epoch: 11, iteration: 50, loss: 0.8659077882766724
+
+Epoch: 11, iteration: 60, loss: 1.4262033700942993
+
+Epoch: 11, iteration: 70, loss: 3.47918963432312
+
+Epoch: 11, iteration: 80, loss: 7.001123428344727
+
+Epoch: 11, iteration: 90, loss: 4.862595558166504
+
+Epoch: 11, iteration: 100, loss: 2.7288126945495605
+
+Epoch: 11, iteration: 110, loss: 7.7864789962768555
+
+Epoch: 11, iteration: 120, loss: 6.6765289306640625
+
+Epoch: 11, iteration: 130, loss: 1.7753956317901611
+
+Epoch: 11, iteration: 140, loss: 2.4099323749542236
+
+Epoch: 11, iteration: 150, loss: 2.502218008041382
+
+Epoch: 11, iteration: 160, loss: 7.557115077972412
+
+Epoch: 11, iteration: 170, loss: 3.145787239074707
+
+Epoch: 11, iteration: 180, loss: 3.949366807937622
+
+Epoch: 11, iteration: 190, loss: 2.116304397583008
+
+Epoch: 11, iteration: 200, loss: 1.5589362382888794
+
+Epoch: 11, iteration: 210, loss: 3.904668092727661
+
+Epoch: 11, iteration: 220, loss: 6.4090399742126465
+
+Epoch: 11, iteration: 230, loss: 1.4359161853790283
+
+Epoch: 11, iteration: 240, loss: 1.5313222408294678
+
+Epoch: 11, iteration: 250, loss: 1.8672051429748535
+
+Epoch: 11, iteration: 260, loss: 2.116316556930542
+
+Epoch: 11, iteration: 270, loss: 6.3253631591796875
+
+Epoch: 11, iteration: 280, loss: 1.0199365615844727
+
+Epoch: 11, iteration: 290, loss: 2.0194008350372314
+
+Epoch: 11, iteration: 300, loss: 1.5666859149932861
+
+Epoch: 11, iteration: 310, loss: 3.863415002822876
+
+Epoch: 11, iteration: 320, loss: 1.886431336402893
+
+Epoch: 11, iteration: 330, loss: 9.74833869934082
+
+Epoch: 11, iteration: 340, loss: 3.3163416385650635
+
+Epoch: 11, iteration: 350, loss: 6.4896769523620605
+
+Epoch: 11, iteration: 360, loss: 3.3609745502471924
+
+Epoch: 11, iteration: 370, loss: 2.2841155529022217
+
+Epoch: 11, iteration: 380, loss: 1.9565168619155884
+
+Epoch: 11, iteration: 390, loss: 7.819779872894287
+
+Epoch: 11, iteration: 400, loss: 1.794638752937317
+
+Epoch: 11, iteration: 410, loss: 2.191586971282959
+
+Epoch: 11, iteration: 420, loss: 2.873006820678711
+
+Epoch: 11, iteration: 430, loss: 1.7711524963378906
+
+Epoch: 11, iteration: 440, loss: 1.550069808959961
+
+Epoch: 11, iteration: 450, loss: 3.9991424083709717
+
+Epoch: 11, iteration: 460, loss: 1.379801869392395
+
+Epoch: 11, iteration: 470, loss: 1.4868919849395752
+
+Epoch: 11, iteration: 480, loss: 1.9168134927749634
+
+Epoch: 11, iteration: 490, loss: 1.349087119102478
+
+Epoch: 11, iteration: 500, loss: 2.56179141998291
+
+Epoch: 11, iteration: 510, loss: 2.89198899269104
+
+Epoch: 11, iteration: 520, loss: 9.816381454467773
+
+Epoch: 11, iteration: 530, loss: 5.4686102867126465
+
+Epoch: 11, iteration: 540, loss: 13.89909553527832
+
+Epoch: 11, iteration: 550, loss: 8.146354675292969
+
+Epoch: 11, iteration: 560, loss: 2.525888442993164
+
+Epoch: 11, iteration: 570, loss: 2.4417965412139893
+
+Epoch: 11, iteration: 580, loss: 4.788126468658447
+
+Epoch: 11, iteration: 590, loss: 8.930874824523926
+
+Epoch: 11, iteration: 600, loss: 2.261672019958496
+
+Epoch: 11, iteration: 610, loss: 4.789350986480713
+
+Epoch: 11, iteration: 620, loss: 6.017585754394531
+
+Epoch: 11, iteration: 630, loss: 3.7354419231414795
+
+Epoch: 11, iteration: 640, loss: 3.9469475746154785
+
+Epoch: 11, iteration: 650, loss: 1.654431700706482
+
+Epoch: 11, iteration: 660, loss: 4.276331901550293
+
+Epoch: 11, iteration: 670, loss: 2.573868751525879
+
+Epoch: 11, iteration: 680, loss: 3.769726037979126
+
+Epoch: 11, iteration: 690, loss: 2.454376697540283
+
+Epoch: 11, iteration: 700, loss: 0.8396834135055542
+
+Epoch: 11, iteration: 710, loss: 7.065577030181885
+
+Epoch: 11, iteration: 720, loss: 0.9387543201446533
+
+Epoch: 11, iteration: 730, loss: 1.9963641166687012
+
+Epoch: 11, iteration: 740, loss: 2.4358537197113037
+
+Epoch: 11, iteration: 750, loss: 7.092836856842041
+
+Epoch: 11, iteration: 760, loss: 3.8360471725463867
+
+Epoch: 11, iteration: 770, loss: 3.900846004486084
+
+Epoch: 11, iteration: 780, loss: 1.891139030456543
+
+Epoch: 11, iteration: 790, loss: 3.222911834716797
+
+Epoch: 11, iteration: 800, loss: 2.178640604019165
+
+Epoch: 11, iteration: 810, loss: 1.9385826587677002
+
+Epoch: 11, iteration: 820, loss: 1.9403271675109863
+
+Epoch: 11, iteration: 830, loss: 1.1568713188171387
+
+Epoch: 11, iteration: 840, loss: 4.630459308624268
+
+Epoch: 11, iteration: 850, loss: 3.1142055988311768
+
+Epoch: 11, iteration: 860, loss: 4.193050861358643
+
+Epoch: 11, iteration: 870, loss: 1.9317039251327515
+
+Epoch: 11, iteration: 880, loss: 2.446577548980713
+
+Epoch: 11, iteration: 890, loss: 4.477074146270752
+
+Epoch: 11, iteration: 900, loss: 6.744812965393066
+
+Epoch: 11, iteration: 910, loss: 3.841104745864868
+
+Epoch: 11, iteration: 920, loss: 2.5433263778686523
+
+Epoch: 11, iteration: 930, loss: 2.219085454940796
+
+Epoch: 11, iteration: 940, loss: 1.5125439167022705
+
+Epoch: 11, iteration: 950, loss: 9.85446834564209
+
+Epoch: 11, iteration: 960, loss: 2.7348616123199463
+
+Epoch: 11, iteration: 970, loss: 2.165147304534912
+
+Epoch: 11, iteration: 980, loss: 2.909945487976074
+
+Epoch: 11, iteration: 990, loss: 6.157278537750244
+
+Epoch: 11, iteration: 1000, loss: 3.5006072521209717
+
+Epoch: 11, iteration: 1010, loss: 2.932138681411743
+
+Epoch: 11, iteration: 1020, loss: 3.791043519973755
+
+Epoch: 11, iteration: 1030, loss: 5.157944679260254
+
+Epoch: 11, iteration: 1040, loss: 1.0005123615264893
+
+Epoch: 11, iteration: 1050, loss: 3.1771199703216553
+
+Epoch: 11, iteration: 1060, loss: 6.079992771148682
+
+Epoch: 11, iteration: 1070, loss: 2.6363189220428467
+
+Epoch: 11, iteration: 1080, loss: 2.5841221809387207
+
+Epoch: 11, iteration: 1090, loss: 4.130432605743408
+
+Epoch: 11, iteration: 1100, loss: 2.016659736633301
+
+100%|██████████| 158/158 [00:50<00:00,  3.10it/s]
+100%|██████████| 105/105 [00:00<00:00, 1273.03it/s]
+====================================================================================================
+Epoch: 11, val_loss: 2.4797023682367234
+ acc_val_0: 0.43273796025838585
+ acc_val_1: 0.5694046347545949
+ acc_val_2: 0.870765470989079
+ acc_val_3: 1.6810918173736324
+
+====================================================================================================
+iteration started
+ 14%|█▎        | 150/1106 [01:34<09:55,  1.61it/s]
+Epoch: 12, iteration: 0, loss: 6.354362487792969
+
+Epoch: 12, iteration: 10, loss: 1.7308933734893799
+
+Epoch: 12, iteration: 20, loss: 2.354557991027832
+
+Epoch: 12, iteration: 30, loss: 5.021202564239502
+
+Epoch: 12, iteration: 40, loss: 1.822590947151184
+
+Epoch: 12, iteration: 50, loss: 3.485697031021118
+
+Epoch: 12, iteration: 60, loss: 1.6268563270568848
+
+Epoch: 12, iteration: 70, loss: 1.6153873205184937
+
+Epoch: 12, iteration: 80, loss: 2.012157917022705
+
+Epoch: 12, iteration: 90, loss: 8.738822937011719
+
+Epoch: 12, iteration: 100, loss: 5.642672061920166
+
+Epoch: 12, iteration: 110, loss: 4.034080505371094
+
+Epoch: 12, iteration: 120, loss: 1.9776595830917358
+
+Epoch: 12, iteration: 130, loss: 2.859389305114746
+
+Epoch: 12, iteration: 140, loss: 1.9229967594146729
+
+Epoch: 12, iteration: 150, loss: 2.327432155609131
+
+Epoch: 12, iteration: 160, loss: 5.054110050201416
+
+Epoch: 12, iteration: 170, loss: 5.910521984100342
+
+Epoch: 12, iteration: 180, loss: 7.509052276611328
+
+Epoch: 12, iteration: 190, loss: 5.597095012664795
+
+Epoch: 12, iteration: 200, loss: 2.7512762546539307
+
+Epoch: 12, iteration: 210, loss: 3.7551090717315674
+
+Epoch: 12, iteration: 220, loss: 3.1969990730285645
+
+Epoch: 12, iteration: 230, loss: 2.0472729206085205
+
+Epoch: 12, iteration: 240, loss: 2.779318332672119
+
+Epoch: 12, iteration: 250, loss: 3.8283133506774902
+
+Epoch: 12, iteration: 260, loss: 1.6402264833450317
+
+Epoch: 12, iteration: 270, loss: 1.931268572807312
+
+Epoch: 12, iteration: 280, loss: 2.0149781703948975
+
+Epoch: 12, iteration: 290, loss: 4.06865119934082
+
+Epoch: 12, iteration: 300, loss: 1.7063194513320923
+
+Epoch: 12, iteration: 310, loss: 2.4070072174072266
+
+Epoch: 12, iteration: 320, loss: 6.9535698890686035
+
+Epoch: 12, iteration: 330, loss: 1.604282021522522
+
+Epoch: 12, iteration: 340, loss: 3.1458446979522705
+
+Epoch: 12, iteration: 350, loss: 0.8104946613311768
+
+Epoch: 12, iteration: 360, loss: 4.6334004402160645
+
+Epoch: 12, iteration: 370, loss: 2.8849220275878906
+
+Epoch: 12, iteration: 380, loss: 1.360722541809082
+
+Epoch: 12, iteration: 390, loss: 3.207535743713379
+
+Epoch: 12, iteration: 400, loss: 10.19398307800293
+
+Epoch: 12, iteration: 410, loss: 3.1768665313720703
+
+Epoch: 12, iteration: 420, loss: 2.8470022678375244
+
+Epoch: 12, iteration: 430, loss: 6.062713146209717
+
+Epoch: 12, iteration: 440, loss: 0.990246057510376
+
+Epoch: 12, iteration: 450, loss: 6.595423221588135
+
+Epoch: 12, iteration: 460, loss: 1.6156052350997925
+
+Epoch: 12, iteration: 470, loss: 1.6541144847869873
+
+Epoch: 12, iteration: 480, loss: 1.9099570512771606
+
+Epoch: 12, iteration: 490, loss: 3.8324360847473145
+
+Epoch: 12, iteration: 500, loss: 3.869594097137451
+
+Epoch: 12, iteration: 510, loss: 7.130063533782959
+
+Epoch: 12, iteration: 520, loss: 1.3477929830551147
+
+Epoch: 12, iteration: 530, loss: 2.237861156463623
+
+Epoch: 12, iteration: 540, loss: 7.257421970367432
+
+Epoch: 12, iteration: 550, loss: 3.7394351959228516
+
+Epoch: 12, iteration: 560, loss: 1.563154697418213
+
+Epoch: 12, iteration: 570, loss: 2.415337085723877
+
+Epoch: 12, iteration: 580, loss: 2.0646121501922607
+
+Epoch: 12, iteration: 590, loss: 2.2265830039978027
+
+Epoch: 12, iteration: 600, loss: 2.6204121112823486
+
+Epoch: 12, iteration: 610, loss: 2.2563490867614746
+
+Epoch: 12, iteration: 620, loss: 1.9572806358337402
+
+Epoch: 12, iteration: 630, loss: 5.089680194854736
+
+Epoch: 12, iteration: 640, loss: 9.126826286315918
+
+Epoch: 12, iteration: 650, loss: 1.2468410730361938
+
+Epoch: 12, iteration: 660, loss: 6.940640449523926
+
+Epoch: 12, iteration: 670, loss: 3.869410753250122
+
+Epoch: 12, iteration: 680, loss: 3.23236346244812
+
+Epoch: 12, iteration: 690, loss: 2.500962734222412
+
+Epoch: 12, iteration: 700, loss: 1.7780338525772095
+
+Epoch: 12, iteration: 710, loss: 1.546964406967163
+
+Epoch: 12, iteration: 720, loss: 2.795931577682495
+
+Epoch: 12, iteration: 730, loss: 12.540369987487793
+
+Epoch: 12, iteration: 740, loss: 2.102006435394287
+
+Epoch: 12, iteration: 750, loss: 2.9032864570617676
+
+Epoch: 12, iteration: 760, loss: 5.876954078674316
+
+Epoch: 12, iteration: 770, loss: 1.6779351234436035
+
+Epoch: 12, iteration: 780, loss: 2.574573278427124
+
+Epoch: 12, iteration: 790, loss: 1.9961377382278442
+
+Epoch: 12, iteration: 800, loss: 8.694646835327148
+
+Epoch: 12, iteration: 810, loss: 1.1791746616363525
+
+Epoch: 12, iteration: 820, loss: 1.6293147802352905
+
+Epoch: 12, iteration: 830, loss: 1.775519847869873
+
+Epoch: 12, iteration: 840, loss: 1.484557867050171
+
+Epoch: 12, iteration: 850, loss: 2.8776423931121826
+
+Epoch: 12, iteration: 860, loss: 1.2375118732452393
+
+Epoch: 12, iteration: 870, loss: 1.04213285446167
+
+Epoch: 12, iteration: 880, loss: 1.4867160320281982
+
+Epoch: 12, iteration: 890, loss: 5.791994094848633
+
+Epoch: 12, iteration: 900, loss: 2.381169557571411
+
+Epoch: 12, iteration: 910, loss: 3.0021464824676514
+
+Epoch: 12, iteration: 920, loss: 1.6006358861923218
+
+Epoch: 12, iteration: 930, loss: 6.481489658355713
+
+Epoch: 12, iteration: 940, loss: 1.781864881515503
+
+Epoch: 12, iteration: 950, loss: 1.620115876197815
+
+Epoch: 12, iteration: 960, loss: 2.0712594985961914
+
+Epoch: 12, iteration: 970, loss: 6.01262092590332
+
+Epoch: 12, iteration: 980, loss: 7.020355701446533
+
+Epoch: 12, iteration: 990, loss: 1.1161574125289917
+
+Epoch: 12, iteration: 1000, loss: 6.744993686676025
+
+Epoch: 12, iteration: 1010, loss: 2.0933823585510254
+
+Epoch: 12, iteration: 1020, loss: 5.063611030578613
+
+Epoch: 12, iteration: 1030, loss: 1.9744868278503418
+
+Epoch: 12, iteration: 1040, loss: 1.419662594795227
+
+Epoch: 12, iteration: 1050, loss: 1.8828686475753784
+
+Epoch: 12, iteration: 1060, loss: 1.132238745689392
+
+Epoch: 12, iteration: 1070, loss: 2.221486806869507
+
+Epoch: 12, iteration: 1080, loss: 2.7567434310913086
+
+Epoch: 12, iteration: 1090, loss: 2.8991658687591553
+
+Epoch: 12, iteration: 1100, loss: 2.1047160625457764
+
+100%|██████████| 158/158 [00:47<00:00,  3.34it/s]
+100%|██████████| 105/105 [00:00<00:00, 1295.06it/s]
+====================================================================================================
+Epoch: 12, val_loss: 1.9591175949762738
+ acc_val_0: 0.5275438440350929
+ acc_val_1: 0.5050226739884867
+ acc_val_2: 0.7094579097375665
+ acc_val_3: 1.3868175598327517
+
+====================================================================================================
+iteration started
+ 14%|█▎        | 150/1106 [01:34<09:58,  1.60it/s]
+Epoch: 13, iteration: 0, loss: 2.9982903003692627
+
+Epoch: 13, iteration: 10, loss: 7.675844192504883
+
+Epoch: 13, iteration: 20, loss: 2.0765652656555176
+
+Epoch: 13, iteration: 30, loss: 2.1411218643188477
+
+Epoch: 13, iteration: 40, loss: 5.792953014373779
+
+Epoch: 13, iteration: 50, loss: 2.4603657722473145
+
+Epoch: 13, iteration: 60, loss: 4.745265483856201
+
+Epoch: 13, iteration: 70, loss: 3.6260390281677246
+
+Epoch: 13, iteration: 80, loss: 5.212977886199951
+
+Epoch: 13, iteration: 90, loss: 1.0074057579040527
+
+Epoch: 13, iteration: 100, loss: 3.314878225326538
+
+Epoch: 13, iteration: 110, loss: 2.5298333168029785
+
+Epoch: 13, iteration: 120, loss: 1.272392988204956
+
+Epoch: 13, iteration: 130, loss: 3.169416666030884
+
+Epoch: 13, iteration: 140, loss: 1.3949841260910034
+
+Epoch: 13, iteration: 150, loss: 2.320523977279663
+
+Epoch: 13, iteration: 160, loss: 2.8041679859161377
+
+Epoch: 13, iteration: 170, loss: 5.628781318664551
+
+Epoch: 13, iteration: 180, loss: 5.022374629974365
+
+Epoch: 13, iteration: 190, loss: 6.962303161621094
+
+Epoch: 13, iteration: 200, loss: 6.141422748565674
+
+Epoch: 13, iteration: 210, loss: 1.3708187341690063
+
+Epoch: 13, iteration: 220, loss: 2.6029396057128906
+
+Epoch: 13, iteration: 230, loss: 2.4431862831115723
+
+Epoch: 13, iteration: 240, loss: 1.589333415031433
+
+Epoch: 13, iteration: 250, loss: 10.475238800048828
+
+Epoch: 13, iteration: 260, loss: 3.9471287727355957
+
+Epoch: 13, iteration: 270, loss: 1.955717921257019
+
+Epoch: 13, iteration: 280, loss: 1.9377120733261108
+
+Epoch: 13, iteration: 290, loss: 1.8823139667510986
+
+Epoch: 13, iteration: 300, loss: 2.363842725753784
+
+Epoch: 13, iteration: 310, loss: 6.145785808563232
+
+Epoch: 13, iteration: 320, loss: 4.819738864898682
+
+Epoch: 13, iteration: 330, loss: 3.290076494216919
+
+Epoch: 13, iteration: 340, loss: 4.344030380249023
+
+Epoch: 13, iteration: 350, loss: 1.1779853105545044
+
+Epoch: 13, iteration: 360, loss: 2.802112102508545
+
+Epoch: 13, iteration: 370, loss: 8.751358032226562
+
+Epoch: 13, iteration: 380, loss: 1.9652354717254639
+
+Epoch: 13, iteration: 390, loss: 2.3398847579956055
+
+Epoch: 13, iteration: 400, loss: 1.343682050704956
+
+Epoch: 13, iteration: 410, loss: 2.890151023864746
+
+Epoch: 13, iteration: 420, loss: 4.292603492736816
+
+Epoch: 13, iteration: 430, loss: 4.772886753082275
+
+Epoch: 13, iteration: 440, loss: 5.036726474761963
+
+Epoch: 13, iteration: 450, loss: 2.4325592517852783
+
+Epoch: 13, iteration: 460, loss: 1.0759615898132324
+
+Epoch: 13, iteration: 470, loss: 3.1999564170837402
+
+Epoch: 13, iteration: 480, loss: 2.019496202468872
+
+Epoch: 13, iteration: 490, loss: 2.363931655883789
+
+Epoch: 13, iteration: 500, loss: 3.7493691444396973
+
+Epoch: 13, iteration: 510, loss: 6.16206693649292
+
+Epoch: 13, iteration: 520, loss: 5.838855266571045
+
+Epoch: 13, iteration: 530, loss: 2.685053825378418
+
+Epoch: 13, iteration: 540, loss: 1.1055277585983276
+
+Epoch: 13, iteration: 550, loss: 2.8062903881073
+
+Epoch: 13, iteration: 560, loss: 3.6516740322113037
+
+Epoch: 13, iteration: 570, loss: 4.7689056396484375
+
+Epoch: 13, iteration: 580, loss: 8.383703231811523
+
+Epoch: 13, iteration: 590, loss: 5.3889899253845215
+
+Epoch: 13, iteration: 600, loss: 1.808212161064148
+
+Epoch: 13, iteration: 610, loss: 0.9475942254066467
+
+Epoch: 13, iteration: 620, loss: 4.696456432342529
+
+Epoch: 13, iteration: 630, loss: 2.33844256401062
+
+Epoch: 13, iteration: 640, loss: 1.498816728591919
+
+Epoch: 13, iteration: 650, loss: 4.1898884773254395
+
+Epoch: 13, iteration: 660, loss: 3.0585079193115234
+
+Epoch: 13, iteration: 670, loss: 1.865365982055664
+
+Epoch: 13, iteration: 680, loss: 3.5509369373321533
+
+Epoch: 13, iteration: 690, loss: 8.323583602905273
+
+Epoch: 13, iteration: 700, loss: 2.052154064178467
+
+Epoch: 13, iteration: 710, loss: 6.910024166107178
+
+Epoch: 13, iteration: 720, loss: 3.0723798274993896
+
+Epoch: 13, iteration: 730, loss: 4.846870422363281
+
+Epoch: 13, iteration: 740, loss: 10.928361892700195
+
+Epoch: 13, iteration: 750, loss: 2.1189417839050293
+
+Epoch: 13, iteration: 760, loss: 1.742561936378479
+
+Epoch: 13, iteration: 770, loss: 2.022120475769043
+
+Epoch: 13, iteration: 780, loss: 4.5010552406311035
+
+Epoch: 13, iteration: 790, loss: 6.755221843719482
+
+Epoch: 13, iteration: 800, loss: 2.5146358013153076
+
+Epoch: 13, iteration: 810, loss: 7.345677375793457
+
+Epoch: 13, iteration: 820, loss: 2.4755356311798096
+
+Epoch: 13, iteration: 830, loss: 6.554130554199219
+
+Epoch: 13, iteration: 840, loss: 2.751988410949707
+
+Epoch: 13, iteration: 850, loss: 6.8762993812561035
+
+Epoch: 13, iteration: 860, loss: 1.755254864692688
+
+Epoch: 13, iteration: 870, loss: 1.9362690448760986
+
+Epoch: 13, iteration: 880, loss: 1.752710223197937
+
+Epoch: 13, iteration: 890, loss: 2.925267457962036
+
+Epoch: 13, iteration: 900, loss: 8.922791481018066
+
+Epoch: 13, iteration: 910, loss: 4.9081854820251465
+
+Epoch: 13, iteration: 920, loss: 2.821168899536133
+
+Epoch: 13, iteration: 930, loss: 1.2389615774154663
+
+Epoch: 13, iteration: 940, loss: 3.204479932785034
+
+Epoch: 13, iteration: 950, loss: 3.890958309173584
+
+Epoch: 13, iteration: 960, loss: 4.818696975708008
+
+Epoch: 13, iteration: 970, loss: 1.9266064167022705
+
+Epoch: 13, iteration: 980, loss: 3.5403342247009277
+
+Epoch: 13, iteration: 990, loss: 2.0400660037994385
+
+Epoch: 13, iteration: 1000, loss: 2.008559226989746
+
+Epoch: 13, iteration: 1010, loss: 1.520175576210022
+
+Epoch: 13, iteration: 1020, loss: 4.330440998077393
+
+Epoch: 13, iteration: 1030, loss: 0.7181258201599121
+
+Epoch: 13, iteration: 1040, loss: 7.355044841766357
+
+Epoch: 13, iteration: 1050, loss: 1.6533067226409912
+
+Epoch: 13, iteration: 1060, loss: 1.7609063386917114
+
+Epoch: 13, iteration: 1070, loss: 2.3801512718200684
+
+Epoch: 13, iteration: 1080, loss: 1.222093939781189
+
+Epoch: 13, iteration: 1090, loss: 5.161616802215576
+
+Epoch: 13, iteration: 1100, loss: 0.80963134765625
+
+100%|██████████| 158/158 [00:48<00:00,  3.25it/s]
+100%|██████████| 105/105 [00:00<00:00, 1301.19it/s]
+====================================================================================================
+Epoch: 13, val_loss: 2.4465351237191095
+ acc_val_0: 0.44155831511161414
+ acc_val_1: 0.6021198485488135
+ acc_val_2: 0.8599927478399751
+ acc_val_3: 1.6025279640240713
+
+====================================================================================================
+iteration started
+ 14%|█▎        | 150/1106 [01:34<10:00,  1.59it/s]
+Epoch: 14, iteration: 0, loss: 2.2233030796051025
+
+Epoch: 14, iteration: 10, loss: 2.5822336673736572
+
+Epoch: 14, iteration: 20, loss: 1.6743130683898926
+
+Epoch: 14, iteration: 30, loss: 3.3977878093719482
+
+Epoch: 14, iteration: 40, loss: 4.166255950927734
+
+Epoch: 14, iteration: 50, loss: 2.6996774673461914
+
+Epoch: 14, iteration: 60, loss: 1.8978633880615234
+
+Epoch: 14, iteration: 70, loss: 1.196627140045166
+
+Epoch: 14, iteration: 80, loss: 7.814405918121338
+
+Epoch: 14, iteration: 90, loss: 1.8769904375076294
+
+Epoch: 14, iteration: 100, loss: 1.7630867958068848
+
+Epoch: 14, iteration: 110, loss: 1.1359517574310303
+
+Epoch: 14, iteration: 120, loss: 7.297091484069824
+
+Epoch: 14, iteration: 130, loss: 1.6910852193832397
+
+Epoch: 14, iteration: 140, loss: 1.401401162147522
+
+Epoch: 14, iteration: 150, loss: 1.578125238418579
+
+Epoch: 14, iteration: 160, loss: 3.1648645401000977
+
+Epoch: 14, iteration: 170, loss: 1.753784418106079
+
+Epoch: 14, iteration: 180, loss: 2.082801103591919
+
+Epoch: 14, iteration: 190, loss: 5.899345874786377
+
+Epoch: 14, iteration: 200, loss: 1.3816545009613037
+
+Epoch: 14, iteration: 210, loss: 1.9802979230880737
+
+Epoch: 14, iteration: 220, loss: 4.765100002288818
+
+Epoch: 14, iteration: 230, loss: 1.8887678384780884
+
+Epoch: 14, iteration: 240, loss: 7.055148601531982
+
+Epoch: 14, iteration: 250, loss: 2.648571252822876
+
+Epoch: 14, iteration: 260, loss: 4.914916038513184
+
+Epoch: 14, iteration: 270, loss: 8.090653419494629
+
+Epoch: 14, iteration: 280, loss: 6.532628536224365
+
+Epoch: 14, iteration: 290, loss: 2.8070642948150635
+
+Epoch: 14, iteration: 300, loss: 3.846092462539673
+
+Epoch: 14, iteration: 310, loss: 12.582716941833496
+
+Epoch: 14, iteration: 320, loss: 5.291845321655273
+
+Epoch: 14, iteration: 330, loss: 1.6156059503555298
+
+Epoch: 14, iteration: 340, loss: 3.7461094856262207
+
+Epoch: 14, iteration: 350, loss: 6.8637542724609375
+
+Epoch: 14, iteration: 360, loss: 6.376592636108398
+
+Epoch: 14, iteration: 370, loss: 2.220093250274658
+
+Epoch: 14, iteration: 380, loss: 1.7254817485809326
+
+Epoch: 14, iteration: 390, loss: 2.0964529514312744
+
+Epoch: 14, iteration: 400, loss: 4.20686149597168
+
+Epoch: 14, iteration: 410, loss: 4.1690993309021
+
+Epoch: 14, iteration: 420, loss: 9.296331405639648
+
+Epoch: 14, iteration: 430, loss: 3.5462000370025635
+
+Epoch: 14, iteration: 440, loss: 1.8698853254318237
+
+Epoch: 14, iteration: 450, loss: 5.896973609924316
+
+Epoch: 14, iteration: 460, loss: 1.5913395881652832
+
+Epoch: 14, iteration: 470, loss: 10.211118698120117
+
+Epoch: 14, iteration: 480, loss: 0.9400494694709778
+
+Epoch: 14, iteration: 490, loss: 2.2635304927825928
+
+Epoch: 14, iteration: 500, loss: 3.190887212753296
+
+Epoch: 14, iteration: 510, loss: 5.616827487945557
+
+Epoch: 14, iteration: 520, loss: 2.3039543628692627
+
+Epoch: 14, iteration: 530, loss: 1.2176510095596313
+
+Epoch: 14, iteration: 540, loss: 3.581932783126831
+
+Epoch: 14, iteration: 550, loss: 5.877218246459961
+
+Epoch: 14, iteration: 560, loss: 4.566181182861328
+
+Epoch: 14, iteration: 570, loss: 4.7521209716796875
+
+Epoch: 14, iteration: 580, loss: 1.8000900745391846
+
+Epoch: 14, iteration: 590, loss: 2.1451220512390137
+
+Epoch: 14, iteration: 600, loss: 1.0175455808639526
+
+Epoch: 14, iteration: 610, loss: 2.3333654403686523
+
+Epoch: 14, iteration: 620, loss: 4.591886043548584
+
+Epoch: 14, iteration: 630, loss: 1.3913562297821045
+
+Epoch: 14, iteration: 640, loss: 1.743525743484497
+
+Epoch: 14, iteration: 650, loss: 2.6282339096069336
+
+Epoch: 14, iteration: 660, loss: 4.664602756500244
+
+Epoch: 14, iteration: 670, loss: 4.184334754943848
+
+Epoch: 14, iteration: 680, loss: 7.134406089782715
+
+Epoch: 14, iteration: 690, loss: 3.473461866378784
+
+Epoch: 14, iteration: 700, loss: 1.9943674802780151
+
+Epoch: 14, iteration: 710, loss: 5.67058801651001
+
+Epoch: 14, iteration: 720, loss: 1.1341350078582764
+
+Epoch: 14, iteration: 730, loss: 2.0521302223205566
+
+Epoch: 14, iteration: 740, loss: 5.651889324188232
+
+Epoch: 14, iteration: 750, loss: 9.44660472869873
+
+Epoch: 14, iteration: 760, loss: 1.2707571983337402
+
+Epoch: 14, iteration: 770, loss: 11.030941009521484
+
+Epoch: 14, iteration: 780, loss: 3.7540035247802734
+
+Epoch: 14, iteration: 790, loss: 1.7592047452926636
+
+Epoch: 14, iteration: 800, loss: 2.474869966506958
+
+Epoch: 14, iteration: 810, loss: 2.5552659034729004
+
+Epoch: 14, iteration: 820, loss: 1.3415775299072266
+
+Epoch: 14, iteration: 830, loss: 1.9923081398010254
+
+Epoch: 14, iteration: 840, loss: 1.2748336791992188
+
+Epoch: 14, iteration: 850, loss: 5.527485370635986
+
+Epoch: 14, iteration: 860, loss: 4.3329854011535645
+
+Epoch: 14, iteration: 870, loss: 1.2095133066177368
+
+Epoch: 14, iteration: 880, loss: 2.2038466930389404
+
+Epoch: 14, iteration: 890, loss: 1.6933826208114624
+
+Epoch: 14, iteration: 900, loss: 4.2672119140625
+
+Epoch: 14, iteration: 910, loss: 10.036246299743652
+
+Epoch: 14, iteration: 920, loss: 2.024503707885742
+
+Epoch: 14, iteration: 930, loss: 2.705796003341675
+
+Epoch: 14, iteration: 940, loss: 4.979055404663086
+
+Epoch: 14, iteration: 950, loss: 4.174516677856445
+
+Epoch: 14, iteration: 960, loss: 2.860785961151123
+
+Epoch: 14, iteration: 970, loss: 1.8429855108261108
+
+Epoch: 14, iteration: 980, loss: 2.176020383834839
+
+Epoch: 14, iteration: 990, loss: 3.213611125946045
+
+Epoch: 14, iteration: 1000, loss: 0.777958869934082
+
+Epoch: 14, iteration: 1010, loss: 2.3880395889282227
+
+Epoch: 14, iteration: 1020, loss: 1.6592106819152832
+
+Epoch: 14, iteration: 1030, loss: 2.250129222869873
+
+Epoch: 14, iteration: 1040, loss: 4.581259727478027
+
+Epoch: 14, iteration: 1050, loss: 2.144787549972534
+
+Epoch: 14, iteration: 1060, loss: 1.2974433898925781
+
+Epoch: 14, iteration: 1070, loss: 2.0313878059387207
+
+Epoch: 14, iteration: 1080, loss: 1.4206868410110474
+
+Epoch: 14, iteration: 1090, loss: 1.6319074630737305
+
+Epoch: 14, iteration: 1100, loss: 2.5330488681793213
+
+100%|██████████| 158/158 [00:49<00:00,  3.21it/s]
+100%|██████████| 105/105 [00:00<00:00, 1285.07it/s]
+====================================================================================================
+Epoch: 14, val_loss: 2.405869371739645
+ acc_val_0: 0.33068495478097415
+ acc_val_1: 0.7714883032353851
+ acc_val_2: 1.0609832380936695
+ acc_val_3: 1.7486173425981804
+
+====================================================================================================
+iteration started
+ 14%|█▎        | 150/1106 [01:34<10:00,  1.59it/s]
+Epoch: 15, iteration: 0, loss: 0.9275853633880615
+
+Epoch: 15, iteration: 10, loss: 2.850645065307617
+
+Epoch: 15, iteration: 20, loss: 1.7700936794281006
+
+Epoch: 15, iteration: 30, loss: 7.201216220855713
+
+Epoch: 15, iteration: 40, loss: 1.3144557476043701
+
+Epoch: 15, iteration: 50, loss: 1.599279761314392
+
+Epoch: 15, iteration: 60, loss: 2.3701491355895996
+
+Epoch: 15, iteration: 70, loss: 1.4887783527374268
+
+Epoch: 15, iteration: 80, loss: 2.5434861183166504
+
+Epoch: 15, iteration: 90, loss: 0.9388946294784546
+
+Epoch: 15, iteration: 100, loss: 1.4438402652740479
+
+Epoch: 15, iteration: 110, loss: 2.623525381088257
+
+Epoch: 15, iteration: 120, loss: 6.681138038635254
+
+Epoch: 15, iteration: 130, loss: 2.1126937866210938
+
+Epoch: 15, iteration: 140, loss: 2.7077391147613525
+
+Epoch: 15, iteration: 150, loss: 2.7940778732299805
+
+Epoch: 15, iteration: 160, loss: 6.0847296714782715
+
+Epoch: 15, iteration: 170, loss: 2.69706130027771
+
+Epoch: 15, iteration: 180, loss: 3.152050733566284
+
+Epoch: 15, iteration: 190, loss: 2.2787489891052246
+
+Epoch: 15, iteration: 200, loss: 3.1213934421539307
+
+Epoch: 15, iteration: 210, loss: 6.784176349639893
+
+Epoch: 15, iteration: 220, loss: 2.6098990440368652
+
+Epoch: 15, iteration: 230, loss: 1.9876049757003784
+
+Epoch: 15, iteration: 240, loss: 4.848392486572266
+
+Epoch: 15, iteration: 250, loss: 5.8001790046691895
+
+Epoch: 15, iteration: 260, loss: 3.3955800533294678
+
+Epoch: 15, iteration: 270, loss: 2.2069129943847656
+
+Epoch: 15, iteration: 280, loss: 1.5604867935180664
+
+Epoch: 15, iteration: 290, loss: 2.9958367347717285
+
+Epoch: 15, iteration: 300, loss: 3.7486660480499268
+
+Epoch: 15, iteration: 310, loss: 2.794316053390503
+
+Epoch: 15, iteration: 320, loss: 3.9740521907806396
+
+Epoch: 15, iteration: 330, loss: 2.012651205062866
+
+Epoch: 15, iteration: 340, loss: 12.768584251403809
+
+Epoch: 15, iteration: 350, loss: 4.9996867179870605
+
+Epoch: 15, iteration: 360, loss: 6.919355392456055
+
+Epoch: 15, iteration: 370, loss: 1.8733481168746948
+
+Epoch: 15, iteration: 380, loss: 2.9129016399383545
+
+Epoch: 15, iteration: 390, loss: 7.498685836791992
+
+Epoch: 15, iteration: 400, loss: 6.288435935974121
+
+Epoch: 15, iteration: 410, loss: 5.145443916320801
+
+Epoch: 15, iteration: 420, loss: 2.00777530670166
+
+Epoch: 15, iteration: 430, loss: 2.267888307571411
+
+Epoch: 15, iteration: 440, loss: 3.5185205936431885
+
+Epoch: 15, iteration: 450, loss: 0.969661295413971
+
+Epoch: 15, iteration: 460, loss: 2.2297749519348145
+
+Epoch: 15, iteration: 470, loss: 2.1695783138275146
+
+Epoch: 15, iteration: 480, loss: 11.160703659057617
+
+Epoch: 15, iteration: 490, loss: 2.741773843765259
+
+Epoch: 15, iteration: 500, loss: 4.399592399597168
+
+Epoch: 15, iteration: 510, loss: 1.3303362131118774
+
+Epoch: 15, iteration: 520, loss: 1.7817444801330566
+
+Epoch: 15, iteration: 530, loss: 2.822218179702759
+
+Epoch: 15, iteration: 540, loss: 2.9914944171905518
+
+Epoch: 15, iteration: 550, loss: 3.36987566947937
+
+Epoch: 15, iteration: 560, loss: 1.661133050918579
+
+Epoch: 15, iteration: 570, loss: 2.900108814239502
+
+Epoch: 15, iteration: 580, loss: 3.585601568222046
+
+Epoch: 15, iteration: 590, loss: 1.5148987770080566
+
+Epoch: 15, iteration: 600, loss: 2.613699436187744
+
+Epoch: 15, iteration: 610, loss: 9.40512466430664
+
+Epoch: 15, iteration: 620, loss: 1.7434128522872925
+
+Epoch: 15, iteration: 630, loss: 1.4525667428970337
+
+Epoch: 15, iteration: 640, loss: 4.500094413757324
+
+Epoch: 15, iteration: 650, loss: 2.2032153606414795
+
+Epoch: 15, iteration: 660, loss: 3.3021342754364014
+
+Epoch: 15, iteration: 670, loss: 2.6151859760284424
+
+Epoch: 15, iteration: 680, loss: 3.3425309658050537
+
+Epoch: 15, iteration: 690, loss: 1.2101722955703735
+
+Epoch: 15, iteration: 700, loss: 4.233755111694336
+
+Epoch: 15, iteration: 710, loss: 6.010335445404053
+
+Epoch: 15, iteration: 720, loss: 1.461212158203125
+
+Epoch: 15, iteration: 730, loss: 1.8461575508117676
+
+Epoch: 15, iteration: 740, loss: 1.531408429145813
+
+Epoch: 15, iteration: 750, loss: 5.0503411293029785
+
+Epoch: 15, iteration: 760, loss: 4.011568546295166
+
+Epoch: 15, iteration: 770, loss: 5.4405131340026855
+
+Epoch: 15, iteration: 780, loss: 1.6423026323318481
+
+Epoch: 15, iteration: 790, loss: 2.8044216632843018
+
+Epoch: 15, iteration: 800, loss: 1.626499891281128
+
+Epoch: 15, iteration: 810, loss: 1.8514052629470825
+
+Epoch: 15, iteration: 820, loss: 5.109849452972412
+
+Epoch: 15, iteration: 830, loss: 2.6697139739990234
+
+Epoch: 15, iteration: 840, loss: 4.771998405456543
+
+Epoch: 15, iteration: 850, loss: 1.4563093185424805
+
+Epoch: 15, iteration: 860, loss: 1.3102340698242188
+
+Epoch: 15, iteration: 870, loss: 4.195506572723389
+
+Epoch: 15, iteration: 880, loss: 1.5828142166137695
+
+Epoch: 15, iteration: 890, loss: 4.05594539642334
+
+Epoch: 15, iteration: 900, loss: 0.8280718326568604
+
+Epoch: 15, iteration: 910, loss: 1.5261489152908325
+
+Epoch: 15, iteration: 920, loss: 2.1290054321289062
+
+Epoch: 15, iteration: 930, loss: 8.925509452819824
+
+Epoch: 15, iteration: 940, loss: 1.9333555698394775
+
+Epoch: 15, iteration: 950, loss: 1.9856572151184082
+
+Epoch: 15, iteration: 960, loss: 4.0380353927612305
+
+Epoch: 15, iteration: 970, loss: 2.0797197818756104
+
+Epoch: 15, iteration: 980, loss: 2.110098123550415
+
+Epoch: 15, iteration: 990, loss: 2.720580577850342
+
+Epoch: 15, iteration: 1000, loss: 1.2821846008300781
+
+Epoch: 15, iteration: 1010, loss: 1.210689902305603
+
+Epoch: 15, iteration: 1020, loss: 2.252582550048828
+
+Epoch: 15, iteration: 1030, loss: 2.675044059753418
+
+Epoch: 15, iteration: 1040, loss: 1.5837287902832031
+
+Epoch: 15, iteration: 1050, loss: 3.1760454177856445
+
+Epoch: 15, iteration: 1060, loss: 1.959355115890503
+
+Epoch: 15, iteration: 1070, loss: 4.908029556274414
+
+Epoch: 15, iteration: 1080, loss: 2.674105405807495
+
+Epoch: 15, iteration: 1090, loss: 2.1988232135772705
+
+Epoch: 15, iteration: 1100, loss: 2.410130023956299
+
+100%|██████████| 158/158 [00:49<00:00,  3.16it/s]
+100%|██████████| 105/105 [00:00<00:00, 1292.76it/s]
+====================================================================================================
+Epoch: 15, val_loss: 1.7029254712755717
+ acc_val_0: 0.33555559744228236
+ acc_val_1: 0.5372371344957
+ acc_val_2: 0.7837122636566661
+ acc_val_3: 1.4175644419137596
+
+====================================================================================================
+iteration started
+ 14%|█▎        | 150/1106 [01:35<10:03,  1.58it/s]
+Epoch: 16, iteration: 0, loss: 0.8549531102180481
+
+Epoch: 16, iteration: 10, loss: 2.566925048828125
+
+Epoch: 16, iteration: 20, loss: 1.7989451885223389
+
+Epoch: 16, iteration: 30, loss: 2.5082943439483643
+
+Epoch: 16, iteration: 40, loss: 1.8322709798812866
+
+Epoch: 16, iteration: 50, loss: 4.085349082946777
+
+Epoch: 16, iteration: 60, loss: 1.2991507053375244
+
+Epoch: 16, iteration: 70, loss: 2.652822971343994
+
+Epoch: 16, iteration: 80, loss: 4.184305191040039
+
+Epoch: 16, iteration: 90, loss: 1.6895644664764404
+
+Epoch: 16, iteration: 100, loss: 3.303168296813965
+
+Epoch: 16, iteration: 110, loss: 3.363950252532959
+
+Epoch: 16, iteration: 120, loss: 1.6418319940567017
+
+Epoch: 16, iteration: 130, loss: 1.383392572402954
+
+Epoch: 16, iteration: 140, loss: 2.629627227783203
+
+Epoch: 16, iteration: 150, loss: 1.8418184518814087
+
+Epoch: 16, iteration: 160, loss: 1.6939374208450317
+
+Epoch: 16, iteration: 170, loss: 4.798262596130371
+
+Epoch: 16, iteration: 180, loss: 3.9618282318115234
+
+Epoch: 16, iteration: 190, loss: 1.2141146659851074
+
+Epoch: 16, iteration: 200, loss: 0.8818138837814331
+
+Epoch: 16, iteration: 210, loss: 3.105883836746216
+
+Epoch: 16, iteration: 220, loss: 2.938166856765747
+
+Epoch: 16, iteration: 230, loss: 2.9828977584838867
+
+Epoch: 16, iteration: 240, loss: 3.216522693634033
+
+Epoch: 16, iteration: 250, loss: 0.6578532457351685
+
+Epoch: 16, iteration: 260, loss: 1.9547793865203857
+
+Epoch: 16, iteration: 270, loss: 11.314741134643555
+
+Epoch: 16, iteration: 280, loss: 2.6296050548553467
+
+Epoch: 16, iteration: 290, loss: 6.930107593536377
+
+Epoch: 16, iteration: 300, loss: 2.5404415130615234
+
+Epoch: 16, iteration: 310, loss: 4.432924747467041
+
+Epoch: 16, iteration: 320, loss: 6.152134418487549
+
+Epoch: 16, iteration: 330, loss: 1.1165539026260376
+
+Epoch: 16, iteration: 340, loss: 1.481381893157959
+
+Epoch: 16, iteration: 350, loss: 2.586662530899048
+
+Epoch: 16, iteration: 360, loss: 2.1137537956237793
+
+Epoch: 16, iteration: 370, loss: 1.357478141784668
+
+Epoch: 16, iteration: 380, loss: 2.7971956729888916
+
+Epoch: 16, iteration: 390, loss: 1.838304877281189
+
+Epoch: 16, iteration: 400, loss: 2.0511648654937744
+
+Epoch: 16, iteration: 410, loss: 3.1195640563964844
+
+Epoch: 16, iteration: 420, loss: 2.390225887298584
+
+Epoch: 16, iteration: 430, loss: 1.1943004131317139
+
+Epoch: 16, iteration: 440, loss: 2.7684476375579834
+
+Epoch: 16, iteration: 450, loss: 5.01870059967041
+
+Epoch: 16, iteration: 460, loss: 3.0767993927001953
+
+Epoch: 16, iteration: 470, loss: 1.0241509675979614
+
+Epoch: 16, iteration: 480, loss: 9.372108459472656
+
+Epoch: 16, iteration: 490, loss: 0.9576340913772583
+
+Epoch: 16, iteration: 500, loss: 3.4613912105560303
+
+Epoch: 16, iteration: 510, loss: 1.7604202032089233
+
+Epoch: 16, iteration: 520, loss: 2.8962466716766357
+
+Epoch: 16, iteration: 530, loss: 6.460028648376465
+
+Epoch: 16, iteration: 540, loss: 3.4746899604797363
+
+Epoch: 16, iteration: 550, loss: 2.5498850345611572
+
+Epoch: 16, iteration: 560, loss: 0.8562498092651367
+
+Epoch: 16, iteration: 570, loss: 7.17230749130249
+
+Epoch: 16, iteration: 580, loss: 1.1446930170059204
+
+Epoch: 16, iteration: 590, loss: 1.7775212526321411
+
+Epoch: 16, iteration: 600, loss: 1.5134780406951904
+
+Epoch: 16, iteration: 610, loss: 1.713716745376587
+
+Epoch: 16, iteration: 620, loss: 2.3388466835021973
+
+Epoch: 16, iteration: 630, loss: 1.012751579284668
+
+Epoch: 16, iteration: 640, loss: 4.131103515625
+
+Epoch: 16, iteration: 650, loss: 2.6396074295043945
+
+Epoch: 16, iteration: 660, loss: 3.3664212226867676
+
+Epoch: 16, iteration: 670, loss: 3.0220658779144287
+
+Epoch: 16, iteration: 680, loss: 1.959511399269104
+
+Epoch: 16, iteration: 690, loss: 4.735782623291016
+
+Epoch: 16, iteration: 700, loss: 2.768886089324951
+
+Epoch: 16, iteration: 710, loss: 3.503718376159668
+
+Epoch: 16, iteration: 720, loss: 1.579179048538208
+
+Epoch: 16, iteration: 730, loss: 8.288215637207031
+
+Epoch: 16, iteration: 740, loss: 2.9052679538726807
+
+Epoch: 16, iteration: 750, loss: 1.2909138202667236
+
+Epoch: 16, iteration: 760, loss: 5.609477519989014
+
+Epoch: 16, iteration: 770, loss: 1.856440782546997
+
+Epoch: 16, iteration: 780, loss: 9.778651237487793
+
+Epoch: 16, iteration: 790, loss: 6.037242412567139
+
+Epoch: 16, iteration: 800, loss: 6.155319690704346
+
+Epoch: 16, iteration: 810, loss: 12.40789794921875
+
+Epoch: 16, iteration: 820, loss: 1.735938549041748
+
+Epoch: 16, iteration: 830, loss: 1.3958547115325928
+
+Epoch: 16, iteration: 840, loss: 4.357582092285156
+
+Epoch: 16, iteration: 850, loss: 1.6771667003631592
+
+Epoch: 16, iteration: 860, loss: 1.6279664039611816
+
+Epoch: 16, iteration: 870, loss: 1.283774495124817
+
+Epoch: 16, iteration: 880, loss: 0.9061233997344971
+
+Epoch: 16, iteration: 890, loss: 0.8862485289573669
+
+Epoch: 16, iteration: 900, loss: 3.7572667598724365
+
+Epoch: 16, iteration: 910, loss: 5.674662113189697
+
+Epoch: 16, iteration: 920, loss: 1.2592664957046509
+
+Epoch: 16, iteration: 930, loss: 1.0938674211502075
+
+Epoch: 16, iteration: 940, loss: 3.3098185062408447
+
+Epoch: 16, iteration: 950, loss: 1.7433301210403442
+
+Epoch: 16, iteration: 960, loss: 2.8323311805725098
+
+Epoch: 16, iteration: 970, loss: 4.932967185974121
+
+Epoch: 16, iteration: 980, loss: 2.9227402210235596
+
+Epoch: 16, iteration: 990, loss: 1.5374635457992554
+
+Epoch: 16, iteration: 1000, loss: 3.331677198410034
+
+Epoch: 16, iteration: 1010, loss: 1.6598221063613892
+
+Epoch: 16, iteration: 1020, loss: 3.1244895458221436
+
+Epoch: 16, iteration: 1030, loss: 4.8547539710998535
+
+Epoch: 16, iteration: 1040, loss: 2.1704015731811523
+
+Epoch: 16, iteration: 1050, loss: 2.042559862136841
+
+Epoch: 16, iteration: 1060, loss: 5.826579570770264
+
+Epoch: 16, iteration: 1070, loss: 4.444355010986328
+
+Epoch: 16, iteration: 1080, loss: 2.4651637077331543
+
+Epoch: 16, iteration: 1090, loss: 5.338478088378906
+
+Epoch: 16, iteration: 1100, loss: 4.405261993408203
+
+100%|██████████| 158/158 [00:49<00:00,  3.21it/s]
+100%|██████████| 105/105 [00:00<00:00, 1258.90it/s]
+====================================================================================================
+Epoch: 16, val_loss: 1.8527486329986935
+ acc_val_0: 0.30881821880224947
+ acc_val_1: 0.6121639539727849
+ acc_val_2: 0.866219757493308
+ acc_val_3: 1.5117780981380724
+
+====================================================================================================
+iteration started
+ 14%|█▎        | 150/1106 [01:34<09:59,  1.60it/s]
+Epoch: 17, iteration: 0, loss: 1.3221924304962158
+
+Epoch: 17, iteration: 10, loss: 2.5187127590179443
+
+Epoch: 17, iteration: 20, loss: 4.369683265686035
+
+Epoch: 17, iteration: 30, loss: 2.2044429779052734
+
+Epoch: 17, iteration: 40, loss: 1.3425111770629883
+
+Epoch: 17, iteration: 50, loss: 4.077507972717285
+
+Epoch: 17, iteration: 60, loss: 2.5013346672058105
+
+Epoch: 17, iteration: 70, loss: 1.8444513082504272
+
+Epoch: 17, iteration: 80, loss: 1.8361049890518188
+
+Epoch: 17, iteration: 90, loss: 3.957001209259033
+
+Epoch: 17, iteration: 100, loss: 7.812258243560791
+
+Epoch: 17, iteration: 110, loss: 2.680225372314453
+
+Epoch: 17, iteration: 120, loss: 3.4578824043273926
+
+Epoch: 17, iteration: 130, loss: 4.7550950050354
+
+Epoch: 17, iteration: 140, loss: 1.487440824508667
+
+Epoch: 17, iteration: 150, loss: 1.1704777479171753
+
+Epoch: 17, iteration: 160, loss: 1.3531358242034912
+
+Epoch: 17, iteration: 170, loss: 2.858018159866333
+
+Epoch: 17, iteration: 180, loss: 1.240155577659607
+
+Epoch: 17, iteration: 190, loss: 3.1506853103637695
+
+Epoch: 17, iteration: 200, loss: 3.790304660797119
+
+Epoch: 17, iteration: 210, loss: 1.6789782047271729
+
+Epoch: 17, iteration: 220, loss: 4.064559459686279
+
+Epoch: 17, iteration: 230, loss: 2.759390115737915
+
+Epoch: 17, iteration: 240, loss: 1.926757574081421
+
+Epoch: 17, iteration: 250, loss: 2.9700841903686523
+
+Epoch: 17, iteration: 260, loss: 3.4010629653930664
+
+Epoch: 17, iteration: 270, loss: 4.811792373657227
+
+Epoch: 17, iteration: 280, loss: 3.227313995361328
+
+Epoch: 17, iteration: 290, loss: 4.19269323348999
+
+Epoch: 17, iteration: 300, loss: 3.0800161361694336
+
+Epoch: 17, iteration: 310, loss: 1.066329836845398
+
+Epoch: 17, iteration: 320, loss: 2.0599076747894287
+
+Epoch: 17, iteration: 330, loss: 1.6066752672195435
+
+Epoch: 17, iteration: 340, loss: 1.5883525609970093
+
+Epoch: 17, iteration: 350, loss: 0.7474276423454285
+
+Epoch: 17, iteration: 360, loss: 4.647352695465088
+
+Epoch: 17, iteration: 370, loss: 0.9376181960105896
+
+Epoch: 17, iteration: 380, loss: 4.254724979400635
+
+Epoch: 17, iteration: 390, loss: 1.130644679069519
+
+Epoch: 17, iteration: 400, loss: 4.424458980560303
+
+Epoch: 17, iteration: 410, loss: 2.2025909423828125
+
+Epoch: 17, iteration: 420, loss: 1.2892353534698486
+
+Epoch: 17, iteration: 430, loss: 2.7286953926086426
+
+Epoch: 17, iteration: 440, loss: 0.9807883501052856
+
+Epoch: 17, iteration: 450, loss: 2.716362953186035
+
+Epoch: 17, iteration: 460, loss: 1.4369875192642212
+
+Epoch: 17, iteration: 470, loss: 1.5690155029296875
+
+Epoch: 17, iteration: 480, loss: 3.4037246704101562
+
+Epoch: 17, iteration: 490, loss: 4.017585754394531
+
+Epoch: 17, iteration: 500, loss: 1.5865604877471924
+
+Epoch: 17, iteration: 510, loss: 2.1452853679656982
+
+Epoch: 17, iteration: 520, loss: 2.2782890796661377
+
+Epoch: 17, iteration: 530, loss: 2.2162511348724365
+
+Epoch: 17, iteration: 540, loss: 1.7811192274093628
+
+Epoch: 17, iteration: 550, loss: 4.412162780761719
+
+Epoch: 17, iteration: 560, loss: 3.5290517807006836
+
+Epoch: 17, iteration: 570, loss: 1.4139695167541504
+
+Epoch: 17, iteration: 580, loss: 1.3869916200637817
+
+Epoch: 17, iteration: 590, loss: 6.010842323303223
+
+Epoch: 17, iteration: 600, loss: 1.8574512004852295
+
+Epoch: 17, iteration: 610, loss: 3.437224864959717
+
+Epoch: 17, iteration: 620, loss: 1.1061643362045288
+
+Epoch: 17, iteration: 630, loss: 1.488765001296997
+
+Epoch: 17, iteration: 640, loss: 4.635009288787842
+
+Epoch: 17, iteration: 650, loss: 4.314926624298096
+
+Epoch: 17, iteration: 660, loss: 1.3628507852554321
+
+Epoch: 17, iteration: 670, loss: 2.021655559539795
+
+Epoch: 17, iteration: 680, loss: 6.726895809173584
+
+Epoch: 17, iteration: 690, loss: 2.3870983123779297
+
+Epoch: 17, iteration: 700, loss: 1.3079978227615356
+
+Epoch: 17, iteration: 710, loss: 1.0943272113800049
+
+Epoch: 17, iteration: 720, loss: 2.105623722076416
+
+Epoch: 17, iteration: 730, loss: 1.2184298038482666
+
+Epoch: 17, iteration: 740, loss: 2.110337495803833
+
+Epoch: 17, iteration: 750, loss: 0.8219119310379028
+
+Epoch: 17, iteration: 760, loss: 1.5115994215011597
+
+Epoch: 17, iteration: 770, loss: 2.6004016399383545
+
+Epoch: 17, iteration: 780, loss: 0.5288073420524597
+
+Epoch: 17, iteration: 790, loss: 2.0801198482513428
+
+Epoch: 17, iteration: 800, loss: 3.3049495220184326
+
+Epoch: 17, iteration: 810, loss: 0.9288980960845947
+
+Epoch: 17, iteration: 820, loss: 4.120147228240967
+
+Epoch: 17, iteration: 830, loss: 2.7319753170013428
+
+Epoch: 17, iteration: 840, loss: 1.5602030754089355
+
+Epoch: 17, iteration: 850, loss: 2.326395034790039
+
+Epoch: 17, iteration: 860, loss: 1.801026701927185
+
+Epoch: 17, iteration: 870, loss: 3.5918142795562744
+
+Epoch: 17, iteration: 880, loss: 1.199948787689209
+
+Epoch: 17, iteration: 890, loss: 1.5533229112625122
+
+Epoch: 17, iteration: 900, loss: 6.063653469085693
+
+Epoch: 17, iteration: 910, loss: 2.357003927230835
+
+Epoch: 17, iteration: 920, loss: 2.206327438354492
+
+Epoch: 17, iteration: 930, loss: 3.610116958618164
+
+Epoch: 17, iteration: 940, loss: 1.2159242630004883
+
+Epoch: 17, iteration: 950, loss: 1.8037136793136597
+
+Epoch: 17, iteration: 960, loss: 2.4667513370513916
+
+Epoch: 17, iteration: 970, loss: 0.8081544637680054
+
+Epoch: 17, iteration: 980, loss: 2.105512857437134
+
+Epoch: 17, iteration: 990, loss: 2.1172502040863037
+
+Epoch: 17, iteration: 1000, loss: 1.571806788444519
+
+Epoch: 17, iteration: 1010, loss: 3.7149431705474854
+
+Epoch: 17, iteration: 1020, loss: 2.9282960891723633
+
+Epoch: 17, iteration: 1030, loss: 1.3681939840316772
+
+Epoch: 17, iteration: 1040, loss: 1.4465163946151733
+
+Epoch: 17, iteration: 1050, loss: 5.618591785430908
+
+Epoch: 17, iteration: 1060, loss: 6.480691432952881
+
+Epoch: 17, iteration: 1070, loss: 0.901120126247406
+
+Epoch: 17, iteration: 1080, loss: 8.049173355102539
+
+Epoch: 17, iteration: 1090, loss: 2.2502377033233643
+
+Epoch: 17, iteration: 1100, loss: 1.8368442058563232
+
+100%|██████████| 158/158 [00:48<00:00,  3.26it/s]
+100%|██████████| 105/105 [00:00<00:00, 1302.84it/s]
+====================================================================================================
+Epoch: 17, val_loss: 1.6213629298739962
+ acc_val_0: 0.33489144581417496
+ acc_val_1: 0.5143705674747623
+ acc_val_2: 0.7245074142555267
+ acc_val_3: 1.298322002910069
+
+====================================================================================================
+iteration started
+ 14%|█▎        | 150/1106 [01:34<09:57,  1.60it/s]
+Epoch: 18, iteration: 0, loss: 2.3332433700561523
+
+Epoch: 18, iteration: 10, loss: 4.776602268218994
+
+Epoch: 18, iteration: 20, loss: 3.2474894523620605
+
+Epoch: 18, iteration: 30, loss: 1.7063692808151245
+
+Epoch: 18, iteration: 40, loss: 4.1701884269714355
+
+Epoch: 18, iteration: 50, loss: 1.0598108768463135
+
+Epoch: 18, iteration: 60, loss: 2.110976219177246
+
+Epoch: 18, iteration: 70, loss: 1.1680582761764526
+
+Epoch: 18, iteration: 80, loss: 2.1900813579559326
+
+Epoch: 18, iteration: 90, loss: 3.2555532455444336
+
+Epoch: 18, iteration: 100, loss: 4.523946285247803
+
+Epoch: 18, iteration: 110, loss: 2.4579598903656006
+
+Epoch: 18, iteration: 120, loss: 1.4675027132034302
+
+Epoch: 18, iteration: 130, loss: 2.463067054748535
+
+Epoch: 18, iteration: 140, loss: 3.1865668296813965
+
+Epoch: 18, iteration: 150, loss: 2.357539176940918
+
+Epoch: 18, iteration: 160, loss: 1.283420205116272
+
+Epoch: 18, iteration: 170, loss: 2.9950456619262695
+
+Epoch: 18, iteration: 180, loss: 1.7902010679244995
+
+Epoch: 18, iteration: 190, loss: 2.6102137565612793
+
+Epoch: 18, iteration: 200, loss: 2.3401339054107666
+
+Epoch: 18, iteration: 210, loss: 3.8059780597686768
+
+Epoch: 18, iteration: 220, loss: 1.3987408876419067
+
+Epoch: 18, iteration: 230, loss: 3.8403403759002686
+
+Epoch: 18, iteration: 240, loss: 0.9267374277114868
+
+Epoch: 18, iteration: 250, loss: 1.4837478399276733
+
+Epoch: 18, iteration: 260, loss: 1.3935811519622803
+
+Epoch: 18, iteration: 270, loss: 1.0381340980529785
+
+Epoch: 18, iteration: 280, loss: 5.691744804382324
+
+Epoch: 18, iteration: 290, loss: 2.462155818939209
+
+Epoch: 18, iteration: 300, loss: 1.9193235635757446
+
+Epoch: 18, iteration: 310, loss: 8.490464210510254
+
+Epoch: 18, iteration: 320, loss: 2.734882116317749
+
+Epoch: 18, iteration: 330, loss: 2.414429187774658
+
+Epoch: 18, iteration: 340, loss: 0.9662560224533081
+
+Epoch: 18, iteration: 350, loss: 2.1699059009552
+
+Epoch: 18, iteration: 360, loss: 1.3828991651535034
+
+Epoch: 18, iteration: 370, loss: 8.216894149780273
+
+Epoch: 18, iteration: 380, loss: 2.132309675216675
+
+Epoch: 18, iteration: 390, loss: 1.4673326015472412
+
+Epoch: 18, iteration: 400, loss: 4.549409866333008
+
+Epoch: 18, iteration: 410, loss: 0.9184207320213318
+
+Epoch: 18, iteration: 420, loss: 2.512943744659424
+
+Epoch: 18, iteration: 430, loss: 5.737072467803955
+
+Epoch: 18, iteration: 440, loss: 2.4052958488464355
+
+Epoch: 18, iteration: 450, loss: 6.226877212524414
+
+Epoch: 18, iteration: 460, loss: 1.915928602218628
+
+Epoch: 18, iteration: 470, loss: 0.9331139922142029
+
+Epoch: 18, iteration: 480, loss: 10.474350929260254
+
+Epoch: 18, iteration: 490, loss: 1.8897680044174194
+
+Epoch: 18, iteration: 500, loss: 2.67427134513855
+
+Epoch: 18, iteration: 510, loss: 1.8353632688522339
+
+Epoch: 18, iteration: 520, loss: 1.5009628534317017
+
+Epoch: 18, iteration: 530, loss: 5.944434642791748
+
+Epoch: 18, iteration: 540, loss: 1.011311650276184
+
+Epoch: 18, iteration: 550, loss: 1.075991153717041
+
+Epoch: 18, iteration: 560, loss: 2.2531685829162598
+
+Epoch: 18, iteration: 570, loss: 2.607956647872925
+
+Epoch: 18, iteration: 580, loss: 2.769766330718994
+
+Epoch: 18, iteration: 590, loss: 3.0980658531188965
+
+Epoch: 18, iteration: 600, loss: 2.2824110984802246
+
+Epoch: 18, iteration: 610, loss: 1.1624000072479248
+
+Epoch: 18, iteration: 620, loss: 12.453635215759277
+
+Epoch: 18, iteration: 630, loss: 1.2004625797271729
+
+Epoch: 18, iteration: 640, loss: 5.178084850311279
+
+Epoch: 18, iteration: 650, loss: 3.4586501121520996
+
+Epoch: 18, iteration: 660, loss: 0.9933239221572876
+
+Epoch: 18, iteration: 670, loss: 2.5028090476989746
+
+Epoch: 18, iteration: 680, loss: 1.0267034769058228
+
+Epoch: 18, iteration: 690, loss: 1.6426783800125122
+
+Epoch: 18, iteration: 700, loss: 6.011462211608887
+
+Epoch: 18, iteration: 710, loss: 1.6736282110214233
+
+Epoch: 18, iteration: 720, loss: 1.9208159446716309
+
+Epoch: 18, iteration: 730, loss: 3.8688666820526123
+
+Epoch: 18, iteration: 740, loss: 1.1156179904937744
+
+Epoch: 18, iteration: 750, loss: 5.3127241134643555
+
+Epoch: 18, iteration: 760, loss: 0.9518538117408752
+
+Epoch: 18, iteration: 770, loss: 3.5648386478424072
+
+Epoch: 18, iteration: 780, loss: 0.7556657791137695
+
+Epoch: 18, iteration: 790, loss: 0.9359026551246643
+
+Epoch: 18, iteration: 800, loss: 3.1268444061279297
+
+Epoch: 18, iteration: 810, loss: 0.625868022441864
+
+Epoch: 18, iteration: 820, loss: 1.3037588596343994
+
+Epoch: 18, iteration: 830, loss: 5.513986587524414
+
+Epoch: 18, iteration: 840, loss: 2.1380059719085693
+
+Epoch: 18, iteration: 850, loss: 1.3513387441635132
+
+Epoch: 18, iteration: 860, loss: 3.2688913345336914
+
+Epoch: 18, iteration: 870, loss: 1.8981146812438965
+
+Epoch: 18, iteration: 880, loss: 1.5274147987365723
+
+Epoch: 18, iteration: 890, loss: 3.274566888809204
+
+Epoch: 18, iteration: 900, loss: 1.1662086248397827
+
+Epoch: 18, iteration: 910, loss: 1.5028252601623535
+
+Epoch: 18, iteration: 920, loss: 2.422290086746216
+
+Epoch: 18, iteration: 930, loss: 7.460824012756348
+
+Epoch: 18, iteration: 940, loss: 1.4386811256408691
+
+Epoch: 18, iteration: 950, loss: 4.39192008972168
+
+Epoch: 18, iteration: 960, loss: 9.770397186279297
+
+Epoch: 18, iteration: 970, loss: 1.795802116394043
+
+Epoch: 18, iteration: 980, loss: 2.574251890182495
+
+Epoch: 18, iteration: 990, loss: 0.5854426026344299
+
+Epoch: 18, iteration: 1000, loss: 1.9826003313064575
+
+Epoch: 18, iteration: 1010, loss: 2.020883321762085
+
+Epoch: 18, iteration: 1020, loss: 1.5834879875183105
+
+Epoch: 18, iteration: 1030, loss: 2.472750186920166
+
+Epoch: 18, iteration: 1040, loss: 4.479005336761475
+
+Epoch: 18, iteration: 1050, loss: 3.092271327972412
+
+Epoch: 18, iteration: 1060, loss: 2.137704372406006
+
+Epoch: 18, iteration: 1070, loss: 1.4573270082473755
+
+Epoch: 18, iteration: 1080, loss: 2.4491336345672607
+
+Epoch: 18, iteration: 1090, loss: 1.8516030311584473
+
+Epoch: 18, iteration: 1100, loss: 1.728701114654541
+
+100%|██████████| 158/158 [00:48<00:00,  3.26it/s]
+100%|██████████| 105/105 [00:00<00:00, 1322.83it/s]
+====================================================================================================
+Epoch: 18, val_loss: 1.2588502214068458
+ acc_val_0: 0.45474310081382463
+ acc_val_1: 0.44375416315472127
+ acc_val_2: 0.5572891402657335
+ acc_val_3: 1.0341159205543495
+
+====================================================================================================
+iteration started
+ 14%|█▎        | 150/1106 [01:34<10:01,  1.59it/s]
+Epoch: 19, iteration: 0, loss: 0.7659372091293335
+
+Epoch: 19, iteration: 10, loss: 2.273764133453369
+
+Epoch: 19, iteration: 20, loss: 6.2539753913879395
+
+Epoch: 19, iteration: 30, loss: 1.7290970087051392
+
+Epoch: 19, iteration: 40, loss: 1.5732029676437378
+
+Epoch: 19, iteration: 50, loss: 3.7353832721710205
+
+Epoch: 19, iteration: 60, loss: 1.775033712387085
+
+Epoch: 19, iteration: 70, loss: 4.123072624206543
+
+Epoch: 19, iteration: 80, loss: 0.7927504777908325
+
+Epoch: 19, iteration: 90, loss: 1.0149670839309692
+
+Epoch: 19, iteration: 100, loss: 1.573921799659729
+
+Epoch: 19, iteration: 110, loss: 1.483612298965454
+
+Epoch: 19, iteration: 120, loss: 1.2392940521240234
+
+Epoch: 19, iteration: 130, loss: 8.90369701385498
+
+Epoch: 19, iteration: 140, loss: 1.3782981634140015
+
+Epoch: 19, iteration: 150, loss: 6.249040126800537
+
+Epoch: 19, iteration: 160, loss: 3.4836015701293945
+
+Epoch: 19, iteration: 170, loss: 1.1673176288604736
+
+Epoch: 19, iteration: 180, loss: 3.4431650638580322
+
+Epoch: 19, iteration: 190, loss: 1.05635404586792
+
+Epoch: 19, iteration: 200, loss: 2.4250760078430176
+
+Epoch: 19, iteration: 210, loss: 1.2609672546386719
+
+Epoch: 19, iteration: 220, loss: 1.8520746231079102
+
+Epoch: 19, iteration: 230, loss: 2.363468885421753
+
+Epoch: 19, iteration: 240, loss: 6.195937156677246
+
+Epoch: 19, iteration: 250, loss: 1.3750975131988525
+
+Epoch: 19, iteration: 260, loss: 2.246030807495117
+
+Epoch: 19, iteration: 270, loss: 4.003630638122559
+
+Epoch: 19, iteration: 280, loss: 1.435463547706604
+
+Epoch: 19, iteration: 290, loss: 3.043639659881592
+
+Epoch: 19, iteration: 300, loss: 2.93967604637146
+
+Epoch: 19, iteration: 310, loss: 2.2475826740264893
+
+Epoch: 19, iteration: 320, loss: 0.6840812563896179
+
+Epoch: 19, iteration: 330, loss: 1.8666781187057495
+
+Epoch: 19, iteration: 340, loss: 1.9786721467971802
+
+Epoch: 19, iteration: 350, loss: 1.0256751775741577
+
+Epoch: 19, iteration: 360, loss: 1.5820374488830566
+
+Epoch: 19, iteration: 370, loss: 5.094886779785156
+
+Epoch: 19, iteration: 380, loss: 0.9878140091896057
+
+Epoch: 19, iteration: 390, loss: 11.150094032287598
+
+Epoch: 19, iteration: 400, loss: 1.7475014925003052
+
+Epoch: 19, iteration: 410, loss: 4.035575866699219
+
+Epoch: 19, iteration: 420, loss: 1.8992557525634766
+
+Epoch: 19, iteration: 430, loss: 1.0038601160049438
+
+Epoch: 19, iteration: 440, loss: 0.9603090286254883
+
+Epoch: 19, iteration: 450, loss: 1.4777840375900269
+
+Epoch: 19, iteration: 460, loss: 11.734492301940918
+
+Epoch: 19, iteration: 470, loss: 1.6364388465881348
+
+Epoch: 19, iteration: 480, loss: 1.6560269594192505
+
+Epoch: 19, iteration: 490, loss: 0.7520388960838318
+
+Epoch: 19, iteration: 500, loss: 0.6050933599472046
+
+Epoch: 19, iteration: 510, loss: 1.7857528924942017
+
+Epoch: 19, iteration: 520, loss: 1.3097378015518188
+
+Epoch: 19, iteration: 530, loss: 0.8311560153961182
+
+Epoch: 19, iteration: 540, loss: 5.147336006164551
+
+Epoch: 19, iteration: 550, loss: 1.8445757627487183
+
+Epoch: 19, iteration: 560, loss: 3.0705854892730713
+
+Epoch: 19, iteration: 570, loss: 1.8318812847137451
+
+Epoch: 19, iteration: 580, loss: 4.524609565734863
+
+Epoch: 19, iteration: 590, loss: 1.8095418214797974
+
+Epoch: 19, iteration: 600, loss: 2.4640135765075684
+
+Epoch: 19, iteration: 610, loss: 0.7450342178344727
+
+Epoch: 19, iteration: 620, loss: 2.242802381515503
+
+Epoch: 19, iteration: 630, loss: 0.8897727131843567
+
+Epoch: 19, iteration: 640, loss: 1.3302409648895264
+
+Epoch: 19, iteration: 650, loss: 0.8714266419410706
+
+Epoch: 19, iteration: 660, loss: 1.352644920349121
+
+Epoch: 19, iteration: 670, loss: 0.9401721358299255
+
+Epoch: 19, iteration: 680, loss: 4.222810745239258
+
+Epoch: 19, iteration: 690, loss: 2.6571953296661377
+
+Epoch: 19, iteration: 700, loss: 1.3460780382156372
+
+Epoch: 19, iteration: 710, loss: 1.7317500114440918
+
+Epoch: 19, iteration: 720, loss: 1.7308239936828613
+
+Epoch: 19, iteration: 730, loss: 5.291276931762695
+
+Epoch: 19, iteration: 740, loss: 12.74337387084961
+
+Epoch: 19, iteration: 750, loss: 1.503377914428711
+
+Epoch: 19, iteration: 760, loss: 2.8646223545074463
+
+Epoch: 19, iteration: 770, loss: 1.3583115339279175
+
+Epoch: 19, iteration: 780, loss: 0.7620577812194824
+
+Epoch: 19, iteration: 790, loss: 4.014094352722168
+
+Epoch: 19, iteration: 800, loss: 0.5625892281532288
+
+Epoch: 19, iteration: 810, loss: 3.0957486629486084
+
+Epoch: 19, iteration: 820, loss: 0.9673945903778076
+
+Epoch: 19, iteration: 830, loss: 2.5185863971710205
+
+Epoch: 19, iteration: 840, loss: 1.710060954093933
+
+Epoch: 19, iteration: 850, loss: 1.3653955459594727
+
+Epoch: 19, iteration: 860, loss: 0.8704788088798523
+
+Epoch: 19, iteration: 870, loss: 1.152430772781372
+
+Epoch: 19, iteration: 880, loss: 1.478189468383789
+
+Epoch: 19, iteration: 890, loss: 7.171932220458984
+
+Epoch: 19, iteration: 900, loss: 2.482468605041504
+
+Epoch: 19, iteration: 910, loss: 1.4280304908752441
+
+Epoch: 19, iteration: 920, loss: 1.7235718965530396
+
+Epoch: 19, iteration: 930, loss: 1.8353551626205444
+
+Epoch: 19, iteration: 940, loss: 1.217467188835144
+
+Epoch: 19, iteration: 950, loss: 2.5765347480773926
+
+Epoch: 19, iteration: 960, loss: 5.264962196350098
+
+Epoch: 19, iteration: 970, loss: 5.511263370513916
+
+Epoch: 19, iteration: 980, loss: 1.7663236856460571
+
+Epoch: 19, iteration: 990, loss: 4.07688045501709
+
+Epoch: 19, iteration: 1000, loss: 1.2455077171325684
+
+Epoch: 19, iteration: 1010, loss: 7.630184650421143
+
+Epoch: 19, iteration: 1020, loss: 1.9378570318222046
+
+Epoch: 19, iteration: 1030, loss: 1.2985424995422363
+
+Epoch: 19, iteration: 1040, loss: 1.6547352075576782
+
+Epoch: 19, iteration: 1050, loss: 5.7252092361450195
+
+Epoch: 19, iteration: 1060, loss: 2.116624593734741
+
+Epoch: 19, iteration: 1070, loss: 3.6823103427886963
+
+Epoch: 19, iteration: 1080, loss: 1.2525231838226318
+
+Epoch: 19, iteration: 1090, loss: 5.0896735191345215
+
+Epoch: 19, iteration: 1100, loss: 4.806429862976074
+
+100%|██████████| 158/158 [01:16<00:00,  2.07it/s]
+100%|██████████| 105/105 [00:00<00:00, 1215.80it/s]
+====================================================================================================
+Epoch: 19, val_loss: 1.4955269732172527
+ acc_val_0: 0.35162453053701936
+ acc_val_1: 0.548229926733207
+ acc_val_2: 0.7206144622092053
+ acc_val_3: 1.1916095093630856
+
+====================================================================================================
+100%|██████████| 158/158 [01:14<00:00,  2.12it/s]
+100%|██████████| 105/105 [00:00<00:00, 1419.30it/s]
+100%|██████████| 317/317 [01:44<00:00,  3.02it/s]
+100%|██████████| 211/211 [00:00<00:00, 1264.23it/s]

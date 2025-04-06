@@ -1,0 +1,16 @@
+{"time":"2025-03-31T23:07:57.90412086-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_regression/wandb/run-20250331_230757-tyunsdeg/logs/debug-core.log"}
+{"time":"2025-03-31T23:07:58.010121282-04:00","level":"INFO","msg":"created new stream","id":"tyunsdeg"}
+{"time":"2025-03-31T23:07:58.010152362-04:00","level":"INFO","msg":"stream: started","id":"tyunsdeg"}
+{"time":"2025-03-31T23:07:58.010172798-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"tyunsdeg"}
+{"time":"2025-03-31T23:07:58.010170883-04:00","level":"INFO","msg":"handler: started","stream_id":"tyunsdeg"}
+{"time":"2025-03-31T23:07:58.010219829-04:00","level":"INFO","msg":"sender: started","stream_id":"tyunsdeg"}
+{"time":"2025-03-31T23:07:58.201936401-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-01T01:16:51.473307017-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-01T01:16:51.474167477-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-01T01:16:51.882283856-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-01T01:16:51.99029176-04:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-04-01T01:16:51.993977938-04:00","level":"INFO","msg":"stream: closing","id":"tyunsdeg"}
+{"time":"2025-04-01T01:16:51.993999107-04:00","level":"INFO","msg":"handler: closed","stream_id":"tyunsdeg"}
+{"time":"2025-04-01T01:16:51.994009735-04:00","level":"INFO","msg":"sender: closed","stream_id":"tyunsdeg"}
+{"time":"2025-04-01T01:16:51.994006636-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"tyunsdeg"}
+{"time":"2025-04-01T01:16:51.994556449-04:00","level":"INFO","msg":"stream: closed","id":"tyunsdeg"}

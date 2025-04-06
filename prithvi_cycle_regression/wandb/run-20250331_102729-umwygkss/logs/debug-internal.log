@@ -1,0 +1,8 @@
+{"time":"2025-03-31T10:27:29.587885136-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_reg/wandb/run-20250331_102729-umwygkss/logs/debug-core.log"}
+{"time":"2025-03-31T10:27:29.858445356-04:00","level":"INFO","msg":"created new stream","id":"umwygkss"}
+{"time":"2025-03-31T10:27:29.858463829-04:00","level":"INFO","msg":"stream: started","id":"umwygkss"}
+{"time":"2025-03-31T10:27:29.858470189-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"umwygkss"}
+{"time":"2025-03-31T10:27:29.85847745-04:00","level":"INFO","msg":"handler: started","stream_id":"umwygkss"}
+{"time":"2025-03-31T10:27:29.858488402-04:00","level":"INFO","msg":"sender: started","stream_id":"umwygkss"}
+{"time":"2025-03-31T10:27:30.492741771-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-31T10:27:31.436993278-04:00","level":"INFO","msg":"api: retrying HTTP error","status":503,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"The service is currently unavailable. Please try again later.\",\"path\":[\"createArtifact\"]}],\"data\":{\"createArtifact\":null}}"}

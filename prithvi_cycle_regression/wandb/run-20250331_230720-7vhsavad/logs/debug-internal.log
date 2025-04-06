@@ -1,0 +1,16 @@
+{"time":"2025-03-31T23:07:20.725363832-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/projectnb/ivc-ml/mqraitem/geo/Prithvi-Global-downstream/prithvi_cycle_regression/wandb/run-20250331_230720-7vhsavad/logs/debug-core.log"}
+{"time":"2025-03-31T23:07:20.837039416-04:00","level":"INFO","msg":"created new stream","id":"7vhsavad"}
+{"time":"2025-03-31T23:07:20.83706455-04:00","level":"INFO","msg":"stream: started","id":"7vhsavad"}
+{"time":"2025-03-31T23:07:20.83707339-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"7vhsavad"}
+{"time":"2025-03-31T23:07:20.83708181-04:00","level":"INFO","msg":"sender: started","stream_id":"7vhsavad"}
+{"time":"2025-03-31T23:07:20.837084485-04:00","level":"INFO","msg":"handler: started","stream_id":"7vhsavad"}
+{"time":"2025-03-31T23:07:21.00955561-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-01T00:17:38.448834418-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-01T00:17:38.449640677-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-01T00:17:38.87296992-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-01T00:17:38.990240268-04:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-04-01T00:17:38.993950753-04:00","level":"INFO","msg":"stream: closing","id":"7vhsavad"}
+{"time":"2025-04-01T00:17:38.99395964-04:00","level":"INFO","msg":"handler: closed","stream_id":"7vhsavad"}
+{"time":"2025-04-01T00:17:38.993963983-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"7vhsavad"}
+{"time":"2025-04-01T00:17:38.993968314-04:00","level":"INFO","msg":"sender: closed","stream_id":"7vhsavad"}
+{"time":"2025-04-01T00:17:38.99438994-04:00","level":"INFO","msg":"stream: closed","id":"7vhsavad"}
