@@ -29,7 +29,7 @@
    "training":{
       "shuffle": true,
       "batch_size":8, 
-      n_iteration: 50,
+      n_iteration: 25,
       checkpoint_dir: "/usr4/cs505/mqraitem/ivc-ml/geo/checkpoints/distance",
    },
    "validation":{

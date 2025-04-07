@@ -10,7 +10,10 @@ from PIL import Image
 import pickle
 from tqdm import tqdm
 
-from utils import str2bool
+import sys
+sys.path.append("../")
+from utils import data_path,str2bool,filter_to_last_month
+
 from data_load_prithvi_cycle import load_raster,preprocess_image,cycle_dataset
 import pandas as pd
 from matplotlib import pyplot as plt
@@ -22,77 +25,6 @@ from data_load_prithvi_cycle import cycle_dataset
 
 ################################## useful class and functions ##################################################
 
-# ['Southeast', 'Mex_Drylands', 'West', 'North_Pacific', 'Central_America', 'Northeast', 'Boreal', 'Great_Plains', 'Alaska'] 
-
-def data_path(mode, data_dir, region="Northeast"): 
-
-	checkpoint_data = f"/usr4/cs505/mqraitem/ivc-ml/geo/Prithvi-data/{region}/"
-	if os.path.exists(f'{checkpoint_data}/data_pths_{mode}.pkl'):
-		with open(f'{checkpoint_data}/data_pths_{mode}.pkl', 'rb') as f:
-			data_dir = pickle.load(f)
-		return data_dir
-
-	hls_path = f"{data_dir}/HLS_composites/{region}"
-	lsp_path = f"{data_dir}/LSP_vars/{region}"
-
-	hls_tiles = [x for x in os.listdir(hls_path) if x.endswith('.tif')]
-	lsp_tiles = [x for x in os.listdir(lsp_path) if x.endswith('.tif')]
-
-
-	with open(f"{data_dir}/HLS_composites/{region}/selected_months.csv", "r") as f:
-		selected_months = f.read().split("\n")	
-
-	selected_months = [x for x in selected_months if x != ""]
-	print(region)
-	timesteps = [f"2018-{x}" for x in selected_months]	
-
-	title_hls = ['_'.join(x.split('_')[3:5]) for x in hls_tiles]
-	title_hls = list(set(title_hls))
-
-	hls_tiles_time = [] 
-	lsp_tiles_time = []
-
-	for t in tqdm(title_hls):
-
-		temp_ordered = [] 
-		for timestep in timesteps:
-			if f"HLS_composite_{timestep}_{t}" in hls_tiles:
-				temp_ordered.append(f"{hls_path}/HLS_composite_{timestep}_{t}")
-
-		if len(temp_ordered) != len(timesteps):
-			continue
-			
-		#get the corresponding tile in lsp_tiles
-		temp_lsp = f"{lsp_path}/{t}" if t in lsp_tiles else None
-		
-		if len(temp_ordered) == len(timesteps) and temp_lsp:
-			hls_tiles_time.append(temp_ordered)
-			lsp_tiles_time.append(temp_lsp)
-
-	data_dir = [(x, y) for (x,y) in zip(hls_tiles_time, lsp_tiles_time)]
-	 
-	data_dir_train = data_dir[:int(0.7*len(data_dir))]
-	data_dir_val = data_dir[int(0.7*len(data_dir)):int(0.8*len(data_dir))]
-	data_dir_test = data_dir[int(0.8*len(data_dir)):]
-
-
-	os.makedirs(checkpoint_data, exist_ok=True)
-	with open(f'{checkpoint_data}/data_pths_training.pkl', 'wb') as f:
-		pickle.dump(data_dir_train, f)
-	
-	with open(f'{checkpoint_data}/data_pths_validation.pkl', 'wb') as f:
-		pickle.dump(data_dir_val, f)
-	
-	with open(f'{checkpoint_data}/data_pths_testing.pkl', 'wb') as f:
-		pickle.dump(data_dir_test, f)
-
-	if mode == 'training':	
-		return data_dir_train
-	elif mode == 'validation':
-		return data_dir_val
-	else:
-		return data_dir_test
-	
 
 def segmentation_loss(mask, pred, device, class_weights=None, ignore_index=-1):
 	mask = mask.float()  # Convert mask to float for regression loss
@@ -185,6 +117,12 @@ def eval_data_loader(data_loader,model, device):
 	return epoch_loss_val, acc_dataset_val, total_correct, total_labels, total_predicted
 
 
+def compute_acc_if_median(total_labels, median=None): 
+	median = np.median(total_labels) if median is None else median
+	error = np.abs(total_labels - median)
+
+	return np.mean(error), median
+
 def main():
 
 	# Parse the arguments
@@ -194,7 +132,7 @@ def main():
 	parser.add_argument("--logging", type=str2bool, default=False, help="Whether to log the results or not")
 	parser.add_argument("--class_weights", type=str2bool, default=False, help="Whether to use class weights or not")
 	#model_size
-	parser.add_argument("--model_size", type=str, default="600m", help="Model size to use")
+	parser.add_argument("--model_size", type=str, default="300m", help="Model size to use")
 	parser.add_argument("--load_checkpoint", type=str2bool, default=False, help="Whether to load checkpoint or not")
 	args = parser.parse_args()
 
@@ -210,7 +148,7 @@ def main():
 
 	model_paths_to_name = { 
 		# None: "Random Init",
-		"/usr4/cs505/mqraitem/ivc-ml/geo/Prithvi-data-reg/Northeast/regression_freeze-False_modelsize-600m_loadcheckpoint-True/learningrate-0.001_freeze-False_classweights-False_model_size-600m_load_checkpoint-True.pth": "Pretrained->Fine-tuned",
+		"/usr4/cs505/mqraitem/ivc-ml/geo/checkpoints/regression/Northeast/regression_freeze-False_modelsize-300m_loadcheckpoint-True/0.01.pth": "Pretrained->Fine-tuned",
 		# "/usr4/cs505/mqraitem/ivc-ml/geo/Prithvi-data-reg/Northeast/regression_freeze-False_modelsize-600m_loadcheckpoint-False/learningrate-0.001_freeze-False_classweights-False_model_size-600m_load_checkpoint-False.pth": "Random Init->Fine-tuned",
 	}
 
@@ -228,13 +166,16 @@ def main():
 		all_acc_checkpoint = []
 		for region in regions: 
 
-			path_val=data_path("validation",config["data_dir"],region)
-			path_test=data_path("testing",config["data_dir"],region)
-			
+			path_train = filter_to_last_month(data_path("training",config["data_dir"]), config["data_dir"], region)
+			path_val=filter_to_last_month(data_path("validation",config["data_dir"]), config["data_dir"], region)
+			path_test=filter_to_last_month(data_path("testing",config["data_dir"]), config["data_dir"], region)
+					
 			cycle_dataset_val=cycle_dataset(path_val,split="val")
 			cycle_dataset_test=cycle_dataset(path_test,split="test")
+			cycle_dataset_train=cycle_dataset(path_train,split="train")
 
 
+			train_dataloader=DataLoader(cycle_dataset_train,batch_size=config["training"]["batch_size"],shuffle=config["training"]["shuffle"],num_workers=2)
 			val_dataloader=DataLoader(cycle_dataset_val,batch_size=config["validation"]["batch_size"],shuffle=config["validation"]["shuffle"],num_workers=2)
 			test_dataloader=DataLoader(cycle_dataset_test,batch_size=config["test"]["batch_size"],shuffle=config["validation"]["shuffle"],num_workers=2)
 
@@ -248,37 +189,58 @@ def main():
 				model.load_state_dict(torch.load(checkpoint)["model_state_dict"])
 
 			# epoch_loss_val, acc_dataset_val, total_correct_val, total_labels_val, total_predicted_val = eval_data_loader(val_dataloader, model, device)
-			epoch_loss_test, acc_dataset_test, total_correct_test, total_labels_test, total_predicted_test = eval_data_loader(test_dataloader, model, device)
+			
+			# epoch_loss_train, acc_dataset_train, total_errors_train, total_labels_train, total_predicted_train = eval_data_loader(train_dataloader, model, device)
+			epoch_loss_test, acc_dataset_test, total_errors_test, total_labels_test, total_predicted_test = eval_data_loader(test_dataloader, model, device)
 
 			print(f"Region: {region}")
 			print(f"Test avg acc: {np.mean(list(acc_dataset_test.values()))}")	
+			# print(np.median(np.concatenate(total_labels_test[0])))
+
 
 			for idx in range(4): 
-				
-				total_correct_test_idx = np.concatenate(total_correct_test[idx])
+
+				total_errors_test_idx = np.concatenate(total_errors_test[idx])
 				total_labels_test_idx = np.concatenate(total_labels_test[idx])
 				total_predicted_test_idx = np.concatenate(total_predicted_test[idx])
 
-				print(total_labels_test_idx.shape)
-				print(total_predicted_test_idx.shape)
+				# _, median_train = compute_acc_if_median(np.concatenate(total_labels_train[idx]))
+				# acc_median, _ = compute_acc_if_median(np.concatenate(total_labels_test[idx]), median_train)
 
-				plt.hist(total_labels_test_idx, bins=100, alpha=0.5, label=f"Labels {idx}")
-				plt.hist(total_predicted_test_idx, bins=50, alpha=0.5, label=f"Predicted {idx}")
+				# print("Acc if median: ", acc_median)
+				# print("Model Acc:", acc_dataset_test[idx])
+				# print("="*10)
+
+
+
+				# print(total_labels_test_lidx.shape)
+				# print(total_predicted_test_idx.shape)
+
+				plt.hist(total_labels_test_idx, bins=10, alpha=0.5, label=f"Ground Truth", edgecolor='black', linewidth=1.2)
+				plt.hist(total_predicted_test_idx, bins=10, alpha=0.5, label=f"Predicted Values", edgecolor='black', linewidth=1.2)
+				#draw vertical line around min labels and max labels
+				plt.axvline(x=np.min(total_labels_test_idx), color='r', linestyle='--', label="Min Labels")
+				plt.axvline(x=np.max(total_labels_test_idx), color='g', linestyle='--', label="Max Labels")
+
+				#increase font size
+				plt.xticks(fontsize=18)
+				plt.yticks(fontsize=18)
+				#increaset the x axis title font size
+				plt.xlabel("Months", fontsize=18)
+				plt.ylabel("Frequency", fontsize=18)
+				plt.title(f"{region} for date: {idx}", fontsize=20)
 
 				plt.legend()
-				plt.xlabel("Months")
-				plt.ylabel("Frequency")
-
-				plt.savefig(f"plots/{region}_test_hist_{idx}.png")
+				plt.savefig(f"plots/{region}_test_hist_{idx}.png", bbox_inches='tight')
 				plt.clf()
 
 
-				plt.hist(total_correct_test_idx, bins=100, alpha=0.5, label=f"Errors {idx}")
+				plt.hist(total_errors_test_idx, bins=10, alpha=0.5, label=f"Errors {idx}", edgecolor='black', linewidth=1.2)
 				plt.legend() 
 				plt.xlabel("Months")
 				plt.ylabel("Frequency")
 
-				plt.savefig(f"plots/{region}_test_hist_errors_{idx}.png")
+				plt.savefig(f"plots/{region}_test_hist_errors_{idx}.png", bbox_inches='tight')
 				plt.clf()
 
 				

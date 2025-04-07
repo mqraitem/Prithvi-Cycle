@@ -174,7 +174,7 @@ def main():
 	optimizer = AdamW(model.parameters(), lr=args.learning_rate, weight_decay=1e-4)
 	scheduler = ReduceLROnPlateau(optimizer, mode='min', factor=0.9, patience=5, verbose=True)
 
-	best_acc_val=0
+	best_acc_val=100
 	for epoch in range(config["training"]["n_iteration"]):
 
 		loss_i=0.0
@@ -232,7 +232,7 @@ def main():
 		scheduler.step(epoch_loss_val)
 		acc_dataset_val_mean = np.mean(list(acc_dataset_val.values()))
 
-		if acc_dataset_val_mean>best_acc_val:
+		if acc_dataset_val_mean<best_acc_val:
 			save_checkpoint(model, optimizer, epoch, epoch_loss_train, epoch_loss_val, checkpoint)
 			best_acc_val=acc_dataset_val_mean
 

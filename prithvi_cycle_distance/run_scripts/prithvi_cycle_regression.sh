@@ -5,7 +5,7 @@
 #$ -l gpus=1
 #$ -pe omp 6
 #$ -j y
-#$ -l h_rt=18:00:00
+#$ -l h_rt=24:00:00
 #$ -l gpu_memory=48G
 
 export PATH=/projectnb/ivc-ml/mqraitem/miniconda3/bin:$PATH
